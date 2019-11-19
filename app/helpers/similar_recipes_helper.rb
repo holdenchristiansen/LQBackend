@@ -1,0 +1,2 @@
+module SimilarRecipesHelper
+end

@@ -1,0 +1,31 @@
+<!-- p id="notice"><%= notice %></p-->
+
+
+<div class="title col-xs-12">
+  <h1>CATEGORIES</h1>
+  <div class="col-xs-12 links">
+    <%= link_to 'New Category', new_category_path%>
+  </div>  
+</div>
+
+<div class="col-xs-12">
+    <div class="row">
+      <% @categories.each do |category| %>
+      <div class="col-xs-4">
+        <h3> <%= category.name %></h3>
+        <p><%= link_to 'Edit', edit_category_path(category) %> - <%= link_to 'Delete', category, method: :delete, data: { confirm: 'Are you sure?' } %></p>
+      </div>
+      <% end %>
+  </div>
+
+  <div class="pagination col-xs-12">
+    <%= will_paginate(@glasses) %>
+  </div>
+
+<%= form_tag categories_path, :method => :get do %>
+  <%= content_tag :label do %>
+    Search name:
+    <%= text_field_tag :q, params[:q] %>
+    <%= hidden_field_tag :page, 1 %>
+  <% end %>
+<% end %>

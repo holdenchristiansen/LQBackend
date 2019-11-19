@@ -1,0 +1,31 @@
+<!--p id="notice"><%= notice %></p-->
+
+<div class="title col-xs-12">
+  <h1>RECIPES</h1>
+  <div class="col-xs-12 links">
+    <%= link_to 'New Recipe', new_recipe_path %>
+  </div>
+  
+</div>
+
+<div class="col-xs-12">
+  <div class="row">
+      <% @recipes.each do |recipe| %>
+      <div class="col-xs-4">
+        <h3><%= link_to  recipe.name, recipe %></h3>
+      </div>
+      <% end %>
+  </div>
+
+
+<div class="pagination col-xs-12">
+  <%= will_paginate(@recipes) %>
+</div>
+
+<%= form_tag recipes_path, :method => :get do %>
+  <%= content_tag :label do %>
+    Search name:
+    <%= text_field_tag :q, params[:q] %>
+    <%= hidden_field_tag :page, 1 %>
+  <% end %>
+<% end %>

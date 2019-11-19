@@ -1,0 +1,55 @@
+<div class="col-xs-12">
+  <div class="form-center">
+    <%= form_for @list, html: {class: "form-horizontal form-edit-recipe"} do |f| %>
+      <% if @list.errors.any? %>
+        <div id="error_explanation">
+          <h2><%= pluralize(@list.errors.count, "error") %> prohibited this list from being saved:</h2>
+
+          <ul>
+          <% @list.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+          <% end %>
+          </ul>
+        </div>
+      <% end %>
+
+        <div class="form-group">
+          <%= f.label :name, 'New Name:', class:'control-label col-xs-3'  %>
+          <div class="col-xs-9">
+            <%= f.text_field :name, class:'form-control'  %>
+          </div>
+        </div>
+
+
+        <div class="form-group">
+          <%= f.label :name, 'Image:', class:'control-label col-xs-3'  %>
+          <div class="col-xs-9">
+            <%= image_tag @list.image_url.url, :id =>'target', :size => '150x150', :align => 'left', :style => 'padding-top: 0px;' %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <%= f.label :name, 'Select Image:', class:'control-label col-xs-3', :style => 'padding-top: 0px;'  %>
+          <div class="col-xs-9">
+            <%= f.file_field :image_url, :id =>'pictureInput' %>
+          </div>
+        </div>
+
+
+
+        <div class="form-group">
+          <%= f.label :recipe_tokens, 'New Recipes:', class:'control-label col-xs-3'  %>
+          <div class="col-xs-9 list_tokens">
+            <%= f.text_field :recipe_tokens, class:'form-control', "data-pre" =>@list.recipes.map(&:attributes).to_json %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <div class="col-xs-12">
+              <%= f.submit :class => "btn btn-default" %>    
+              <%= link_to 'Back', lists_path, :class => "btn btn-default" %>
+            </div>
+        </div>
+    <% end %>    
+  </div>
+</div>

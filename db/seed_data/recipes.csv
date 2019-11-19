@@ -1,0 +1,991 @@
+id,alcoholic,drinkid,edited,favorite,issuggested,glass_id,information,instructions,name,notes
+1,1,881,{null},{null},{null},2,,"Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Decorate with slices of orange, lemon, and top with the cherry. Serve with a straw.",Whiskey Collins,{null}
+2,1,141,{null},{null},{null},14,,"Shake blackberry liqueur, lemon juice and simple syrup with ice, and strain into a highball glass filled with crushed ice. Stir until the glass begins to frost. Garnish with the berry marinade, and serve.",Blackberry Julep,{null}
+3,1,214,{null},{null},{null},17,,"Add amaretto, cognac and anisette to a coffee mug. Fill almost to the top with hot coffee. Add honey and top with a puff of whipped cream.",Cafe Zurich,{null}
+4,1,320,{null},{null},{null},15,,"Shake and strain into an old-fashioned glass half-filled with broken ice. Add lemonade. Garnish with a lemon slice and sugar-dipped raspberry, and serve.",Francine,{null}
+5,1,812,{null},{null},{null},22,,Pour together and serve cold.,Sunny D Screwdriver,{null}
+6,1,680,{null},{null},{null},14,,Pour all ingredients over ice. Shake.,Red Rattlesnake,{null}
+7,1,640,{null},{null},{null},12,,Shake with ice and enjoy.,Pierced Navel,{null}
+8,1,455,{null},{null},{null},18,,Shake all ingredients (except lime peel) with ice and strain into a cocktail glass. Add the twist of lime peel and serve.,Japanese Cocktail,{null}
+9,1,662,{null},{null},{null},18,,"Shake with ice, strain into a cocktail glass, and serve.",Pompano,{null}
+10,1,131,{null},{null},{null},21,,Pour ingredients over ice cubes in an old-fashioned glass and serve.,Black Russian,{null}
+11,1,126,{null},{null},{null},2,,Pour 2-3 shots of Black Haus into glass and add cola.,Black Cherry Coke,{null}
+12,1,190,{null},{null},{null},18,,"Pour all ingredients into a cocktail shaker half-filled with ice cubes. Shake and strain into a cocktail glass, and serve.",Brazen Hussy,{null}
+13,1,237,{null},{null},{null},11,,"Combine both ingredients in a highball glass, stir and serve.",Cheeky Vimto,{null}
+14,1,136,{null},{null},{null},12,,"Pour in kahlua, then butterscotch schnapps. Layer Irish cream on top.",Black Unicorn,{null}
+15,1,713,{null},{null},{null},15,,Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.,Rusty Nail,{null}
+16,1,516,{null},{null},{null},14,"According to the Bartender's Database, the Mai Tai was created by Victor J. Bergeron (Trader Vic) during an afternoon while entertaining friends from Tahiti. One of the friends took a sip and exclaimed ""Maita'I roa ae!"", which means ""Very good"". Trader Vic shorted the expression to Mai Tai, and used it as the name.",Shake all ingredients (except cherry) with ice and strain into a collins glass over several ice cubes. Top with the cherry and serve.,Mai Tai,{null}
+17,1,802,{null},{null},{null},7,,"Mix the Vodka, Tequila, Aftershock, Beer, and Lemonade in a blender. Blend until a smooth frothy substance is achieved. Fill beer mug with drink and prepared to be hit with a Suburban Warhead",Suburban Warhead,{null}
+18,1,827,{null},{null},{null},18,,"Pour tequila and vermouth into a mixing glass half-filled with ice cubes. Stir well, and strain into a cocktail glass. Garnish with a twist of lemon or an olive, and serve.",Tequila Martini,{null}
+19,1,83,{null},{null},{null},16,,"Add ingredients to shaker with cubed ice, stir till shaker frosts, strain into rocks glass.",B-69,{null}
+20,1,580,{null},{null},{null},15,,"Pour hershey's chocolate syrup around the inside rim of a rocks glass. Fill with ice, add ingredients, and serve.",Mudslide,{null}
+21,1,233,{null},{null},{null},15,,Shake ingredients in a cocktail shaker with ice. Strain into an old-fashioned glass.,Charro,{null}
+22,1,156,{null},{null},{null},20,,Pour half glass of Dr. Pepper and half glass of any type red wine together. Coca Cola can be substituted. Then it would be a Bloody Cola!,Bloody Pepper,{null}
+23,1,824,{null},{null},{null},2,,"Shake with ice and strain into collins glass. Add several ice cubes, fill with club soda and stir. Decorate with slices of lemon and orange, and a cherry. Serve with a straw.",Tequila Collins,{null}
+24,1,121,{null},{null},{null},18,,Shake all ingredients (except the cherry) with ice and strain into a cocktail glass. Add the cherry on top and serve.,Bijou Cocktail,{null}
+25,1,256,{null},{null},{null},5,,"Mix all ingredients a day ahead and place in freezer. When ready to serve, take out of freezer and scoop and serve with ginger ale, if desired.",Cranberry Vodka Slush,{null}
+26,1,549,{null},{null},{null},11,A mexican beer and sea salt are highly recommended.,Mix ingredients in a tall high glass with lots of ice. Add beer at the end. Mix and enjoy.,Michelada,{null}
+27,1,209,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",Cafe de Paris,{null}
+28,1,568,{null},{null},{null},14,,Add together with ice and stir.,Minerstown Sling,{null}
+29,1,178,{null},{null},{null},2,,Pour the brandy and club soda into a collins glass almost filled with ice cubes. Stir well.,Brandy & Soda,{null}
+30,1,356,{null},{null},{null},18,,Shake with ice and strain into a cocktail glass.,Gloom Chaser,{null}
+31,1,108,{null},{null},{null},6,,Pour each ingredient into the snifter and serve.,Beautiful,{null}
+32,1,726,{null},{null},{null},14,,"Pour the Cognac, Cointreau and lemon juice over ice in a highball and top off with soda.  Garnish with lemon.",San Francisco Sidecar,{null}
+33,1,357,{null},{null},{null},19,,"Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.",Godchild,{null}
+34,1,891,{null},{null},{null},18,Also known as a Chelsea Sidecar,"In a shaker half-filler with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",White Lady,{null}
+35,1,484,{null},{null},{null},14,,"First the scotch goes in, then the lemon juice, then the crushed ice, then topped off with the vodka.",King of Poland,{null}
+36,1,275,{null},{null},{null},18,,"Pour ingredients into glass, stir, and drink.",Dead Bastard,{null}
+37,1,268,{null},{null},{null},14,,"Pour lime juice into a highball glass over ice cubes. Add rum, fill with cola, stir, and serve.",Cuba Libre,{null}
+38,1,15,{null},{null},{null},18,,"Pour into glass, stir and enjoy.",Abrupt Realization,{null}
+39,1,133,{null},{null},{null},23,,Pour into a wine glass,Black Tie,{null}
+40,1,197,{null},{null},{null},15,,"Shake and strain into an old-fashioned glass three-quarters filled with broken ice, or serve straight-up.",Brown Derby,{null}
+41,1,616,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",Orgasm,{null}
+42,1,703,{null},{null},{null},14,,Stir in a highball glass and fill with club soda. Garnish with a lemon twist.,Rum Sling,{null}
+43,1,397,{null},{null},{null},14,,"Mix all ingredients into glass, top with ice.",Hairy Navel,{null}
+44,1,415,{null},{null},{null},18,,"Stir all ingredients with ice, strain into a cocktail glass, and serve.",Hop Toad,{null}
+45,1,92,{null},{null},{null},2,,"Measure a collins glass full of ice cubes into a cocktail shaker. Add ingredients, shake well, and pour back into collins glass.",Bahama Blue,{null}
+46,1,432,{null},{null},{null},12,,"Layer: creme de menthe, irish cream and brandy",Irish Flag,{null}
+47,1,123,{null},{null},{null},9,,Shake brandy and cranberry juice with ice in a mixer; pour into hurricane glass; add 7-up; garnish with cranberries and serve.,Black Butterfly,{null}
+48,1,124,{null},{null},{null},15,,Pour Tequila and blackberry brandy together. Add club soda. Drink like a shooter.,Black Cactus,{null}
+49,1,823,{null},{null},{null},18,,Shake all ingredients (except lemon slice) with ice and strain into a cocktail glass. Add the slice of lemon and serve.,Tequila Cocktail,{null}
+50,1,781,{null},{null},{null},18,,"Shake, strain into a cordial or liqueur glass, and serve.",Soft Love,{null}
+51,1,842,{null},{null},{null},18,,Fill glass halfway with Tang. Add Vodka until you can begin to taste the Vodka. Mix drink to taste.,Tiki Torch,{null}
+52,1,896,{null},{null},{null},15,,Pour over lots of ice.,White Spider,{null}
+53,1,179,{null},{null},{null},18,,Shake all ingredients (except nutmeg) with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.,Brandy Alexander,{null}
+54,1,364,{null},{null},{null},18,,"Shake and strain into a cocktail glass. Garnish with a half-slice of orange and a cherry, and serve.",Golden Sunset,{null}
+55,1,52,{null},{null},{null},12,,Chill with ice. Strain into shot glass.,American Dream,{null}
+56,1,497,{null},{null},{null},15,,"Shake with a glassful of broken ice, and pour unstrained into an old-fashioned glass. Garnish with a wedge of lime, and serve.",Last Chance,{null}
+57,1,450,{null},{null},{null},2,,"Shake rum, pineapple juice and sugar in a cocktail shaker with ice. Strain into a collins glass filled with ice cubes. Fill with carbonated water.",Jamaican Collins,{null}
+58,1,439,{null},{null},{null},18,,Pour jack daniels into large glass filled with ice. Pour Coca-Cola into glass. Stir lightly.,Jack & Coke,{null}
+59,1,551,{null},{null},{null},14,,"Pour the Midori melon liqueur, rum, blue curacao and lemon juice into a cocktail shaker half-filled with ice cubes. Shake well. Strain into a highball glass almost filled with ice cubes. Top with pineapple juice, to taste, and serve.",Midori Ecstacy,{null}
+60,1,501,{null},{null},{null},14,,"Over ice, add vodka, watermelon schnapps, blue maui,and o.j. Do not stir. Garnish with cherry and slice of orange.",Leap Frog,{null}
+61,1,926,{null},{null},{null},11,"Named for the three Irish ingredients of Guinness, Bailey's and Jameson. Don't order in Ireland.",Build over ice drink with a straw.,Irish Car Bomb,{null}
+62,1,348,{null},{null},{null},14,,Pour juice of lime and gin into a highball glass over ice cubes. Fill with carbonated water and stir. Add the wedge of lime and serve.,Gin Rickey,{null}
+63,1,556,{null},{null},{null},2,,Build all ingredients over ice in a tall glass. Float fresh cream last.,Midori Splice,{null}
+64,1,76,{null},{null},{null},6,,Float brandy on top of Herbal Liqueur in a cordial glass without mixing and serve.,B & B,{null}
+65,1,521,{null},{null},{null},18,,Blend briefly with three-quarters of a glassful of crushed ice. Serve in a double-cocktail glass garnished with a slice of orange speared with a cherry.,Mandarin,{null}
+66,1,517,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Maiden's Prayer,{null}
+67,1,343,{null},{null},{null},15,,"In a shaker half-filled with ice cubes, combine the wine, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.",Gin Daisy,{null}
+68,1,702,{null},{null},{null},14,,"Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.",Rum Screwdriver,{null}
+69,1,359,{null},{null},{null},15,,Pour vodka and amaretto into an old-fashioned glass over ice and serve.,Godmother,{null}
+70,1,727,{null},{null},{null},18,,"Stir all ingredients with ice, strain into a cocktail glass, and serve.",Sand-Martin Cocktail,{null}
+71,1,33,{null},{null},{null},14,,,Alabama Slammer,{null}
+72,1,25,{null},{null},{null},18,,,Admiral Cocktail,{null}
+73,1,421,{null},{null},{null},9,,"Shake and strain into an ice-filled pina colada glass. Add champagne, straws, and serve.",Hotel California,{null}
+74,1,671,{null},{null},{null},18,,Shake with cracked ice and strain into a chilled cocktail glass.,Racquet Club,{null}
+75,1,290,{null},{null},{null},7,,"Mix the alcohols in a Beer mug, and add the coke to fill. Mix gently, serve cold.",Duncan MacLeod,{null}
+76,1,691,{null},{null},{null},18,,Fill glass with ice. Add Razzamatazz and Crown Royal. Fill with Cranberry Juice.,Rock Lobster,{null}
+77,1,834,{null},{null},{null},2,,Pour tequila into a collins glass filled with ice cubes. Fill with orange juice and stir well. Top with blackberry brandy and stir lightly. Add the cherry on top and serve.,Tequila Sunset,{null}
+78,1,30,{null},{null},{null},9,,Hurricane glass filled with ice add ingredients shake cherry and orange garnish,Agent Orange,{null}
+79,1,920,{null},{null},{null},8,"Original recipe from McGuire's Restaurant in Pensacola, FL. 2 drink maximum and they stop selling them at midnight!",,Irish Wake,{null}
+80,1,384,{null},{null},{null},18,,"Pour all ingredients into a mixing glass half-filled with ice cubes. Stir well, strain into a cocktail glass, and serve.",Green Mirage,{null}
+81,1,396,{null},{null},{null},14,,"Shake ingredients together in a cocktail shaker half-filled with ice cubes. Strain into a highball glass filled with ice cubes, and serve.",Hairless Chiahuahua,{null}
+82,1,297,{null},{null},{null},18,,"Stir ingredients together in a chilled cocktail glass, and serve.",Emerald Cocktail,{null}
+83,1,609,{null},{null},{null},15,,"Pour Canadian whisky and amaretto into an old-fashioned glass almost filled with ice cubes. Stir, and serve.",Old Groaner,{null}
+84,1,77,{null},{null},{null},12,,"This drink is best when shaken and strained, but the proper way is to layer the drink. Kahlua is poured first, then Bailey's is next, and Frangelico is layered on top.",B-51,{null}
+85,1,165,{null},{null},{null},18,,Shake ingredients in a cocktail shaker with ice. Strain into a chilled cocktail glass.,Booster,{null}
+86,1,573,{null},{null},{null},18,,"Wet the rim of a cocktail glass and press down in sugar to get it on the rim. Put mint leaves and lime juice (per drink) in a cocktail shaker. Mash (\muddle\"") the mint with spoon. Add light rum and ice. Shake",Mojito Martini,{null}
+87,1,360,{null},{null},{null},12,,Put Goldschlager in a shot glass and add a couple of dashes of tabasco.,Gold Furnace,{null}
+88,1,847,{null},{null},{null},14,,,Tokyo Iced Tea,{null}
+89,1,629,{null},{null},{null},18,,"Stir well over ice cubes in a mixing glass. Strain into a chilled cocktail glass over a single ice cube, and serve.",Parisienne,{null}
+90,1,416,{null},{null},{null},14,,"Place the lemon peel spiral in a highball glass and drape one end of it over the rim of the glass. Fill the glass with ice cubes. Pour the brandy, Ginger Ale, and bitters into the glass. Stir well.",Horse's Neck,{null}
+91,1,807,{null},{null},{null},2,,Put ice cubes in the Collins glass. Then poor the white rum. Fill with the fruit punch and the Ginger Ale.,Summer Sunset,{null}
+92,1,434,{null},{null},{null},19,,"Pour a near full glass of champagne, add Midori and orange juice.",Irish Lady,{null}
+93,1,804,{null},{null},{null},16,,Layer Blue Curacao and Bailey's in a shot glass over crushed ice. Mix to drink.,Summer Fling,{null}
+94,1,28,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",After Supper Cocktail,{null}
+95,1,771,{null},{null},{null},12,,"Pour ingredients into a tall shot glass, and serve.",Skip Morrison,{null}
+96,1,19,{null},{null},{null},21,,,Absinthe Frappe,{null}
+97,1,829,{null},{null},{null},12,,Pour tequila into shot glass. Next pour in Mountain Dew. Hold your hand over the top of the glass and slam it down. The shot will change color. Take the shot.,Tequila Slammer,{null}
+98,1,913,{null},{null},{null},19,,,Poinsettia,{null}
+99,1,371,{null},{null},{null},14,,"Shake vodka, rum, and liqueur and pour over ice in a highball glass. Fill with lemonade, add the cherry on top, and serve.",Green Demon,{null}
+100,1,925,{null},{null},{null},18,,Shake all ingredients (except nutmeg) with ice and strain into a cocktail glass. Sprinkle nutmeg on top and serve.,Blue Alexander,{null}
+101,1,7,{null},{null},{null},18,,"Add ingredients to a cocktail shaker half-filled with ice cubes. Shake and strain into a cocktail glass. Fill with pineapple juice, and serve.",57 Chevy,{null}
+102,1,817,{null},{null},{null},18,,Stir all ingredients (except orange peel) with ice and strain into a cocktail glass. Add the twist of orange peel and serve.,Sunshine Cocktail,{null}
+103,1,321,{null},{null},{null},18,,"This drink originated in Philadelphia, adapted by Michael S. Berlinger, but its popularity faded as the bar that created it changed ownership.  This drink can be considered a martini, but make sure to hold the olive.  It is a rather refreshing, sweet cocktail that is best enjoyed in the summer time.Get a martini shaker.  Add a few ice cubes, then add all ingredients.  Shake for ten seconds and serve in a martini glass or cocktail glass with a lemon twist.",Frank Sinatra,{null}
+104,1,238,{null},{null},{null},18,,"Pour the vermouth, bourbon, blackberry brandy, Cointreau and lemon juice into a cocktail shaker half-filled with ice cubes. Shake and strain into a cocktail glass, garnish with a twist of lemon, and serve.",Chelsea Cocktail,{null}
+105,1,606,{null},{null},{null},15,"Invented in Kentucky in the 1880s and made popular when bourbon distiller James Pepper, brought it to the Waldorf-Astoria Hotel bar in New York City.","Mix sugar, water and angostura bitters in an old-fashioned glass. Drop in a cherry and an orange wedge. Muddle into a paste using a muddler or the back end of a spoon. Pour in bourbon, fill with ice cubes, and stir.",Old-Fashioned,{null}
+106,1,50,{null},{null},{null},2,,Stir and serve in a collins glass over ice. Garnish with the slice of orange.,Ambassador,{null}
+107,1,62,{null},{null},{null},2,,"Blend schnapps, cream of coconut, half-and-half, and 2 cups of crushed ice in an electric blender at a high speed. Pour contents into a collins glass. Decorate with an apple slice and a cherry. Serve with a straw.",Apple Colada,{null}
+108,1,770,{null},{null},{null},2,,"Pour grenadine, gin, and sweet and sour into a collins glass over ice cubes and stir well. Fill with carbonated water and top with cherry brandy. Add the cherry on top and serve.",Singapore Sling,{null}
+109,1,272,{null},{null},{null},14,,"You can substitute any dark or spiced rum . Pour rum over ice, add ginger ale, stir.",Dark N Stormy,{null}
+110,1,851,{null},{null},{null},18,,Add ingredients to a chilled martini glass. Shake well. Garnish with a black raspberry.,Tom Sweeney,{null}
+111,1,162,{null},{null},{null},18,,"Shake well with ice and strain into a chilled cocktail glass. Garnish with flamed orange peel on the glass, and serve.",Blue Monday,{null}
+112,1,164,{null},{null},{null},7,"Also known as ""A Beer and a Bump"" in many regions of the United States.","Fill shot glass with whiskey. Drop full shot glass into mug o' beer. Drink immediately, enjoy.",Boilermaker,{null}
+113,1,45,{null},{null},{null},18,,"Shake ingredients well with cracked ice, strain into a cocktail glass, and serve.",Amaretto Stinger,{null}
+114,1,892,{null},{null},{null},18,,Crushed ice Build up.,White Out,{null}
+115,1,494,{null},{null},{null},15,,Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.,Knickerbocker,{null}
+116,1,512,{null},{null},{null},18,,"Shake the rums, triple sec and egg white together in a cocktail shaker half-filled with ice. Strain into a cocktail glass, and serve.",MacArthur Cocktail,{null}
+117,1,65,{null},{null},{null},18,,,Apple Martini,{null}
+118,1,211,{null},{null},{null},18,,Place all ingredients in martini shaker in order. Shake with ice. Pour into martini glass and serve.,Cafe Martini,{null}
+119,1,908,{null},{null},{null},18,,"Invented by H.B. Stone. It is suggested not to add the dash of bitters unless Bombay Sapphire or another vapor-infused gin is used, or the drink may be too harsh. The glass has a pleasant aroma even when emptied.Shake and strain into a chilled cocktail glass. Twist a slice of lemon rind above the drink and rub along the rim, but do not drop into the drink.",Wiseguy,{null}
+120,1,172,{null},{null},{null},18,,"Pour the whiskey, triple sec and lemon juice into a cocktail shaker half-filled with ice cubes. Shake well, strain into a chilled cocktail glass, and serve.",Bourbon Sidecar,{null}
+121,1,743,{null},{null},{null},14,,Pour scotch and juice of lime into a highball glass over ice cubes. Fill with carbonated water and stir. Add the lime peel/rind and serve.,Scotch Rickey,{null}
+122,1,274,{null},{null},{null},14,,"Pour all ingredients into a cocktail shaker half-filled with ice cubes. Shake well, and strain into a highball glass filled with ice cubes. Garnish with a slice of lime, and serve.",Daytona Daydream,{null}
+123,1,873,{null},{null},{null},14,,"Mix Vodka, orange juice, then top with grenadine",Vodka Sunrise,{null}
+124,1,515,{null},{null},{null},14,,Pour all ingredients (except Lime Wedge) into a highball glass over ice. Add the Lime Wedge and serve.,Madras,{null}
+125,1,767,{null},{null},{null},18,Invention of this cocktail is credited to an unnamed American Army captain serving in Paris during World War I.,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",Sidecar,{null}
+126,1,646,{null},{null},{null},23,,"Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.",Pink Gin,{null}
+127,1,734,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Savannah,{null}
+128,1,193,{null},{null},{null},18,,"Combine all ingredients together in a cocktail glass, stir, and serve.",Breath of God,{null}
+129,1,473,{null},{null},{null},15,,"Pour all ingredients into a salt-rimmed old-fashioned glass. Stir. Garnish with a slice of lime, and serve.",Kabuki,{null}
+130,1,31,{null},{null},{null},18,,Put all ingredients in a pitcher. The Cava can be very cold.,Valencia Cocktail,{null}
+131,1,545,{null},{null},{null},18,,Stir maraschino and cherry brandy with ice and strain into a cocktail glass. Add the cherry and serve.,Merry Widow,{null}
+132,1,548,{null},{null},{null},2,,,Michael Collins,{null}
+133,1,552,{null},{null},{null},21,,"Fill a whiskey sour glass with cubed ice. Pour in Midori, then sour apple, and finish with cranberry juice producing a layered effect. Serve.",Midori Firecracker,{null}
+134,1,122,{null},{null},{null},2,,"Pour both ingredients into a collins glass filled with ice cubes. Stir well, and serve.",Black Bison,{null}
+135,1,773,{null},{null},{null},14,,Pour sloe gin and lemon juice over ice in glass. Fill with soda. Garnish with cucumber stick or lemon peel.,Sloe Gin Fizz,{null}
+136,1,13,{null},{null},{null},12,,Layered in a shot glass.,ABC,{null}
+137,1,391,{null},{null},{null},18,,"Created by \Nello Greco\"" an Italian barman",Gypsy Margarita,{null}
+138,1,235,{null},{null},{null},9,,"Fill glass with ice, add all ingredients and shake.",Charter Breeze,{null}
+139,1,846,{null},{null},{null},2,,Blend with ice and serve in a tall glass. Garnish with chocolate flakes and optionally chocolate topping drizzled down the inside of the glass.,Toblerone,{null}
+140,1,837,{null},{null},{null},14,,,Texas Tea,{null}
+141,1,2,{null},{null},{null},14,,Pour vodka and rum over ice. Add 7-up and stir. Add Amaretto (without stirring) and enjoy.,357 Magnum,{null}
+142,1,774,{null},{null},{null},14,,"Pour Kahlua and Light Cream into a highball glass filled with ice and stir well. Fill with carbonated water, stir lightly, and serve.",Smith And Kearns,{null}
+143,1,305,{null},{null},{null},18,,"Add Amaretto, Bacardi, and vodka. Mix in the Dr. Pepper and beer",Flaming Dr Pepper,{null}
+144,1,487,{null},{null},{null},18,,"Shake ingredients together with crushed or shaved ice in a cocktail shaker. Strain into a chilled cocktail glass, and serve.",Kingston,{null}
+145,1,563,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Million-Dollar Cocktail,{null}
+146,1,634,{null},{null},{null},14,,,Peach Long Island Iced Tea,{null}
+147,1,866,{null},{null},{null},18,,"Stir all ingredients with ice, strain into a cocktail glass, and serve.",Vodka Gimlet,{null}
+148,1,204,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine the gin, vermouth, Benedictine, and bitters. Shake well. Strain into a cocktail glass and garnish with the cherry.",Cabaret,{null}
+149,1,736,{null},{null},{null},18,,"Pour Ricard into a glass and swirl around to coat glass, discard any excess. Place the sugar, Peychaud bitters, and water int othe glass and muddle with the back of a teaspoon. Almost fill the glass with ice cubes. Pour the bourbon over the ice cubes.",Sazerac,{null}
+150,1,632,{null},{null},{null},14,,Mix in highball glass. Stirr. Garnish with slice of orange.,Peach Bowl,{null}
+151,1,158,{null},{null},{null},10,,"boil water and Whiskey in separate glasses, ignite Whiskey, slowly mix Whiskey and water back and forth between the two cups, making sure to not extinguish the flame.",Blue Blazer,{null}
+152,1,221,{null},{null},{null},14,,"Combine them how ever you want in whatever you want.  I always pour the orange juice first then the rum but its up to you.  This actually makes a great punch too.  The ratios can be changed depending on how strong you want it, but I find this has a relatively solid balance.  Both guys and girls will really enjoy this.",Captain's Paradise,{null}
+153,1,886,{null},{null},{null},15,,"Mix whiskey, bitters, and cherry juice in a ice-filled cocktail glass, and fill the remainder of the glass with sour mix. Garnish with olives or mushrooms and use a stir stick to mix.",Whiskey Sour - Old Fashioned,{null}
+154,1,167,{null},{null},{null},21,,"Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracked ice and strain into a whiskey sour glass. Add the slice of lemon, top with the cherry, and serve.",Boston Sour,{null}
+155,1,186,{null},{null},{null},18,,Add to a cocktail glass in the order listed.,Brandy Scaffa,{null}
+156,1,420,{null},{null},{null},10,,"Peel and slice the lemons; place the peel into a large non-reactive saucepan. Add sugar, cinnamon sticks, cloves and 3 cups of water. Set over a medium-high heat and stir frequently to dissolve the sugar. Allow the water to reach the boil, then turn heat down to minimum. Simmer for 10 minutes. Strain the mixture and return to the pan. Add the whiskey and heat but do not boil. Serve in Irish coffee glasses with a slice of peeled lemon in each. Makes 8 (6-ounce) Irish coffee glasses.",Hot Whiskey Punch,{null}
+157,1,890,{null},{null},{null},18,,"Combine ingredients in a blender, and mix until smooth and thick. Serve with a straw, and a garnish of shredded coconut.",White Elephant,{null}
+158,1,490,{null},{null},{null},18,,"Pour Creme de cassis in glass, gently pour champagne on top",Kir Royale,{null}
+159,1,557,{null},{null},{null},18,,Mix one part of Midori (or equivalent melon liqueor) with one part of Orange Juice. Add a slash of Granadine Syrup.,Midori Sunrise,{null}
+160,1,748,{null},{null},{null},18,,Mix the orange juice with sugar and the yolk of an egg. Then pour in the vodka with some icecubes and stir. Serve well chilled.,Screwdriver a la Carla,{null}
+161,1,354,{null},{null},{null},15,,Combine ingredients in a cocktail shaker with ice. Shake and strain into an old fashioned glass.,Glasgow,{null}
+162,1,724,{null},{null},{null},23,,"Pour ingredients into a white wine glass filled with ice cubes and rimmed with salt. Stir. Garnish with a slice of lemon, and serve.",Salt Lick,{null}
+163,1,723,{null},{null},{null},2,,"In a collins glass with ice, pour vodka, midori, and raspberry schnapps. Add a splash of lime juice. Fill 2/3 with sour mix and the rest with soda water (or seltzer). Stir gently, and finally top with a splash of grenadine.",Salem Witch,{null}
+164,1,303,{null},{null},{null},2,,,FBI,{null}
+165,1,137,{null},{null},{null},14,,"Pour stout into a champagne flute. Add champagne carefully, so it does not mix with stout, and serve.",Black Velvet,{null}
+166,1,476,{null},{null},{null},14,,"Best served cold, but without ice.",Kalimotxo,{null}
+167,1,882,{null},{null},{null},14,,"Pour the whiskey and lemon-lime soda into a highball glass almost filled with ice cubes. Stir well. Garnish with a lemon twist, and serve.",Whiskey Cooler,{null}
+168,1,317,{null},{null},{null},12,,Shake ingredients in a cocktail shaker with ice. Strain into shot glass(es).,Foxfire Blitz,{null}
+169,1,803,{null},{null},{null},14,,Pour Passoa in a highball glass filled with crushed ice.  Add 7-Up.  Stir gently and garnish with a cherry or lime twist.,Summer Dream,{null}
+170,1,224,{null},{null},{null},19,,Place lump of sugar and bitters in a chilled champagne flute. Fill with chilled champagne. Add the twist of lemon peel and serve.,Champagne Cocktail,{null}
+171,1,888,{null},{null},{null},18,,Stir and pour over ice in a highball glass. Garnish with orange slice.,White Carnation,{null}
+172,1,128,{null},{null},{null},12,,"Pour the jagermeister into a shot glass, then add the soda. Take the shot. Also works well with six soda to one jager as a cocktail.",Black Cherrymeister,{null}
+173,1,839,{null},{null},{null},12,,My experience shows that pouring in any order has no bearing on the overall taste of the drink.,The Three Wise Men,{null}
+174,1,498,{null},{null},{null},14,,Mix the alcohols and sweet and sour together in a shaker with ice and strain into a glass. Pour in Ginger Ale and serve.,Late Night Soundtrack,{null}
+175,1,4,{null},{null},{null},21,,"Pour the whiskeys and tequila into a whiskey sour glass, stir gently, and serve. ",4 Godfathers,{null}
+176,1,865,{null},{null},{null},23,,"Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.",Vodka Fizz,{null}
+177,1,875,{null},{null},{null},14,,,Vodka Tonic,{null}
+178,1,610,{null},{null},{null},15,,"Pour Canadian whisky, amaretto and cream into a cocktail shaker half-filled with ice cubes. Shake well, strain into an old-fashioned glass almost filled with ice cubes, and serve.",Old Groaner's Wife,{null}
+179,1,739,{null},{null},{null},15,,,Scotch & Soda,{null}
+180,1,253,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Cornell Cocktail,{null}
+181,1,311,{null},{null},{null},2,,"Pour ingredients into a collins glass filled with broken ice. Garnish with a slice of lime, a sprig of mint, and serve.",Formula 1,{null}
+182,1,550,{null},{null},{null},13,,"Pour the vodka, Cointreau, apricot brandy, grenadine and lemon juice into a cocktail shaker half-filled with ice cubes. Shake well, and strain into a champagne saucer or small wine glass. Garnish with a maraschino cherry, and serve.",Midnight Sun,{null}
+183,1,377,{null},{null},{null},15,,"Mix ingredients in above order over a sugar cube on an absinthe spoon, light the cube and when the flame dies immediately stir in the sugar until it dissolves; serve.",Green Fairy Blood,{null}
+184,1,365,{null},{null},{null},14,,Mix all ingredients in highball with ice and shake. Garnish with orange slice and cherry.,Goombay Smash,{null}
+185,1,777,{null},{null},{null},15,,Pour vodka in glass followed by the Kahlua. Add the dash of coke (to taste) and stir. Top up the glass with guinness and serve.,Smooth Black Russian,{null}
+186,1,528,{null},{null},{null},18,,"Occasionally this combination of gin, vermouth, maraschino and bitters provides us with a much needed escape. Jerry Thomas described the Martinez as \an Old Tom Gin version of the Manhatten\"". Epicures will know it as something of an martini incognito, sadly understated. And, given the Martini, an icon of American culture, the Martinez Cocktail is something of a washed-out memento. That's not to say it isn't appreciated, however. Shake and strain into a chilled cocktail glass. Garnish with a twist of lemon.""",Martinez,{null}
+187,1,344,{null},{null},{null},14,,"Shake gin, juice of lemon, and powdered sugar with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",Gin Fizz,{null}
+188,1,844,{null},{null},{null},15,,"shake, strain into highball glass.",Toasted Almond,{null}
+189,1,294,{null},{null},{null},2,,"Stir tequila and creme de cassis over ice in a chilled collins glass. Fill with ginger ale, squeeze lime wedge over drink and drop it into the glass.",El Diablo,{null}
+190,1,597,{null},{null},{null},18,,Shake and serve over ice.,Oasis,{null}
+191,1,707,{null},{null},{null},18,,,Rumpletini,{null}
+192,1,67,{null},{null},{null},15,,"Brew espresso, mix in shots of kaluha and syrup",Aqualung,{null}
+193,1,581,{null},{null},{null},18,,Shake briefly with a glassful of crushed ice. Serve in a double-cocktail glass.,Mulata,{null}
+194,1,593,{null},{null},{null},2,,"Pour the Captain Morgan spiced rum into a collins glass filled with ice cubes. Fill with 7-Up, stir and serve.",Nixon,{null}
+195,1,570,{null},{null},{null},18,,"Combine the peach liqueur, coffee liqueur and ice cream in a blender. Blend until smooth, and pour into a cocktail glass. Garnish with chocolate shavings, and serve.",Mississippi Mud,{null}
+196,1,798,{null},{null},{null},15,,"Pour vodka, banana liqueur, lemon juice and egg white into a cocktail shaker half-filled with ice cubes. Shake, strain into an old-fashioned or rocks glass almost filled with ice cubes, and serve.",Spymaster,{null}
+197,1,880,{null},{null},{null},18,,Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.,Whiskey Cocktail,{null}
+198,1,40,{null},{null},{null},18,,Fill glass half way with ice. Add o.j. and Midori and give a little stir.,Alligator,{null}
+199,1,931,{null},{null},{null},18,,"Stir ingredients with ice, strain into a cocktail glass. Garnish with a cherry.",Rob Roy (Dry),{null}
+200,1,742,{null},{null},{null},15,,,Scotch on the Rocks,{null}
+201,1,41,{null},{null},{null},14,,Shake all ingredients in a cocktail shaker half-full of ice. Strain into cocktail glass.,Aloe Vera,{null}
+202,1,399,{null},{null},{null},14,,"Pour all ingredients into a cocktail shaker half-filled with ice cubes. Shake well, and strain into a highball glass. Garnish with a twist of orange peel, and serve.",Hanky Panky,{null}
+203,1,46,{null},{null},{null},2,,Shake and Serve over ice,Amaretto Stone Sour,{null}
+204,1,889,{null},{null},{null},18,,"Shake, strain into a cocktail glass, and sprinkle with grated chocolate.",White Christmas,{null}
+205,1,332,{null},{null},{null},18,,"Pour all ingredients into a cocktail shaker half-filled with ice cubes. Shake well. Strain into a cocktail glass, and serve.",Fruity Toad,{null}
+206,1,530,{null},{null},{null},18,,"Stir gin and vermouth with ice in a mixing glass. Strain into a cocktail glass, add the olive, and serve.",Martini (Dry),{null}
+207,1,72,{null},{null},{null},18,,"Shake with cracked ice: strain into a chilled cocktail glass, garnish with twist of orange or lemon.",Astoria,{null}
+208,1,526,{null},{null},{null},5,,,Markarita,{null}
+209,1,697,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Rum Dubonnet,{null}
+210,1,779,{null},{null},{null},9,,"This refreshing cocktail is a perfect relaxer at the end of the day,  or a great accompaniment with brunch. The recipe as is makes a little over 2 servings. To make the drink a little more potent add another ounce of coconut rum.Combine the fruit, rum, Southern Comfort, brandy, club soda, juice, and sugar, along with the ice cubes into a blender. Blend on high until smooth, garnish with speared strawberry and pineapple chunks. Enjoy.",Smooth Sailor,{null}
+211,1,252,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Commodore Cocktail,{null}
+212,1,876,{null},{null},{null},19,,Pour liqueurs into a champagne flute. Fill with ice-cold champagne. Twist orange peel over drink.,Volcano,{null}
+213,1,909,{null},{null},{null},18,,"Combine all ingredients in a cocktail shaker half-filled with ice cubes. Shake well, strain into a cocktail glass, and serve.",Witch of Venice,{null}
+214,1,906,{null},{null},{null},22,,Combine all of the ingredients and pour over a block of ice.,Wine Punch,{null}
+215,1,295,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",El Presidente,{null}
+216,1,542,{null},{null},{null},18,,"Muddle the melon, honey syrup, Maraschino Liqueur and lime juice together in a large mixing glass. Add vodka and ice. Shake and strain into a chilled cocktail glass, garnish with a sprig of mint, and serve.",Melon Martini,{null}
+217,1,928,{null},{null},{null},21,"VSS stands for Vodka, Soda, Splash. Also called the Rose Kennedy Cocktail.","Pour Vodka and Cranberry Juice into a High Ball glass over ice. Stir well, add the wedge of lime, and serve.",VSS,{null}
+218,1,102,{null},{null},{null},21,"For ultimate authenticy, use Bacardi Rum. Their logo is a bat.",Pour over ice. Stir.,Bat Bite,{null}
+219,1,672,{null},{null},{null},14,,"Shake ingredients over ice in a cocktail shaker. Pour into a chilled whiskey sour glass, and serve.",Rail Splitter,{null}
+220,1,37,{null},{null},{null},18,,Shake all ingredients (except nutmeg) with ice and strain into a cocktail glass. Sprinkle nutmeg on top and serve.,Alexander,{null}
+221,1,304,{null},{null},{null},14,,"Dissolve sugar in some of the water. Add juice and the rest of the water, and stir. Add liquor 2-3 hours before serving, and refridgerate. Serve in a punch bowl with ice.",Fish House Punch,{null}
+222,1,291,{null},{null},{null},15,,Combine ingredients in an old-fashioned glass.,Early Christmas,{null}
+223,1,869,{null},{null},{null},18,,"Shake the vodka and vermouth together with a number of ice cubes, strain into a cocktail glass, add the olive and serve.",Vodka Martini,{null}
+224,1,700,{null},{null},{null},18,,Mix all ingredients in glass & add ice.,Rum Runner,{null}
+225,1,546,{null},{null},{null},18,,"In a shaker, combine Vodka and blue curacao. Chill until cloudy. Pour into martini glass. Tilt glass and pour in raspberry schnapps (will sink to the bottom). Float cranberry vodka on top. This will give you levels of color: red - blue - purple.",Metropolis,{null}
+226,1,34,{null},{null},{null},18,No one seems to know why this drink is named after the 49th state.,"In a mixing glass half-filled with crushed ice, combine all of the ingredients. Stir well. Strain into a cocktail glass.",Alaska,{null}
+227,1,449,{null},{null},{null},19,,"Stir the rum, coffee and water together. Top with the Whipped Cream. Sprinkle with a pinch of well ground coffee and drink with a straw.",Jamaican Coffee,{null}
+228,1,495,{null},{null},{null},18,,,Knockout,{null}
+229,1,270,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve. (See also Frozen Daiquiri.)",Daiquiri,{null}
+230,1,814,{null},{null},{null},12,,"Splash of Grenadine to flavor, chill/strain shot or can be a drink over ice.",Sunset (Night Club),{null}
+231,1,110,{null},{null},{null},11,"The original recipe of the better known Irish Car Bomb. Invented in 1979 at Wilson's Saloon in Norwich, Connecticut.",Build over ice drink with a straw.,Belfast Car Bomb,{null}
+232,1,651,{null},{null},{null},14,,"It's basiclly the same as the Cuba Libre but instead of Rum it has Pisco. You can use not only Coca-Cola, instead you can add almost any kind of other soda drinks (sprite, fanta, etc.)",Piscola,{null}
+233,1,789,{null},{null},{null},14,,"Pour vodka, triple sec and lime juice over ice. Fill to top with club soda. Stir.",Soviet Sunset,{null}
+234,1,18,{null},{null},{null},15,,,Absinthe Drip,{null}
+235,1,5,{null},{null},{null},16,,Combine all ingredients together in a large shot glass or small rocks glass. Stir and serve.,46 Magnum,{null}
+236,1,825,{null},{null},{null},2,,"Shake all ingredients (except Ginger Ale) with ice and strain into a collins glass over ice cubes. Fill with Ginger Ale, stir, and serve.",Tequila Fizz,{null}
+237,1,383,{null},{null},{null},18,,Shake with cracked ice and strain into a chilled cocktail glass. Garnish with an almond-stuffed olive.,Green Martini,{null}
+238,1,835,{null},{null},{null},12,,Fill shot glass with Tequila. Add drops of Tobasco sauce.,Tequila Surprise,{null}
+239,1,637,{null},{null},{null},2,,Shake everything except cola with ice; strain into a collins glass filled with ice. Fill the rest of the glass with cola and add a puff of Whipped Cream on top.,Phantasm,{null}
+240,1,367,{null},{null},{null},14,,Shake and pour over ice-cubes.,Grappa Gimlet,{null}
+241,1,536,{null},{null},{null},14,,"Pour Midori, Chambord and raspberry juice in a shaker. Add a squeeze of lemon and lime juice. Shake. Strain into highball half filled with ice. Garnish with fresh raspberries.",Melberry,{null}
+242,1,346,{null},{null},{null},14,,Mix the gin and tonic in a highball glass over ice and pour the lime juice. Drop two lemon wedges into the glass and serve.,Gin Lime Rickey,{null}
+243,1,109,{null},{null},{null},2,,Layer:\,Bee Sting,{null}
+244,1,466,{null},{null},{null},2,,,Jose Collins,{null}
+245,1,614,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine the gin, orange juice, and sugar. Shake wel. Strain into a cocktail glass. Garnish with the orange slice.",Orange Blossom,{null}
+246,1,689,{null},{null},{null},11,,"Mix well, add ice last. Serves two normal people or one alcoholic.",Robot,{null}
+247,1,223,{null},{null},{null},3,,"Muddle the fruit and maraschino in the bottom of a bar glass. Add ice and champagne, stir gently and strain into a champagne flute. Garnish with flamed orange peel, and serve.",Champagne Cobbler,{null}
+248,1,912,{null},{null},{null},2,,"Blend all ingredients with ice except Rum (151 proof) proof rum. Pour into a collins glass. Float Rum (151 proof) proof rum on top. Garnish with a fruit slice, sprig of mint and a cherry.",Zombie,{null}
+249,1,418,{null},{null},{null},15,,Shake with ice cubes and pour into old-fashioned glass rimmed with salt.,Hot Pants,{null}
+250,1,628,{null},{null},{null},19,,Shake and strain into a champagne flute. Garnish with a slice of orange.,Parisian Blonde,{null}
+251,1,334,{null},{null},{null},14,,"Mix all ingredients into glass, top with ice.",Fuzzy Navel,{null}
+252,1,271,{null},{null},{null},18,,"Shake all ingredients in a cocktail shaker half-filled with ice. Strain into a chilled cocktail glass, and serve.",Daiquiri Blossom,{null}
+253,1,55,{null},{null},{null},2,Originally known as the Milano-Torino.,Pour over ice into an collins glass. Garnish with lemon and orange twists. You may fill with some club soda.,Americano,{null}
+254,1,861,{null},{null},{null},18,"Named and invented by James Bond in the 1953 novel, Casino Royale.","Shake well with lots of ice until it is extremely cold, then pour and add a large slice of lemon peel.",Vesper,{null}
+255,1,441,{null},{null},{null},2,,,Jack Collins,{null}
+256,1,382,{null},{null},{null},18,,Shake with Ice. Fill in 4 glasses. Serve with sugar crusta.,Green K,{null}
+257,1,175,{null},{null},{null},21,,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",Boxcar,{null}
+258,1,818,{null},{null},{null},16,,"Mix equal parts over ice, shake, strain, and serve...SPF 30!",Suntan Lotion,{null}
+259,1,49,{null},{null},{null},17,,"Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking. Add amaretto, but do not stir. Top with chilled whipped cream and serve.",Amaretto Tea,{null}
+260,1,630,{null},{null},{null},18,,"Stir all ingredients with ice, strain into a cocktail glass, and serve.",Park Avenue,{null}
+261,1,492,{null},{null},{null},15,,"Shake with three-quarters of a glassful of broken ice. Pour unstrained into an old-fashioned glass. Garnish with a cherry and orange slice, and serve.",Kiss and Tell,{null}
+262,1,338,{null},{null},{null},18,"A few theories exist as to the origins of the name ""Gimlet"". The most common theory is the reference to the tool for drilling small holes and as a reference to the ""penetrating"" effects on the drinker. Additionally, a theory is the drink was originated by British Navy Surgeon Thomas Gimlette as a way to provide lime juice to sailors to prevent scurvy.",Pour the gin and lime cordial into a mixing glass half-filled with ice cubes. Stir well. Strain into a cocktail glass and garnish with the lime wedge.,Gimlet,{null}
+263,1,245,{null},{null},{null},15,,"Rub the rim of an old-fashioned glass with lemon and dip in powdered sugar. Pour the brandy, bitters and triple sec into a mixing glass half-filled with cracked ice. Stir well. Pour into the prepared glass, and serve.",Chicago Cocktail,{null}
+264,1,676,{null},{null},{null},11,,Shake with ice. Strain.,Red Lemon,{null}
+265,1,681,{null},{null},{null},2,,"Put powdered sugar and 2 oz. carbonated water into a collins glass and stir. Add ice cubes and gin, fill with carbonated water, and stir again. Add the twist of lemon peel and the spiral of orange so that the end dangles over rim of glass.",Remsen Cooler,{null}
+266,1,588,{null},{null},{null},4,,"Heat ingredients (with lemon thinly sliced into rings, and a heaped teaspoon of sugar). Strain into a heat-proof goblet when hot.",Negus,{null}
+267,1,883,{null},{null},{null},14,,"Shake whiskey, juice and syrup and strain into a highball glass filled with ice. Fill with lemon-lime soda, and serve.",Whiskey Fizz,{null}
+268,1,602,{null},{null},{null},18,,"Pour the melon deoria, Skyy vodka and cranberry juice into a cocktail glass. Add the 7-up, and stir gently. Garnish with a slice of lime and a maraschino cherry, and serve.",Oklahoma Cooler,{null}
+269,1,668,{null},{null},{null},14,,Shake ingredients in a cocktail shaker with ice. Pour into tall glass.,Prison Bitch,{null}
+270,1,451,{null},{null},{null},2,,"Fill a collins glass almost full with ice, and your shaker half full with ice. Pour all ingredients except soda into shaker and shake well. Strain into glass. Add the carbonated water (club soda) and stir well. Garnish with an orange slice and a maraschino cherry if available.",Jamaican Crow,{null}
+271,1,816,{null},{null},{null},2,,Mix whiskey and sour mix and pour over ice-filled whiskeysour glass. Slowly add grenadine which will sink to the bottom of the glass. Garnish with orange slices and cherries.,Sunset Sour,{null}
+272,1,828,{null},{null},{null},15,,"Fill tall rocks glass or tumbler with ice. Add tequila and triple sec, followed by O.J. and cranberry. Add blue curacao. DO NOT MIX. Garnish with lemon or cherry if desired.",Tequila Mockingbird,{null}
+273,1,746,{null},{null},{null},18,,"Pour first vodka, then Bailey's, then Kahlua into a cocktail glass over crushed ice. Stir. Caution: use only high quality vodka. Cheap vodka can cause the Bailey's to curdle. Test your brand of vodka by mixing 1 Tsp each of vodka and Bailey's first.",Screaming Orgasm,{null}
+274,1,522,{null},{null},{null},15,,"In a shaker half-filled with ice cubes, combine the light rum, dark rum, anisette, lemon juice, and grenadine. Shake well. Strain into an old-fashioned glass almost filled with ice cubes. Top with the cola. Stir well.",Mandeville,{null}
+275,1,589,{null},{null},{null},15,,Pour ingredients into an old-fashioned glass over ice cubes. Stir well and serve.,Netherland,{null}
+276,1,148,{null},{null},{null},18,,Shake ingredients in a cocktail shaker with ice. Strain into a cocktail glass. Garnish with a cherry.,Bloody Lip,{null}
+277,1,674,{null},{null},{null},13,,"Add chilled vodka, triple sec and fresh raspberries to a large, chilled stemmed glass and fill with cold champagne. Sprinkle a few drops of kirschwasser on top.",Raspberries Romanoff,{null}
+278,1,438,{null},{null},{null},2,,Fill a tall glass with crushed ice. Pour the Amaretto over the ice then slowly add the orange juice and top with club soda to form layers. Add a dash of grenadine and garnish with a cherry and orange slice.,Italian Sunset,{null}
+279,1,251,{null},{null},{null},15,,"In a shaker mix Vodka, Kahlua, and milk. Pour into a rocks glass and add a splash of Coca-Cola",Colorado Bulldog,{null}
+280,1,6,{null},{null},{null},18,,fill glass with crushed ice. Add vodka. Add a splash of grand-marnier. Fill with o.j.,50/50,{null}
+281,1,56,{null},{null},{null},14,,"Shake with a glassful of broken ice and pour, unstrained, into an old-fashioned glass.",Amsterdam,{null}
+282,1,69,{null},{null},{null},18,,"Pour vodka and Amontillado sherry over ice cubes in a mixing glass. Stir well, and strain into a chilled cocktail glass. Garnish with an orange twist, and serve.",Armada Martini,{null}
+283,1,763,{null},{null},{null},19,,"Italian drink, particular to the Veneto region. There are as many versions of this drink as there are people who drink it!Chill 4 champagne flutes. Shake gelato, limoncello and vodka in a shaker. Add Prosecco and whisk through. Serve immediately in chilled champagne flutes. Sprinkle lemon zest on top. Makes 4.",Sgroppino,{null}
+284,1,783,{null},{null},{null},14,,Add 2 oz. of Sothern Comfort and 1 oz. of Peach Schnapps to a highball glass. Next add ice and top off with lemonade.,Southern Salutation,{null}
+285,1,543,{null},{null},{null},14,,"Stir the melon liqueur, triple sec and vodka together in a highball glass filled with ice cubes. Fill with club soda, garnish with a slice of orange, and serve.",Melon Patch,{null}
+286,1,94,{null},{null},{null},18,,"Shake and Strain the Butterscotch, Bailey's, and Schnapps (cinnamon) into a cocktail glass. Float the Sambuca, then sprinkle Cinnamon or Nutmeg into drink (Before you flame the drink). Just before presentation, flame the drink. As the Sambuca burns, the cinnamon will sparkle. A dazzling effect if the bartender or server is walking with the drink while it's burning (give the comet a tail).",Bailey's Comet,{null}
+287,1,618,{null},{null},{null},9,,"Shake or stir ingredients, and pour over ice in a tall glass. Sprinkle nutmeg on top, and serve,",Painkiller,{null}
+288,1,513,{null},{null},{null},12,,"Fill a shot glass approximately three-quarters full with green chartreuse, and the remainder with black sambuca. Add a couple of drops of Tabasco branded pepper sauce, and shoot.",Mack Attack,{null}
+289,1,254,{null},{null},{null},18,,"In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",Corpse Reviver,{null}
+290,1,181,{null},{null},{null},2,,"Slice a lemon in half. Rub the rim of a collins glass with the lemon and dip into sugar to coat the edge. Pare the circumference of each lemon half's peel and add to the glass. Shake brandy, lemon juice, orange curacao and bitters in a shaker with crushed ice and strain into the collins glass. Add an orange slice.",Brandy Crusta,{null}
+291,1,465,{null},{null},{null},15,,Build over rocks in a highball glass.,Johnny-Come-Lately,{null}
+292,1,785,{null},{null},{null},18,,"Pour the juices first, then top off with the liqueur.",Southwest Cooler,{null}
+293,1,720,{null},{null},{null},14,"The Bitter Lemon Soda is made from Quinine, which was the first effective treatment for malaria.","Take a tall glass, put a few ice cubes on top of each other. Pour the Gin and the rum in the glass, Fill the glass with bitter lemon. Leave some of the ice over the surface, so that you can pour the angostura on top of it. It should leave a rather nice track of red down the ice cubes.",Saint Paul,{null}
+294,1,134,{null},{null},{null},12,,"Pour the Crown Royal into a shot glass, then add just enough cola to turn it black.",Black Tooth Grin,{null}
+295,1,916,{null},{null},{null},14,,,Scotch Lassie,{null}
+296,1,933,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",Balalaika,{null}
+297,1,591,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Nightmare,{null}
+298,1,280,{null},{null},{null},18,,"In a mixing glass half-filled with ice cubes, combine the gin, brandy, sweet vermouth, dry vermouth, and bitters. Stir well. Strain into a cocktail glass and garnish with the lemon twist.",Delmonico No. 1,{null}
+299,1,111,{null},{null},{null},19,,Pour peach puree into glass and slowly add champagne. Stir gently. Garnish with a peach slice.,Bellini,{null}
+300,1,442,{null},{null},{null},18,,Combine all ingredients over ice in a glass.,Jack Frost,{null}
+301,1,503,{null},{null},{null},7,,"Put all ingredients into a blender, then liquify until it becomes a shake. Pour into the beer mugs, and you're set.",Liquid Courage,{null}
+302,1,728,{null},{null},{null},2,,,Sandy Collins,{null}
+303,1,130,{null},{null},{null},12,,Combine ingredients in a shot glass.,Black Rain,{null}
+304,1,58,{null},{null},{null},18,,"Stir all ingredients well with cracked ice, strain contents into a cocktail glass, and serve.",Andalusia,{null}
+305,1,897,{null},{null},{null},12,,The trick to getting the look of the Tornado is to pour the Tequila Rose slowly on the side of the shooter glass on top of the Sambuca.,White Tornado,{null}
+306,1,698,{null},{null},{null},15,,"Stir powdered sugar, water, and bitters in an old-fashioned glass. When sugar has dissolved add ice cubes and light rum. Add the twist of lime peel, float 151 proof rum on top, and serve.",Rum Old-Fashioned,{null}
+307,1,801,{null},{null},{null},5,,"Add the tequila, triple sec, sour mix and fruit (choose one fruit) to a blender with one cup of crushed ice. Blend well. Pour into a hurricane glass, and serve.",Strawberry Margarita,{null}
+308,1,790,{null},{null},{null},17,,Pour Licor 43 and coffee into a irish coffee cup. Float Whipped Cream and sprinkle a little cinnamon on top.,Spanish Coffee,{null}
+309,1,243,{null},{null},{null},2,,Pour ingredients into an ice-filled collins glass.,Cherry Tuesday,{null}
+310,1,22,{null},{null},{null},12,,"Stir over ice, strain into a double sized shot glass or serve on the rocks.",Absolut Nut,{null}
+311,1,833,{null},{null},{null},14,,"Pour tequila in a highball glass with ice, and top with orange juice. Stir. Add grenadine by tilting glass and pouring grenadine down side by flipping the bottle vertically very quickly. The grenadine should go straight to the bottom and then rise up slowly through the drink. Garnish stirrer, straw and cherry-orange.",Tequila Sunrise,{null}
+312,1,445,{null},{null},{null},15,,Must be equal parts. Shake in shaker over ice and strain into an old- fashioned.,Jack Knife,{null}
+313,1,520,{null},{null},{null},15,,"Shake all ingredients well with ice and pour on the rocks in an old-fashioned glass. Garnish with a slice of orange and a cherry, and serve.",Man o' War,{null}
+314,1,422,{null},{null},{null},18,,Combine ingredients in a cocktail shaker full of ice. Shake well and strain into a chilled cocktail glass.,Houston Hurricane,{null}
+315,1,905,{null},{null},{null},18,,Mix wine and soft drink. Pour into glass. Add ice.,Wine Cooler,{null}
+316,1,472,{null},{null},{null},18,,"Shake, strain into a cocktail glass, and serve.",Justine,{null}
+317,1,903,{null},{null},{null},15,,Pour over ice into old-fashioned glass. Garnish with a lime wheel.,Wild Thing,{null}
+318,1,146,{null},{null},{null},21,,"Stir ingredients together in a whiskey sour glass. Garnish with a lemon wedge, and serve.",Bloody Jager,{null}
+319,1,819,{null},{null},{null},15,,"Pour Zubrowka vodka over ice in an old-fashioned glass. Add apple juice and a lemon wedge, and serve.",Tatanka,{null}
+320,1,577,{null},{null},{null},2,,"Stir the Whiskey, schnapps and rum together in a large glass, Fill with Mountain Dew, and serve.",Morning After,{null}
+321,1,683,{null},{null},{null},18,,"Blend with 1/2 cup of ice for 15 seconds and pour into a champagne flute with a nutmeg/sugar mixture. Garnish with nutmeg, and serve.",Road Runner,{null}
+322,1,392,{null},{null},{null},2,,"Squeeze a Lime Wedge in a collins glass, and drop into the glass. Add grenadine and rums, fill with crushed ice, and stir well.",Habana Libre,{null}
+323,1,915,{null},{null},{null},19,,,Waterloo Sunset,{null}
+324,1,168,{null},{null},{null},18,,,Bottoms Up,{null}
+325,1,620,{null},{null},{null},2,,"Pour the tequila into a salt-rimmed collins glass filled with ice cubes. Fill with club soda. Splash lime juice on top, and serve.",Paloma,{null}
+326,1,731,{null},{null},{null},18,,"Shake, strain into a cocktail glass, and garnish with a slice of orange.",Satan's Whiskers,{null}
+327,1,395,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Hair Raiser,{null}
+328,1,184,{null},{null},{null},3,,"Place sugar, mint leaves, and brandy in a collins glass and fill with finely shaved ice. Stir until mint rises to top, being careful not to bruise leaves. Garnish with a slice of pineapple, orange, or lemon and a cherry.",Brandy Julep,{null}
+329,1,118,{null},{null},{null},15,,"Pour the Pusser's rum, brandy, lime juice, sugar and Cointreau into a cocktail shaker half-filled with ice cubes. Shake well, and strain into an old-fashioned glass filled with ice cubes. Fill with club soda, and serve.",Big Dipper,{null}
+330,1,539,{null},{null},{null},2,,"Shake and strain into an ice-filled collins glass. Garnish with a melon ball and a slice of lime on a stick, and serve with straws.",Melon Ball,{null}
+331,1,491,{null},{null},{null},18,,Pour all ingredients together into a cocktail shaker with ice.\,Kirkhouse Klassic,{null}
+332,1,107,{null},{null},{null},21,,"Mix shots in 3-4oz glass, stir, then drain it.",Beam Scream,{null}
+333,1,88,{null},{null},{null},2,,Serve with ice and stir.,Bocce Ball,{null}
+334,1,772,{null},{null},{null},2,,"Pour into an ice-filled collins glass. Add a half-slice of lemon, and serve.",Sloe Gin and Tonic,{null}
+335,1,917,{null},{null},{null},18,,,Chocolate Martini,{null}
+336,1,705,{null},{null},{null},14,,"Pour over ice in a small highball glass, stir, and serve.",Rum Stinger,{null}
+337,1,585,{null},{null},{null},2,,Fill collins glass with ice. Pour alcohols. Pour juices. Shake Optional. Orange and Pineapple garnish Optional,Navy Grog,{null}
+338,1,776,{null},{null},{null},18,,"Stir both ingredients together with ice to chill. Garnish with a twist of lemon peel, and serve.",Smoky Martini,{null}
+339,1,173,{null},{null},{null},14,,"In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, and bourbon. Shake well. Strain well. Strain into a highball glass. Garnish with the lemon twist.",Bourbon Sling,{null}
+340,1,97,{null},{null},{null},18,,Stir in a cocktail glass. Garnish with a twist of lemon peel.,Bamboo Cocktail,{null}
+341,1,219,{null},{null},{null},14,,"Combine in a highball glass with ice. Garnish with a wedge of lime, and serve.",Cape Codder,{null}
+342,1,216,{null},{null},{null},15,,Crush sugar into the lime wedges with a spoon. Place the lime wedges in the bottom of an 8 oz. glass. Cover with crushed ice. Pour vodka to fill the glass. It's a great summer drink.,Caipiroska,{null}
+343,1,151,{null},{null},{null},14,,"Half-fill a highball glass with ice. Pour the grenadine around the inside of the glass and on top of the ice to give that bloody look to it. Next, add the vodka (more if you prefer), then the sour apple pucker. Add the ginger ale, and then fill with 7-up. Garnish as desired, and serve.",Bloody Monkey,{null}
+344,1,361,{null},{null},{null},5,,Shake with ice and strain into a salt rimmed cocktail glass. Garnish with a Lime Wedge.,Gold Margarita,{null}
+345,1,744,{null},{null},{null},2,,"Shake scotch, juice of lime, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with 1/2 slice lemon, top with the cherry, and serve.",Scotch Sour,{null}
+346,1,537,{null},{null},{null},15,,"Pour ingredients into a mixing tin. Shake 8 to 10 times then strain into an old-fashioned glass, and serve.",Mello Yellow,{null}
+347,1,125,{null},{null},{null},15,,"Pour both ingredients into an old-fashioned glass, and serve.",Black Cat,{null}
+348,1,369,{null},{null},{null},2,,,Grateful Dead,{null}
+349,1,688,{null},{null},{null},18,"First created in 1894 by a bartender at the Waldorf Hotel in New York City, the Rob Roy is a cocktail similar to a Manhattan. The drink is named for the Scottish folk hero Robert Roy MacGregor. Also called the Scotch Manhattan.","Stir ingredients with ice, strain into a cocktail glass. Garnish with a cherry.",Rob Roy,{null}
+350,1,105,{null},{null},{null},14,,"First, add cubed ice, then add the three parts stoli, then add the pineapple juice and last but not least, add the cranberry juice for color.",Bay Breeze,{null}
+351,1,885,{null},{null},{null},2,,"Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with the half-slice of lemon, top with the cherry, and serve.",Whiskey Sour,{null}
+352,1,423,{null},{null},{null},18,,Combine ingredients in a cocktail shaker with ice. Shake well and strain into a cocktail glass.,Hula-Hula Cocktail,{null}
+353,1,636,{null},{null},{null},14,,Pour over ice cubes in a highball glass. Fill with cold water and stir well.,Perroquet,{null}
+354,1,307,{null},{null},{null},14,,"Build the gin, lime juice and raspberry liqueur in a highball glass filled with ice. Top with ginger ale, garnish with a wedge of lime and an edible flower, and serve.",Floradora,{null}
+355,1,241,{null},{null},{null},18,,Serve as a shot or on the rocks.,Cherry Bomb,{null}
+356,1,412,{null},{null},{null},14,,Build over ice. Stir and garnish with a lime slice.,Hill Topper,{null}
+357,1,460,{null},{null},{null},14,,,Jersey Tea,{null}
+358,1,229,{null},{null},{null},18,,Mix and serve.,Champagne Martini,{null}
+359,1,342,{null},{null},{null},15,,Shake ingredients in a cocktail shaker with ice. Strain into an old fashioned glass. Garnish with a twist of lime.,Gin Daiquiri,{null}
+360,1,508,{null},{null},{null},18,,Pour the liqueur into glass. Fill with Baja Luna. Stir. Add cherry for garnish.,Lunar Eclipse,{null}
+361,1,657,{null},{null},{null},18,,Mix drinks over ice before serving in a shot glass. Tastes like a peppermint patty!,Planter's Cocktail,{null}
+362,1,574,{null},{null},{null},2,,"Start with the grenadine, then beer, then 7up. Stir well on the rocks, and you're good to go.",Monaco,{null}
+363,1,234,{null},{null},{null},18,,"Rub rim of glass with lemon juice and dip rim in salt. Put 4 ice cubes into the glass, add Tequila and juice of half a lemon. Add some more salt if you like and fill the glass with Coca-COla. Stir gently.",Charro Negro,{null}
+364,1,623,{null},{null},{null},18,,,Pancho Villa,{null}
+365,1,208,{null},{null},{null},14,,"Line rim of glass with salt & pepper. Over ice add vodka, fill with Clamato Juice then add remaining ingredients. Garnish with celery stick.",Caesar,{null}
+366,1,523,{null},{null},{null},18,One of the finest and oldest cocktails. The Manhattan was the first cocktail that used vermouth as a modifier.,"Combine the vermouth, whiskey, bitters and ice in a mixing glass. Stir gently, don't bruise the spirits and cloud the drink. Place the cherry in a chilled cocktail glass and strain the whiskey mixture over the cherry. Rub the cut edge of the orange peel over the rim of the glass and twist it over the drink to release the oils but don't drop it in.",Manhattan,{null}
+367,1,452,{null},{null},{null},18,,"Start with the ice cubes. Pour rum and orange juice. Carefully add blue curacao, making sure it falls to the bottom. Layer pineapple vodka on top.",Jamaican Green Sunrise,{null}
+368,1,755,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine the rum, brandy, vermouth, lemon juice, and sugar. Shake well. Strain into a cocktail glass and garnish with the lemon twist.",Serpentine,{null}
+369,1,405,{null},{null},{null},21,,,Hemingway Especial,{null}
+370,1,477,{null},{null},{null},18,,"Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.",Kamikaze Cocktail,{null}
+371,1,902,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Widow's Kiss,{null}
+372,1,852,{null},{null},{null},14,,"Pour ricard over ice cubes in an aperitif glass. Add grenadine, fill with water, and stir.",Tomate,{null}
+373,1,856,{null},{null},{null},18,,Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.,Tuxedo Cocktail,{null}
+374,1,641,{null},{null},{null},14,,,Pimm's Cup,{null}
+375,1,188,{null},{null},{null},18,,"Basically, toss the Rum & Vodka together and stir gently. Next, pour in the orange juice . Shake well. Pour over ice.",Brass Monkey,{null}
+376,1,758,{null},{null},{null},2,,"Shake all ingredients with ice, strain into a whiskey sour glass, and serve.",Sevilla Cocktail,{null}
+377,1,575,{null},{null},{null},18,,Stir with ice and strain into a chilled cocktail glass. Add a twist of lemon.,Montgomery,{null}
+378,1,461,{null},{null},{null},2,,"In a shaker half-filled with ice cubes, combine the Scotch, lemon juice, and sugar. Shake well. Strain into a collins glass alost filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice.",Jock Collins,{null}
+379,1,417,{null},{null},{null},10,,"Add the sugar, butter and cloves to a coffee mug. Pour the rum, and stir well. Fill with boiling water. Stir again, and serve.",Hot Buttered Rum,{null}
+380,1,227,{null},{null},{null},19,,"Pour the gin, lemon juice and sugar in a cocktail shaker half-filled with ice cubes, and shake well. Strain into a champagne flute, add champagne, and serve.",Champagne Fizz,{null}
+381,1,756,{null},{null},{null},18,,"Put a few cubes of ice inside glass. Pour shot of Seagram 7 into the glass, then Pour 7-UP into glass. Shake or stir briskly.",Seven and Seven,{null}
+382,1,100,{null},{null},{null},12,,Put the liquor in the shot glass equally,Barracuda,{null}
+383,1,63,{null},{null},{null},18,,Combine ingredients in a shaker 1/3 full of ice. Shake and strain into a chilled cocktail glass.,Apple Daiquiri,{null}
+384,1,350,{null},{null},{null},2,,"In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.",Gin Sour,{null}
+385,1,730,{null},{null},{null},2,,"First created in a shoemaker's restaurant in Washington, circa 1900. Named after Col. Jim Ricky, the customer for which a bartender created the first Gin Ricky.Shake the first three ingredients with ice and then strain into an ice filled glass. Top with soda water (approximately 3oz). Emerse a length of lemon peel around the edge of the glass as garnish.",Sapphire Ricky,{null}
+386,1,210,{null},{null},{null},10,,Combine ingredients in a coffee mug. Top with whipped cream.,Cafe Marnier,{null}
+387,1,277,{null},{null},{null},12,,Mix all three ingredients in a cocktail mixer with ice. Pour into shot glasses.,Death Bed,{null}
+388,1,203,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",Bumbo,{null}
+389,1,86,{null},{null},{null},7,,Blend with ice and serve with a cherry on top.,Baby Jane,{null}
+390,0,427,{null},{null},{null},22,,,Iced Water,{null}
+391,1,81,{null},{null},{null},12,,"Layer in order into a shot glass, so that the kahlua is at the bottom.",B-55,{null}
+392,1,478,{null},{null},{null},18,Kangaroo is the original name for a Vodka Martini.,Stir with ice and strain into a chillled cocktail glass. Garnish with a lemon zest.,Kangaroo,{null}
+393,1,366,{null},{null},{null},2,,,Grand Orange Collins,{null}
+394,1,658,{null},{null},{null},9,"Origins of this drink are hotly disputed, but it first appeared in print in a 1908 edition of the New York Times.",Combine all ingrdients. Serve over ice in a collins glass. Garnish with lime wedge and maraschino cherry.,Planter's Punch,{null}
+395,1,414,{null},{null},{null},18,,Mix ingredients pour into glass and enjoy.,Honey Bee,{null}
+396,1,625,{null},{null},{null},2,,"Pour tequilla, vodka and kahlua over ice in a collins glass. Half-fill with coke, and top with Light Cream or milk. Stir gently with a straw, and serve.",Paralyzer,{null}
+397,1,54,{null},{null},{null},2,,"Stir the whiskey, the bitters and the sugar in a collins glass until the sugar is dissolved. Fill up with champagne and garnish with a slice of peach.",Americana,{null}
+398,1,16,{null},{null},{null},18,,,Absinthe Cocktail,{null}
+399,1,135,{null},{null},{null},14,,"Pour the vodka, Tia Maria coffee liqueur, Southern Comfort and Coca-cola into a cocktail shaker half-filled with ice cubes. Shake well. Strain into a highball glass filled with ice cubes, and serve.",Black Ukrainian,{null}
+400,1,684,{null},{null},{null},2,,Mix 1 part of each type of alcohol (1 shot or less of each) in a large glass. Top off with Fruit Punch. Serve with ice.,Roadrunner Punch,{null}
+401,1,406,{null},{null},{null},14,,"This is a popular recipe from Key West, Florida, where it's rumoured to have been Ernest Hemingway's favorite drink. It is only properly made at Sloppy Joe's Bar, in Key West itself.Combine all ingredients with one cup of crushed ice in a cocktail shaker or blender for 30 seconds. Pour into a highball glass and serve with a lime wedge.",Hemingway Hammer,{null}
+402,1,761,{null},{null},{null},14,,Shake all except orange juice with ice. Pour into a hiball glass filled with ice. Fill with orange juice.,Sex on the Grass,{null}
+403,1,675,{null},{null},{null},12,,Inventory  - Steve Skowronski\,Red Headed Stepchild,{null}
+404,1,437,{null},{null},{null},17,,Pour liqueurs into a irish coffe cup. Fill with good quality Hot Chocolate. Add plenty of Whipped Cream.,Irish Monk,{null}
+405,1,388,{null},{null},{null},18,,"Put into mixing glass all of above. Mix well, pour into cocktail glass.",Gun Barrel,{null}
+406,1,467,{null},{null},{null},18,,Shake and strain into a cocktail glass. Garnish with a slice of pineapple and a cherry. Serve.,Juliet,{null}
+407,1,322,{null},{null},{null},15,,"Pour both ingredients over cracked ice in an old-fashioned glass. Stir well, and serve.",Fraser,{null}
+408,1,910,{null},{null},{null},14,,"Rub inside of glass with lemon juice, then sprinkle with sugar. Freeze glass to achieve a frosted affect. Shake together the other ingrediants. Pour into frosted glass and enjoy!",Wolfsbane,{null}
+409,1,152,{null},{null},{null},2,,"Fill collins glass with ice, add vodka, worcestershire, tabasco, horseradish, and celery salt. Fill with tomato juice. Shake well and garnish with celery stalk, lemon and lime wedges. Salt & pepper to taste.",Bloody Morning,{null}
+410,1,661,{null},{null},{null},12,,"build contents into a shot glass guaranteed night-ender for 21st birthday outings! (invented @ 901 Club, Los Angeles)",Pollyanna,{null}
+411,1,443,{null},{null},{null},2,,Fill a collins glass with ice and dump it into a cocktail shaker. Add ingredients and shake well. Pour contents of shaker into collins glass. Garnish with an orange slice.,Jack Gin,{null}
+412,1,643,{null},{null},{null},14,,,Pimm's Royal,{null}
+413,1,600,{null},{null},{null},2,,Stir ingredients together in a collins glass filled with ice cubes. Top with a cherry and serve.,Ocean Breeze,{null}
+414,1,374,{null},{null},{null},14,,"Heather Drobnoek made and named this drink after her best cover band in Pennsylvania to use as a drink special when the band plays.Pour the vodka and Irish cream into a cocktail shaker half-filled with ice cubes. Add the milk and green creme de menthe. Shake well, pour into a highball glass half-filled with ice cubes, and serve.",Green Eggs,{null}
+415,1,154,{null},{null},{null},14,,"Add orange juice, vodka and peach schnapps in a glass with ice. Add splashes of grenadine.",Bloody Navel,{null}
+416,1,482,{null},{null},{null},18,,Shake ingredients in a mixing glass with ice. Stir and strain into a cocktail glass.,King James II,{null}
+417,1,506,{null},{null},{null},14,,,Long Island Iced Tea,{null}
+418,1,171,{null},{null},{null},14,,"Pour bourbon into a highball glass over ice cubes. Fill with carbonated water and stir. Add the twist of lemon peel and serve. (Ginger ale may be substituted for carbonated water, if preferred.)",Bourbon Highball,{null}
+419,1,217,{null},{null},{null},14,,,California Iced Tea,{null}
+420,1,429,{null},{null},{null},17,,"Combine whiskey, sugar and coffee in mug and stir to dissolve. Float cold cream gently on top. Do not mix.",Irish Coffee,{null}
+421,1,174,{null},{null},{null},2,,"Pour the bourbon whiskey, sloe gin and lemon juice over cracked ice in a chilled collins glass. Stir gently. Add 3 ice cubes, and fill with soda/sparkling water. Garnish with a maraschino cherry and a slice of lemon, and serve.",Bourbon Sloe Gin Fizz,{null}
+422,1,119,{null},{null},{null},14,,"Pour the vodka, Jack Daniel's Country Cocktails (Downhome Punch flavor), Lemon-Lime Cola, and sweetened lime juice into a highball glass half-filled with ice cubes. Stir well. Pour grenadine around the side of the glass for effect, and serve.",Big Johnson,{null}
+423,1,244,{null},{null},{null},20,,"Blend vodka, pineapple juice, and cream of coconut with one cup ice in an electric blender at a high speed. Pour into a red wine glass, decorate with the slice of pineapple and the cherry, and serve.",Chi-Chi,{null}
+424,1,751,{null},{null},{null},18,,"Invented by \Killer K.\"" This drink is best with pepper-infused vodka. I grew some hot (and I mean HOT) peppers last year",Secret Soviet,{null}
+425,1,687,{null},{null},{null},15,,Mix the indegrients in a glass and stir. Add ice cubes.,Rob Love,{null}
+426,1,654,{null},{null},{null},2,,Mix everything together.,Plain Jane Screw,{null}
+427,1,103,{null},{null},{null},23,,Blend with 1 cup of ice until smooth and pour into a wine glass.,Batida Abaci,{null}
+428,1,44,{null},{null},{null},21,,"Add all ingredients to a cocktail shaker half-filled with ice cubes. Shake vigorously, pour over ice in a highball glass, and serve.",Amaretto Sour,{null}
+429,1,729,{null},{null},{null},1,,,Sangria,{null}
+430,1,212,{null},{null},{null},18,,"Pour the sambuca, coffee liqueur and cream into a cocktail shaker half-filled with ice cubes. Shake well, strain into a cocktail glass, and serve.",Cafe Romano,{null}
+431,1,749,{null},{null},{null},18,,\The Screwy Ruby is a magical combination!  Not a single dissatisfied customer yet and after they've had one,Screwy Ruby,{null}
+432,1,895,{null},{null},{null},9,,"Pour coconut rum, ameretto, and equal parts pineapple juice/sweet and sour into mixing tin with ice.  Shake.  Strain into pre-iced hurricane glass.  Float hpnotiq.  Garnish with 2 Lime Wedges and a pineapple cube.  serve.",White Sandy Beach,{null}
+433,1,584,{null},{null},{null},18,One of the finest and oldest cocktails. The Manhattan was the first cocktail that used vermouth as a modifier.,"Combine the vermouth, whiskey, bitters and ice in a mixing glass. Stir gently, don't bruise the spirits and cloud the drink. Place the cherry in a chilled cocktail glass and strain the whiskey mixture over the cherry. Rub the cut edge of the orange peel over the rim of the glass and twist it over the drink to release the oils but don't drop it in.",Narragansett,{null}
+434,1,17,{null},{null},{null},19,,Stir ingredients and pour over crushed ice in a deep-saucer champagne glass. Add orange slice.,Absinthe Curacao Frappe,{null}
+435,1,714,{null},{null},{null},14,,"Pour whiskey into a glass with ice. Add dr. pepper, stir, and serve.",Rye and Pepper,{null}
+436,1,764,{null},{null},{null},2,,,Sherron Collins,{null}
+437,1,524,{null},{null},{null},18,,Shake ingredients with ice; strain into a cocktail glass.,Maraca,{null}
+438,1,799,{null},{null},{null},18,,"Shake ingredients with ice, strain into a cocktail glass, and serve.",Stinger,{null}
+439,1,605,{null},{null},{null},18,,"Pour the gin, Lillet, orange bitters and creme de noyaux into a mixing glass half-filled with ice cubes. Stir well, and strain into a cocktail glass. Garnish with a twist of orange peel, and serve.",Old Etonian,{null}
+440,1,631,{null},{null},{null},18,,"Shake well over ice cubes in a shaker, and strain into a chilled cocktail glass.",Park Lane,{null}
+441,1,409,{null},{null},{null},5,,"Pour the tequila, Grand Marnier, Drambuie and sour mix (to taste) into a cocktail shaker half-filled with ice cubes. Shake well. Pour into a salt-rimmed margarita glass, garnish with a slice of lime, and serve.",Highland Margarita,{null}
+442,1,347,{null},{null},{null},14,,pour Seagram's Lime-Twisted gin over ice and fill with Tonic Water. Garnish with a slice of lime.,Gin Limey,{null}
+443,1,468,{null},{null},{null},14,,Mix everything except orange juice Shake well and add with Orange Juice Enjoy,Jungle Juice,{null}
+444,1,858,{null},{null},{null},14,,"Prepare your highball or other type glass by loading it half full of ice (at least 1/2 a cup). Crushed is best since it chills the drink quickly and lightens the taste. Build the ingredients with the alcohol first (except the dark rum) and then the juice and syrups. Stir all the ingredients with a straw (except dark rum). Slowly pour the dark rum on the surface in order to float it on the rest of the drink. As you consume the drink with a straw, the dark rum trickles down and gives a cool appearance.",Ultimate Mai Tai,{null}
+445,1,832,{null},{null},{null},18,,"Invented by Mr. Morgan on his honeymoon in the Caribbean. Mr. Morgan combined his two favorties, margarita on the rocks and tequila sunrise, into one delicious drink. This versitle drink combines many great flavors and allows the drinker to drift into a worry free state fit for the Caribbean.Combine ingredients and give a brisk shake. Poor over ice and enjoy.",Tequila Sunburn,{null}
+446,1,323,{null},{null},{null},14,,"Pour the tequila and orange juice into a highball glass almost filled with ice cubes. Pouring slowly and carefully over the back of a teaspoon, float the Galliano on top of the drink.",Freddy Fudpucker,{null}
+447,1,98,{null},{null},{null},18,,"Shake rum, creme de banana, cream, and grenadine with crushed ice and strain into a cocktail glass. Decorate with the banana slice, sprinkle nutmeg on top, and serve.",Banana Cow,{null}
+448,1,74,{null},{null},{null},18,,"Pour both the Remy Martin cognac and Zima into a cocktail shaker half-filled with ice cubes. Shake gently, strain into a highball glass, and serve.",Autumn In New York,{null}
+449,1,481,{null},{null},{null},9,,"Combine the coffee liqueur, light rum, coconut cream, milk and banana in a blender with half a cup of crushed ice. Blend until smooth. Pour into a hurricane glass, garnish with a slice of banana and serve.",King Burro,{null}
+450,1,127,{null},{null},{null},12,,"Pour all ingredients over ice in a shaker, strain into shot glass. Drink while cold!",Black Cherry Shot,{null}
+451,1,504,{null},{null},{null},14,,,Long Beach Iced Tea,{null}
+452,1,732,{null},{null},{null},14,,mix all ingredients in glass and enjoy!!,Satin Angel,{null}
+453,1,805,{null},{null},{null},18,,"Make sure all ingredients are cold! Serve shaken, straight up with a twist.",Summer Martini,{null}
+454,1,809,{null},{null},{null},14,,Combine all the ingredients in a tall glass over ice.,Sun Of A Beach,{null}
+455,1,566,{null},{null},{null},15,,"In a rocks glass pour vodka, the Kahlua and then the tonic water. Serve with a straw.",Mind Eraser,{null}
+456,1,261,{null},{null},{null},14,,"Stir ingredients together in a highball glass filled with ice cubes, and serve.",Crime Loyal,{null}
+457,1,849,{null},{null},{null},22,,"Beat egg whites stiff with electric beator, Add sugar gradually, add cinnamon, nutmeg and vanille, add in half of the eggs yolks blend until smooth. In Large mug fill with 1/2 batter 2 shots of 60% rum and 40% brandy (mixture) balance with boiling hot water. Stir well and sprinkle with nutmeg.",Tom and Jerry,{null}
+458,1,263,{null},{null},{null},18,,"Stir and strain into a cocktail glass. Add the soda, garnish with two cherries on a stick, and serve.",Crimean Cocktail,{null}
+459,1,195,{null},{null},{null},14,,"Pour the tequila and grenadine into a highball glass. Add advocaat, but don't mix properly. Dilute to desired strength with lemonade, and serve.",Broken Nose,{null}
+460,1,474,{null},{null},{null},2,,Shake everything with ice. Strain into a Collins glass filled with ice.,Kahlua Mudslide,{null}
+461,1,717,{null},{null},{null},12,,"Drink this just like a shot of tequila. Mix the cognac and cointreau together in the shot glass. Lick between your thumb and forefinger and sprinkle sugar on it. Then lick the sugar, drink the shot, and suck on the lemon wedge when you're done.",S.O.B.,{null}
+462,1,79,{null},{null},{null},12,,"Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52",B-53,{null}
+463,1,456,{null},{null},{null},18,,"Combine equal parts of each ingredient in a cocktail glass. Stir, and serve.",Japanese Slipper,{null}
+464,1,901,{null},{null},{null},12,,Shake & strain,White Witch,{null}
+465,1,686,{null},{null},{null},18,,"Pour Licor 43 over ice in a cocktail shaker. Stir, add 42 Below vodka, and shake firmly until cold settles in. Pour double strained through a tea strainer into a martini cocktail glass (should be a smokey colour, the colour of white horses on a stormy sea). Garnish with a floated twist of dried vanilla bean, and serve.",Roaring 40's,{null}
+466,1,177,{null},{null},{null},18,,"In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",Brainstorm,{null}
+467,1,561,{null},{null},{null},14,,Shake liquor and milk with cracked ice and strain into a chilled highball glass. Sprinkle nutmeg on top,Milk Punch,{null}
+468,1,191,{null},{null},{null},18,,Shake well and strain into a cocktail glass. Sprinkle with nutmeg.,Breakfast,{null}
+469,1,599,{null},{null},{null},15,,"In a shaker half-filled with ice cubes, combine the gin, orange juice, grapefruit juice, and bitters. Shake well. Strain into an old-fashioned glass almost filled with the cubes. Garnish with the lemon twist and the cherry.",Oaxaca Jim,{null}
+470,1,284,{null},{null},{null},1,,Mix rum and heavy whipping cream in a 2 quart pitcher until frothy. Add orange juice to top of pitcher. Stir lightly. Pour into old fashioned glasses.,Discordia,{null}
+471,1,206,{null},{null},{null},18,,Shake ingredients with ice and strain into a cocktail glass.,Cabo,{null}
+472,1,733,{null},{null},{null},15,,"Combine kahlua, Irish cream, and chocolate liqueur over ice. Add milk to fill the glass.",Satin Sheets,{null}
+473,1,533,{null},{null},{null},9,,Pour ingredients over ice. Mix well in glass and serve.,Medinah,{null}
+474,1,155,{null},{null},{null},2,,"Mix Cointreau, rum, vodka, and peach schnapps in a glass filled with ice cubes, and fill with orange juice, leaving enough room to top with grenadine.",Bloody Navel Screw,{null}
+475,1,387,{null},{null},{null},12,,Very easy. Fill shot glass about 4/5 of the way with Butterscotch schnapps. Float a layer of Bailey's Irish Cream on schnapps. Float a layer of Aftershock on the Bailey's.,Guillotine,{null}
+476,1,794,{null},{null},{null},12,,"Pour Bacardi 151 in the shot glass first, then pour Rumplminze on top, do not mix.",Sparkplug,{null}
+477,1,259,{null},{null},{null},18,,"Pour all ingredients into a cocktail shaker half-filled with ice cubes. Shake well, strain into a cocktail glass, and serve.",Creme de Gin,{null}
+478,1,624,{null},{null},{null},14,,Pour in vodka & rum. Follow with pineapple juice. Top off with cranberry. stir and enjoy! Try Dole's pineapple-banana juice for a great variation.,Paradise Bliss,{null}
+479,1,870,{null},{null},{null},14,,Pour vodka over ice. Add 1/2 club soda and 1/2 tonic to taste. Garnish with a wedge of lime.,Vodka Sonic,{null}
+480,1,867,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Vodka Grasshopper,{null}
+481,1,716,{null},{null},{null},12,,Mix in a shot glass.,Rythym & Blues,{null}
+482,1,404,{null},{null},{null},2,,"Combine all ingredients together in a cocktail shaker half-filled with ice cubes. Shake and strain into an ice-filled collins glass. Garnish with pineapple spear, maraschino cherry and mint sprig. Serve.",Hawaiian Mai Tai,{null}
+483,1,922,{null},{null},{null},21,,,Gin Fix,{null}
+484,1,663,{null},{null},{null},23,,"Shake with ice and strain into a wine glass. Garnish with nutmeg, and serve.",Port Flip,{null}
+485,1,425,{null},{null},{null},9,,Build over ice in a hurricane glass and shake.,Hurricane Patty,{null}
+486,1,578,{null},{null},{null},18,,,Morning Glory,{null}
+487,1,60,{null},{null},{null},23,,"Peel and slice the banana; add to blender. Add vodka, lime juice and honey (or substitute almond syrup). Add cracked ice, and blend on medium speed for 15 seconds. Pour into a chilled white wine glass, garnish with a slice of lime, and serve.",Anna's Banana,{null}
+488,1,753,{null},{null},{null},14,,"Mix liquor, juice, and grenadine. Shake well. Strain into ice filled highball glass.",Serial Killer,{null}
+489,1,493,{null},{null},{null},18,,"Stir all ingredients with ice, strain into a cocktail glass, and serve.",Kiss in the Dark,{null}
+490,1,157,{null},{null},{null},2,,Pour all ingredients into a cocktail shaker half-filled with ice cubes. Shake well and strain into a collins glass over ice cubes. Garnish with an orange slice if desired.,Bloody Sharkbite,{null}
+491,1,239,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",Chelsea Hotel,{null}
+492,1,638,{null},{null},{null},2,,,Phil Collins,{null}
+493,1,163,{null},{null},{null},6,,Mix amaretto and grand marnier in a brandy snifter or glass. Add hot tea to taste.,Blueberry Tea,{null}
+494,1,553,{null},{null},{null},14,,Pour over ice.,Midori Green Russian,{null}
+495,1,337,{null},{null},{null},18,,Stir gin and vermouth over ice cubes in a mixing glass. Strain into a cocktail glass. Add the cocktail onions and serve.,Gibson Martini,{null}
+496,1,899,{null},{null},{null},7,,"\Many things Russian are actually a slightly watered down version of something cooler in Ukrainian (anyone who tells you differently is buying into years of communist propoganda).  So clearly a White Russian is just a watered down version of the real drink which has been kept hidden behind the iron curtain for far too long.\"". Thanks to Anna Lawrence.Pour all alcohol directly into glass (over ice",White Ukrainian,{null}
+497,1,407,{null},{null},{null},18,,,Hennessy Twist,{null}
+498,1,820,{null},{null},{null},14,,,Tennessee Iced Tea,{null}
+499,1,36,{null},{null},{null},15,,Shake and strain into an old-fashioned glass filled with cracked/broken ice. Add a maraschino cherry.,Albert 2000,{null}
+500,1,258,{null},{null},{null},15,,"Pour all ingredients into a cocktail shaker half-filled with ice cubes. Shake well, strain into an old-fashioned glass, and serve.",Creme de Cafe,{null}
+501,1,565,{null},{null},{null},19,Named after the yellow flowers of the Mimosa tree.,"Pour orange juice into a collins glass over two ice cubes. Fill with chilled champagne, stir very gently, and serve.",Mimosa,{null}
+502,1,21,{null},{null},{null},15,,Shake all ingredients together and strain over ice into a old fashioned/rock glass. Garnish with lemon and anis star.,Absinthe Sour,{null}
+503,1,266,{null},{null},{null},18,,"Shake ingredients together with cracked ice in a cocktail shaker. Strain into a chilled cocktail glass. Garnish with a lime twist, and serve.",Crimson Martini,{null}
+504,1,336,{null},{null},{null},15,,"Stir ingredients together over ice in a short glass, and serve.",Ghetto Margarita,{null}
+505,1,101,{null},{null},{null},7,,"Mix ingredients in a shaker, shake until foamy, pour into mug. Should come out foamy, like rootbeer!",Bartender's Rootbeer,{null}
+506,1,318,{null},{null},{null},15,,Shake everything with ice; strain into an old-fashioned glass.,Foxhound,{null}
+507,1,200,{null},{null},{null},18,,"Pour the spiced rum, creme de cacao, creme de bananes and half-and-half into a cocktail shaker half-filled with ice cubes. Shake well, and strain into a chilled cocktail glass. Garnish with a dusting of nutmeg, and serve.",Buddha's Banshee,{null}
+508,1,454,{null},{null},{null},14,,"Shake the Tia Maria and Malibu in a cocktail shaker with crushed ice. Strain into a highball glass filled with ice cubes, top with Lemon-Lime Cola, and serve.",Jamaican Rumshaker,{null}
+509,1,38,{null},{null},{null},18,"It was named after the famous Algonquin hotel in New York City although when exactly it was created is unclear. The hotel, built in 1902, was known as a ""dry"" hotel even before Prohibition.","Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.",Algonquin,{null}
+510,1,874,{null},{null},{null},2,,"Add the lime juice, sugar, vodka and bitters to a cocktail shaker half-filled with ice cubes, and shake well. Almost fill a collins glass with crushed ice and stir until the glass is frosted. Strain the mixture from the shaker into the glass, and add club soda. Serve with a swizzle stick.",Vodka Swizzle,{null}
+511,1,704,{null},{null},{null},2,,"In a shaker half-filled with ice cubes, combine the rum, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.",Rum Sour,{null}
+512,1,282,{null},{null},{null},15,,"Pour ingredients into an old-fashioned glass filled with ice cubes, stir well, and serve.",Dirty Mother,{null}
+513,1,619,{null},{null},{null},15,,"Stir the gin, vermouths and creme de cacao together in an old-fashioned glass half-filled with ice cubes, and serve.",Pall Mall,{null}
+514,1,604,{null},{null},{null},18,,"Pour the vodka, madeira wine and cherry brandy into a mixing glass half-filled with cracked ice. Stir well, and strain into a chilled cocktail glass. Garnish with an orange twist, and serve.",Old Country Martini,{null}
+515,1,587,{null},{null},{null},15,Believed to have been named for Count Cammillo Negroni when he ordered an Americano with gin.,Stir over ice and pour into a rocks glass. Garnish with a lemon zest.,Negroni,{null}
+516,1,306,{null},{null},{null},18,,"Muddle the pineapple pieces and cointreau in the bottom of a mixing glass. Add vodka and pineapple juice and stir. Strain into a chilled cocktail glass and top with champagne. Garnish with a cherry, and serve.",Flirtini,{null}
+517,1,68,{null},{null},{null},18,,"Place sugar at bottom of a cocktail glass, and grind the lime slices down. Add cranberry vodka and carbonated water, and mix thoroughly with a spoon. Add a couple ice cubes and garnish with a slice of lemon.",Arctic Red,{null}
+518,1,448,{null},{null},{null},2,,,Jallu Collins,{null}
+519,1,813,{null},{null},{null},14,,"Mix liqueur, vodka and orange juice in a highball glass. Add some ice and fill the glass with Ginger Ale (or Sprite if you don't have Ginger Ale). Decorate with a slice of orange.",Sunrise,{null}
+520,1,788,{null},{null},{null},2,,"Pour vodka, baja rosa and Malibu into a whiskey sour glass. Stir, top with fruit punch, and serve.",Soviet Holiday,{null}
+521,1,649,{null},{null},{null},14,,Combine over ice in a highball glass and stir.,Pirate's Punch,{null}
+522,1,562,{null},{null},{null},2,,"Shake. Garnish with cut apple, lemon, pineapple-leaves.",Milky Way,{null}
+523,1,868,{null},{null},{null},14,,,Vodka Greyhound,{null}
+524,1,340,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",Gin And Sin,{null}
+525,1,39,{null},{null},{null},15,,Just mix the three ingredients one to one to one,Alice in Wonderland,{null}
+526,1,207,{null},{null},{null},14,,"Pour the Malibu coconut rum and Kahlua coffee liqueur into a highball glass filled with ice cubes. Fill with orange juice, garnish with a cherry, and serve.",Cabo Beach Party,{null}
+527,1,257,{null},{null},{null},2,,"Pour all ingredients into a collins glass over ice cubes, stir, and serve.",Creamsicle,{null}
+528,1,797,{null},{null},{null},12,,"Pour both ingredients into a shot glass, and serve.",Spy Catcher,{null}
+529,1,458,{null},{null},{null},18,,Mix together in glass.,Jealous Queen,{null}
+530,1,845,{null},{null},{null},2,,Mix all ingredients over ice stir and serve with a cherry,Toasted Fisherman,{null}
+531,1,667,{null},{null},{null},14,,Pour blended whiskey into a highball glass filled with ice cubes. Fill with equal parts of cola and ginger ale and stir well. Add the slice of lemon and serve.,Presbyterian,{null}
+532,1,871,{null},{null},{null},21,,"Shake well over ice cubes in a shaker, and strain into a whiskey sour glass. Garnish with a stemmed cherry, and serve.",Vodka Sour,{null}
+533,1,800,{null},{null},{null},14,,Fill a highball glass with ice cubes. Add whiskey and bitters and fill with apple cider. Both Bourbon and Scotch can be used.,Stone Fence,{null}
+534,1,335,{null},{null},{null},16,,Combine ingredients in a shot glass.,German Thug,{null}
+535,1,142,{null},{null},{null},18,,"Pour the vodka, Tia Maria coffee liqueur and orange juice into a cocktail shaker. Shake well, strain into a cocktail glass, and serve.",Blenheim,{null}
+536,1,514,{null},{null},{null},2,,Throw a few rocks into a collins glass. Squeeze in a segment of lime (about 1/2 oz). Pour the Gin into the glass and add the cranberry juice. Top up with orange juice and throw in the other segment of lime. Pain free and delicious.,Mackenzie,{null}
+537,1,70,{null},{null},{null},18,,Shake lillet and cointreau with ice. Strain into cocktail glass. Add splash of vermouth for color.,Ash Blonde,{null}
+538,1,29,{null},{null},{null},12,,Pour both ingredients and let them mix somewhat. (You can stir it to help it out),Afterburner,{null}
+539,1,213,{null},{null},{null},10,,"Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.",Cafe Savoy,{null}
+540,1,918,{null},{null},{null},15,,,Gemini,{null}
+541,1,114,{null},{null},{null},2,,"Combine ingredients in a collins glass. Stir, and serve.",Berry Bananza,{null}
+542,1,509,{null},{null},{null},2,,"Pour the Stoli Ohranj (orange vodka) into a collins glass filled with ice cubes. Add the Cointreau, orange juice and cranberry juice. Top off with club soda, and serve.",Luscious Lou,{null}
+543,1,324,{null},{null},{null},19,,"Shake all ingredients (except champagne) well over ice cubes in a shaker. Strain into a champagne flute, slowly fill with champagne, and serve.",French 68,{null}
+544,1,379,{null},{null},{null},11,,"Cider First, Lager then Curacao",Green Goblin,{null}
+545,1,220,{null},{null},{null},14,,"Pour Vodka and Cranberry Juice into a High Ball glass over ice. Stir well, add the wedge of lime, and serve.",Cape Codder #2,{null}
+546,1,435,{null},{null},{null},18,,"Pour the Irish whiskey into a chilled cocktail glass. Swirl around the glass in order to coat; drain excess. Pour the vodka and vermouth into a cocktail shaker half-filled with cracked ice. Shake well, and strain into the cocktail glass. Garnish with a twist of lemon, and serve.",Irish Martini,{null}
+547,1,711,{null},{null},{null},15,,Stir together in an old-fashioned/rocks glass with ice.,Russian Turkey,{null}
+548,1,288,{null},{null},{null},18,,Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.,Dubonnet Cocktail,{null}
+549,1,595,{null},{null},{null},18,,Shake ingredients in a cocktail shaker with ice. Strain into a cocktail glass.,Nooner,{null}
+550,1,462,{null},{null},{null},2,,Pour scotch and sweet and sour into a collins glass over ice cubes and stir well. Fill with cola and stir lightly. Top with the cherry and serve.,Joe Collins,{null}
+551,1,757,{null},{null},{null},18,,Shake all ingredients (except mint sprig) with ice and strain into a cocktail glass. Add the sprig of mint and serve.,Seventh Heaven Cocktail,{null}
+552,1,249,{null},{null},{null},18,,"Shake well and strain into a double-cocktail glass filled with crushed ice. Garnish with a slice of lemon, and serve.",Clover Club Royal,{null}
+553,1,708,{null},{null},{null},2,,,Russell Collins,{null}
+554,1,329,{null},{null},{null},14,,"Pour all ingredients into a highball glass, and stir. Garnish with a slice of orange and a maraschino cherry, and serve.",French Fantasy,{null}
+555,1,312,{null},{null},{null},18,,Pour contents in shaker over ice and shake well. Pour into glass. This is a big shooter so you have to use a small rocks glass.,Four Horsemen,{null}
+556,1,766,{null},{null},{null},18,,"Shake all ingredients well with ice and strain into a chilled cocktail glass. Garnish with flamed orange peel, and serve.",Sherry Cocktail,{null}
+557,1,85,{null},{null},{null},16,,"Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall of shot glass. This will give the \Guinness\"" its \""head\"".""",Baby Guinness,{null}
+558,1,59,{null},{null},{null},15,,"Pour both ingredients into an old-fashioned glass half-filled with ice cubes. Stir, and serve.",Angel's Lips,{null}
+559,1,586,{null},{null},{null},18,,Combine Jagermeister and Cuervo tequila together on the rocks and hold on.,Navy Seal,{null}
+560,1,446,{null},{null},{null},18,,Shake with crushed ice and strain.,Jack Rose,{null}
+561,1,752,{null},{null},{null},14,,"Add liquors to a highball glass filled with ice, fill with lemon-lime soda and throw in a dash of salt.",Senorita,{null}
+562,1,230,{null},{null},{null},19,,"Stir the mandarine napoleon with orange juice and ice, briefly, and strain into a frosted champagne flute. Add the champagne, and serve.",Champagne Napoleon,{null}
+563,1,129,{null},{null},{null},18,,"Mix 1-1/2 ounces of Black Sambuca into a glass filled with 6 ounces of Eggnog, Stir.",Black Christmas,{null}
+564,1,161,{null},{null},{null},14,,"Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.",Blue Lagoon,{null}
+565,1,363,{null},{null},{null},5,,Shake all ingredients hard with crushed ice. Serve over crushed ice in a lightly salted margarita glass with two cocktail straws. Garnish with a twist of lime.,Golden Margarita,{null}
+566,1,325,{null},{null},{null},2,,"In a shaker half-filled with ice cubes, combine the gin, sugar, and lemon juice. Shake well. Pour into a collins glass. Top with the champagne. Stir well and garnish with the orange slice and the cherry.",French 75,{null}
+567,1,378,{null},{null},{null},14,This variation of a Gin Fizz adds a splash of Crème de Menthe giving it a distinctive green coloring.,"Shake all ingredients (except carbonated water) with ice and strain into a highball glass over 2 ice cubes. Fill with carbonated water, stir, and serve.",Green Fizz,{null}
+568,1,144,{null},{null},{null},18,,Shake all ingredients (except strawberries) with ice and strain into a cocktail glass. Decorate with the 3 crushed strawberries and serve.,Bloodhound Cocktail,{null}
+569,1,138,{null},{null},{null},18,,Pour both over ice & shake. Strain into a martini glass and add a lemon twist for garnish.,Black Widow,{null}
+570,1,607,{null},{null},{null},15,,"Pour bourbon over ice cubes in an old-fashioned glass. Add the bitters, soda and juice. Garnish with a maraschino cherry and a lemon twist.",Old-Fashioned (Sweet),{null}
+571,1,569,{null},{null},{null},2,,"Muddle mint leaves, powdered sugar, and water in a collins glass. Fill the glass with shaved or crushed ice and add bourbon. Top with more ice and garnish with a mint sprig. Serve with a straw.",Mint Julep,{null}
+572,1,117,{null},{null},{null},14,,,Beverly Hills Iced Tea,{null}
+573,1,12,{null},{null},{null},18,,,Abbey,{null}
+574,1,706,{null},{null},{null},26,"Known as Bermuda's national drink, this concotion gave the ""swizzle"" to the swizzle stick.","Dissolve powdered sugar in mixture of 2 oz. carbonated water and juice of lime in a collins glass. Fill glass with ice and stir. Add bitters and rum. Fill with carbonated water, stir, and serve with a swizzle stick.",Rum Swizzle,{null}
+575,1,709,{null},{null},{null},18,,Shake with ice and strain into a cocktail glass.,Russian Cocktail,{null}
+576,1,489,{null},{null},{null},23,,Combine ingredients in a large wineglass. Twist the lemon peel to release the oil and drop it into the glass.,Kir,{null}
+577,1,310,{null},{null},{null},16,,Mix both ingredients together in a tumbler with ice. Strain into a shot glass! Enjoy!,Foreplay,{null}
+578,1,27,{null},{null},{null},12,,,After Five,{null}
+579,1,652,{null},{null},{null},18,,Mix ingredients together in glass.,Pissed McGillis,{null}
+580,1,143,{null},{null},{null},19,,,Blondie,{null}
+581,1,411,{null},{null},{null},2,,"Shake and strain, pour into collins glass with ice. Garnish with flag.",Highlander,{null}
+582,1,633,{null},{null},{null},2,,Stir everything together in a glass of ice.,Peach Harpoon,{null}
+583,1,279,{null},{null},{null},18,,"Add gin, cointrean and lemon juice to a shaker filled with ice shake hard (30 seconds) and serve up in a cocktail glass with lemon twist as garnish",Delilah,{null}
+584,1,330,{null},{null},{null},14,,"Pour the rum, triple sec and pineapple juice into a blender with one cup of crushed ice. Blend well. Pour into a highball glass, garnish with a maraschino cherry, and serve.",Frigid Hairy Virgin,{null}
+585,1,806,{null},{null},{null},14,,"Fill glass with crushed ice. Add gin and triple sec, and fill with pineapple juice. Add a splash of grenadine on top.",Summer Sky,{null}
+586,1,183,{null},{null},{null},14,,"In a shaker half-filled with ice cubes, combine the brandy, lemon juice, and sugar. Shake well. Strain into a highball glass almost filled with ice cubes. Add the club soda. Stir well.",Brandy Fizz,{null}
+587,1,358,{null},{null},{null},15,,"Pour ingredients into an old-fashioned glass over ice and serve. (Bourbon may be substituted for scotch, if preferred.)",Godfather,{null}
+588,1,582,{null},{null},{null},14,,Build over ice in a tall glass. Garnish with strawberries or cherries.,Multiple Orgasm,{null}
+589,1,848,{null},{null},{null},18,,Mix equal parts in a mixing glass half-filled with ice cubes. Shake well. Strain into a cocktail glass. Garnish with a cherry.,Tokyo Rose,{null}
+590,1,821,{null},{null},{null},14,,Pour 2 1/2 ounces Cuervo Gold over ice cubes in a highball glass. Fill with tonic. Garnish with Lime Wedge.,Tequila and Tonic,{null}
+591,1,571,{null},{null},{null},14,,"Lightly muddle the mint and sugar with a splash of soda water in a mixing glass until the sugar dissolve and you smell the mint. Squeeze the lime into the glass, add rum and shake with ice. Strain over cracked ice in a highball glass. Top with soda water, garnish with mint sprig and serve.",Mojito,{null}
+592,1,248,{null},{null},{null},22,,"Stir the lemon juice and sugar togeher in a large punch bowl until the sugar is dissolved. Add the claret, brandy, apricot brandy, bourbon whiskey, Triple Sec, club soda and cold tea. Stir well. Add one large block of ice, then add orange slices. Makes 30 (6-ounce) punch cups.",Claret Punch,{null}
+593,1,353,{null},{null},{null},18,,Build into a cocktail glass over ice.,Glacier Mist,{null}
+594,1,737,{null},{null},{null},14,,Pour 2 oz. Southern Comfort over ice in an 8 oz. glass. Fill with cranberry juice. Squeeze one wedge of lime into drink. Stir and serve.,Scarlet O'Hara,{null}
+595,1,670,{null},{null},{null},14,,"Squeeze lime juice into a highball glass. Add the shell, fill with crushed ice and add the mint. Pour in the rum, angostura bitters and sugar syrup. Swizzle until glass frosts. Add the soda, garnish with a sprig of mint, and serve with a straw.",Queen's Park Swizzle,{null}
+596,1,808,{null},{null},{null},9,,"Shake liquors and juices and strain into an ice-filled pina colada glass. Add spent shell of a lime quarter; lemonade, straws, and serve.",Sun City,{null}
+597,1,372,{null},{null},{null},15,,"Shake gin, creme de menthe, and lime juice with ice and strain into an old-fashioned glass over ice cubes. Decorate with mint leaves and serve.",Green Devil,{null}
+598,1,617,{null},{null},{null},15,,\This is a slight modification of Trader Vic's original recipe (I chose those rums,Original Mai Tai,{null}
+599,1,860,{null},{null},{null},14,,"Stir vermouth and creme de cassis in a highball glass with ice cubes. Fill with carbonated water, stir again, and serve.",Vermouth Cassis,{null}
+600,1,648,{null},{null},{null},18,,Mix Shake Can be made as an up cocktail or on the rocks,Pink Lemonade,{null}
+601,1,692,{null},{null},{null},21,,Mix all in glass and drink rapidly,Rocket Fuel,{null}
+602,1,769,{null},{null},{null},15,,Pour ingredients over ice into an old-fashioned glass. Stir and serve.,Silverado,{null}
+603,1,872,{null},{null},{null},18,,"Shake ingredients with ice, strain into a cocktail glass, and serve.",Vodka Stinger,{null}
+604,1,488,{null},{null},{null},10,,Stir. Add Whipped Cream to the top.,Kioki Coffee,{null}
+605,1,660,{null},{null},{null},14,,"Muddle ingredients together in a mixing glass. Shake and strain into a cocktail glass, and serve.",Polar Bear #2,{null}
+606,1,431,{null},{null},{null},15,,Shake ingredients with ice in a cocktail shaker. Strain over ice into an Old-fashioned glass. Garnish with a lemon slice.,Irish Fix,{null}
+607,1,644,{null},{null},{null},9,"Created in 1954 at the Beachcomber Bar in the Caribe Hilton of San Juan, Puerto Rico. Made famous with the release of Rupert Holmes 1979 #1 hit single ""Escape (The Pina Colada Song)"".","Old-style recipe for this popular drink. The coconut cream needs to have the right consistancy, some find the alternative, coconut milk to be too thin, however you can add condensed milk to coconut milk to bring up it's thickness. Add pineapple juice if desired.Put all ingredients into an electric blender with 2 cups of crushed ice. Blend at a high speed for a short length of time. Strain into a collins glass and serve with a straw.",Pina Colada,{null}
+608,1,199,{null},{null},{null},19,The English version of the Mimosa. Though the Buck's Fizz came first.,Add to a frosted wine glass.,Buck's Fizz,{null}
+609,1,693,{null},{null},{null},2,,,Ron Collins,{null}
+610,1,278,{null},{null},{null},19,,Pour the Pernod into the champagne flute and top off with the champagne.,Death in the Afternoon,{null}
+611,1,71,{null},{null},{null},14,,"Pour all the alcohol and fill the rest of the glass with equal amounts of pineapple juice, orange juice and Lemon-Lime Cola, with grenadine to taste and color, and then add ice.",Asian Sensation,{null}
+612,1,339,{null},{null},{null},14,Gin and Tonic was introduced by the British East India Company as a way to provide quinine (from the tonic water) to its soliders for malaria prevention.,Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.,Gin & Tonic,{null}
+613,1,511,{null},{null},{null},18,,"Pour the vodka, chocolate liqueur and amaretto into a mixing glass half-filled with cracked ice. Stir well. Strain into a chilled cocktail glass, garnish with a twist of orange, and serve.",Macaroon,{null}
+614,1,884,{null},{null},{null},14,,"fill a medium glass most of the way with ice, pour in 1 shot, about 1.5 ounces of whiskey, fill the rest of the way with ginger ale.",Whiskey Highball,{null}
+615,1,326,{null},{null},{null},18,,"Served on ice in \rocks-glass\"" May be served with a little whipped creem on top!""",French Afternoon,{null}
+616,1,426,{null},{null},{null},15,,"Shake and strain into an old-fashioned glass filled with broken ice. Garnish with a sprig of mint, and serve.",Hustler,{null}
+617,1,302,{null},{null},{null},18,,Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.,Fancy Whiskey,{null}
+618,1,469,{null},{null},{null},18,,"Add 1 shot rum to 12 oz beer, stir in 2 tbls lime juice concentrate.",Juniata Juice,{null}
+619,1,150,{null},{null},{null},2,,Shake all ingredients (except lime wedge) with ice and strain into an old-fashioned glass over ice cubes. Add salt and pepper to taste. Add the wedge of lime and serve.,Bloody Mary,{null}
+620,1,355,{null},{null},{null},2,,Build in a collins glass and fill with lemon-lime soda. Garnish with an orange slice and a cherry.,Glass Tower,{null}
+621,1,269,{null},{null},{null},15,,"Stir all ingredients together in a lowball or old-fashioned glass, and serve.",Daily Mail,{null}
+622,1,923,{null},{null},{null},18,,,The Molly Pitcher,{null}
+623,1,82,{null},{null},{null},12,,Layer ingredients into a shot glass in this order.,B-57,{null}
+624,1,596,{null},{null},{null},14,,Pour Midori and Bacardi Limon in a highball glass and fill 1/2 the glass with cruched ice. Fill with in 1 part 7-up and 1 part cranberry juice.,Norling Special,{null}
+625,1,373,{null},{null},{null},14,,Combine all ingredients and stir. Serve in a highball glass over ice.,Green Dinosaur,{null}
+626,1,765,{null},{null},{null},4,,"Pour into a wine goblet filled with broken ice and mix. Garnish with in-season fruit, add straws, and serve.",Sherry Cobbler,{null}
+627,1,182,{null},{null},{null},2,,"In a shaker half-filled with ice cubes, combine the brandy, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.",Brandy Daisy,{null}
+628,1,57,{null},{null},{null},18,,,Amy,{null}
+629,1,669,{null},{null},{null},18,,"Stir all ingredients with ice, strain into a cocktail glass, and serve.",Queen Elizabeth,{null}
+630,1,389,{null},{null},{null},10,,"Pour one cup of strong black tea, add rum and stir.",Gunfire,{null}
+631,1,929,{null},{null},{null},18,,Stir gin and vermouth with ice and strain into a cocktail glass. Add the olive and serve.,Martini (Perfect),{null}
+632,1,394,{null},{null},{null},12,,"Pour the Tabasco sauce, tequila and whiskey into a shot glass. Lay the salt on top, and serve.",Hair of the Dog,{null}
+633,1,205,{null},{null},{null},18,,"Mix all ingredients into an ice-filled shaker. Shake. Strain into a chilled, sugar and cinnomon rimmed cocktail glass. Garnish with an orange spiral twist.",Cable Car,{null}
+634,1,541,{null},{null},{null},18,,"Mix sour mix, triple sec, and vodka together with ice in a shaker and shake well. Strain into a cocktail glass over ice and add 1 oz of melon liqueur.",Melon Kamikaze,{null}
+635,1,96,{null},{null},{null},2,,Shake all ingredients well with cracked ice and strain into a collins glass. Sprinkle nutmeg on top and serve.,Baltimore Eggnog,{null}
+636,1,496,{null},{null},{null},14,,Pour both ingredients into a highball glass almost filled with ice cubes. Stir and serve.,Kremlin,{null}
+637,1,198,{null},{null},{null},24,,Pour the corona into an 18oz beer glass pour the bacardi limon into the beer stir very gently,Buccaneer,{null}
+638,1,313,{null},{null},{null},15,,Add all ingredients to an old-fashioned glass with/without ice as desired. Stir lightly and serve.,Four Jokers,{null}
+639,1,436,{null},{null},{null},17,,"Pour ingredients into a heat-proof cup, sprinkle with grated chocolate, and serve.",Irish Milk Punch,{null}
+640,1,679,{null},{null},{null},14,,"Ppour vodka, melon and peach schnapps over ice. Top with the sprite, stir well, add 1 dash of the grenadine and serve. Garnish with a slice of lemon (or lime), or a piece of melon.",Red Melon,{null}
+641,1,531,{null},{null},{null},18,,Stir gin and vermouth with ice and strain into a cocktail glass. Add the olive and serve.,Martini (Sweet),{null}
+642,1,841,{null},{null},{null},2,,"Shake all ingredients with ice in a cocktail shaker. Pour over ice into a collins glass, and top with soda to taste. Garnish with a lemon wedge and a maraschino cherry, and serve.",Tiki Lemonade,{null}
+643,1,685,{null},{null},{null},15,,"Shake, strain into an old-fashioned glass filled with broken ice, and serve.",Roadster,{null}
+644,1,919,{null},{null},{null},14,,,Yellow Bird,{null}
+645,1,843,{null},{null},{null},12,,"Takes a 2 oz shot glass. First put in the triple sec, then tequila, last the spiced rum.",Tirade,{null}
+646,1,507,{null},{null},{null},18,,"Pour the Kirschwasser, benedictine and lime juice into a cocktail shaker half-filled with ice cubes. Shake well, strain into a cocktail glass, and serve.",Lorraine Cocktail,{null}
+647,1,470,{null},{null},{null},12,,"Combine all ingredients with ice, shake, and strain into old fashioned glass.",Junior Mint,{null}
+648,1,907,{null},{null},{null},13,,"Shake, strain into a glass filled with crushed ice, and serve.",Winter Garden,{null}
+649,1,64,{null},{null},{null},18,A twist on the classic recipe from the Gallery Bar in the Milenium Biltmore Hotel in Los Angeles.,"Stir the whiskey and liqueur in a mixing glass with ice and strain into a chilled cocktail glass. Garnish with a slice of apple, and serve.",The Big Apple Manhattan,{null}
+650,1,116,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",Between the Sheets,{null}
+651,1,701,{null},{null},{null},9,,"Fill blender with one and a half cups of ice, add all the liqours in the blender and mix until the consistentsy has thickend. Pour into glass and add a cherry on top.",Rum Runner Island Style,{null}
+652,1,768,{null},{null},{null},18,,Fill blender half full with ice. Add all ingredents and mix.,Silver Fizz,{null}
+653,1,42,{null},{null},{null},9,,"Put everything into a blender with ice. Blend, adding ice until smooth. Serve in a tall glass.",Amaretto Cruise,{null}
+654,1,722,{null},{null},{null},14,,"In a mixing glass half-filled with ice cubes, combine the gin or vodka with the sake. Stir well. Strain into a cocktail glass. Garnish with the olive.",Saketini,{null}
+655,1,140,{null},{null},{null},14,,Shake ingredients in a cocktail shaker with ice. Strain into a highball glass over ice and garnish with a cherry.,Blackbeard's Ghost,{null}
+656,1,878,{null},{null},{null},20,,"Shake blended whiskey, juice of lemon, grenadine, and powdered sugar with ice and strain into a red wine glass filled with cracked ice. Add the orange slice, top with the cherry, and serve with a straw.",Ward Eight,{null}
+657,1,315,{null},{null},{null},18,,"Stir all ingredients with ice, strain into a cocktail glass, and serve.",Fox River Cocktail,{null}
+658,1,113,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",Bengal,{null}
+659,1,309,{null},{null},{null},14,,Pour into gass half filled with ice. Stir well.,Fluorescent Dream,{null}
+660,1,225,{null},{null},{null},23,,"Pour the brandy and triple sec into a large wine glass. Fill with champagne, or simply add to taste. Garnish with a sprig of mint, and serve.",Champagne Cooler,{null}
+661,1,710,{null},{null},{null},2,,Mix with ice in a collins glass. Orange juice to taste.,Russian Sunrise,{null}
+662,1,887,{null},{null},{null},18,,Mix ingredients in cocktail glass with chipped ice.,Whisky Martini,{null}
+663,1,281,{null},{null},{null},18,,"Put an ice cube and a small amount of water in cocktail glass. Place in freezer for 2-3 minutes. Fill mixer with all ingredients including garnish. cover and shake hard 3 or 4 times. it is ok to bruise the gin on this one. Remove cocktail glass from freezer, empty, strain drink into cocktail glass add olive from mixer. Serve with a mysterious smile...",Dirty Martini,{null}
+664,1,286,{null},{null},{null},18,,Shake and strain into highball glass with ice.,Dream,{null}
+665,1,386,{null},{null},{null},15,,Pour the rum and the water into an old-fashioned glass with no ice cubes. Stir well.,Grog,{null}
+666,1,95,{null},{null},{null},18,,Shake with ice and strain into a cocktail glass.,Ballet Russe Cocktail,{null}
+667,1,402,{null},{null},{null},18,,"In a mixing glass half-filled with ice cubes, combine the dark rum, light rum, and vermouth. Stir well. Strain into a cocktail glass.",Hat Trick,{null}
+668,1,527,{null},{null},{null},18,,Shake and strain into a glass three-quarters filled with broken ice.,Martian Cherry,{null}
+669,1,283,{null},{null},{null},15,,Pour brandy and Kahlua into an old-fashioned glass filled with ice cubes and stir. Float cream on top and serve.,Dirty White Mother,{null}
+670,1,8,{null},{null},{null},2,,Blend.,81 Camaro,{null}
+671,1,859,{null},{null},{null},14,,"The Vampiro has a fruity, lightly carbonated, and spicy taste to it.",Vampiro,{null}
+672,1,169,{null},{null},{null},15,,,Bourbon & Water,{null}
+673,1,370,{null},{null},{null},18,,Shake ingredients in a cocktail shaker with ice. Strain into glass.,Green Carnation,{null}
+674,1,775,{null},{null},{null},14,,"Pour vodka, kahlua, and cream into glass filled with ice, then top off with Pepsi.",Smith and Wesson,{null}
+675,1,23,{null},{null},{null},2,,Add all ingredients except lemon to shaker filled with ice. Cover and shake vigorously. Strain contents into ice filled collins glass. Garnish with lemon.,Absolut Summertime,{null}
+676,1,499,{null},{null},{null},19,,"Pour campari, gin and orange juice into a champagne flute. Top with champagne, garnish with a twist of lemon and orange peel, and serve.",Le Perroquet,{null}
+677,1,301,{null},{null},{null},15,,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",Eye-Opener,{null}
+678,1,393,{null},{null},{null},18,,"Pour the rum, lime juice and grenadine into a cocktail shaker half-filled with ice cubes. Shake well, strain into a cocktail glass, and serve.",Habaneros,{null}
+679,1,289,{null},{null},{null},14,,"Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",Dubonnet Fizz,{null}
+680,1,264,{null},{null},{null},2,,"Pour vodka over ice, then add raspberry and fill with Jolt cola.",Crimson Death,{null}
+681,1,927,{null},{null},{null},19,,"Pour orange juice into a collins glass over two ice cubes. Fill with chilled champagne, stir very gently, and serve.",Grand Mimosa,{null}
+682,1,863,{null},{null},{null},14,,"Pour the vodka and lemon-lime soda into a highball glass almost filled with ice cubes. Stir well, garnish with a lemon wedge, and serve.",Vodka Cooler,{null}
+683,1,20,{null},{null},{null},12,,"This is as close to the original Absinthe as you can get. Absente is very similar, but substitutes \Southern Wormwood\"" -- which is thujone free -- so it can be sold legally anywhere. Wormwood extract is safe in moderation",Absinthe Without Leave,{null}
+684,1,24,{null},{null},{null},15,,Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.,Acapulco,{null}
+685,1,677,{null},{null},{null},18,,"Shake and strain. Before serving, moisten the edge of the highball glass and dip in castor sugar.",Red Lion,{null}
+686,1,538,{null},{null},{null},14,,Combine alcohol over ice and add Mountain Dew. Stir and Garnish with Melon ball if desired.,Mellow Hiker,{null}
+687,1,483,{null},{null},{null},9,,Add all ingredients to a blender. Mix for 45 seconds on medium power. Serve with a cute umbrella and straw.,King Kong,{null}
+688,1,80,{null},{null},{null},12,,Shake over ice,B-54,{null}
+689,1,694,{null},{null},{null},18,,"Rub rim of cocktail glass with lemon juice and dip into powdered sugar. Shake vermouth, gin, brandy, lemon juice, and grenadine with ice, strain into the sugar-rimmed glass, and serve.",Rose Cocktail,{null}
+690,1,690,{null},{null},{null},2,,"Shake vodka, Rock and Rye, and lime juice with ice. Strain into a ice filled collins glass. Top with lemon soda and stir gently. Garnish with a slice of lime.",Rock and Rye Cooler,{null}
+691,1,215,{null},{null},{null},21,,Muddle the sugar into the lime wedges in an old-fashioned glass. Fill the glass with ice cubes. Pour the cachaca into the glass. Stir well.,Caipirinha,{null}
+692,1,231,{null},{null},{null},11,,"Invented by residents of 112 Torrington, Rochester, NY\",Champagne Supernova,{null}
+693,1,345,{null},{null},{null},14,,"Pour gin into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve.",Gin Highball,{null}
+694,1,639,{null},{null},{null},19,,"Shake all ingredients (except champagne) well over ice cubes in a shaker. Strain into a champagne flute, fill with champagne, and serve.",Pick-Me-Up,{null}
+695,1,924,{null},{null},{null},18,,Shake all ingredients (except nutmeg) with ice and strain into a cocktail glass. Sprinkle nutmeg on top and serve.,Coffee Alexander,{null}
+696,1,375,{null},{null},{null},18,,Pour over crushed ice and stir or can be blended.,Green Eyes,{null}
+697,1,376,{null},{null},{null},18,,Shake thoroughly with ice and strain into a cocktail glass.,Green Fairy,{null}
+698,1,176,{null},{null},{null},15,,Pour all the ingredients over an ice-cube and stirr gently,Brain Damage,{null}
+699,1,547,{null},{null},{null},18,,"In a shaker half-filled with crushed ice, combine all of the ingredients. Shake well. Strain into a cocktail glass.",Metropolitan,{null}
+700,1,242,{null},{null},{null},14,,"Pit cherries. Muddle cherries in glass. Add vodka, lemon juice, and ice. Top with club soda and stir. Garnish with lemon, and serve.",Cherry Sour,{null}
+701,1,532,{null},{null},{null},18,,"Stir gin and vermouth over ice cubes in a mixing glass. Strain into a cocktail glass, add the olive, and serve.",Martini (Wet),{null}
+702,1,559,{null},{null},{null},12,,Pour all contents into a cocktail shaker with ice and shake well. Strain into a shot glass and serve.,Mighty Martian,{null}
+703,1,166,{null},{null},{null},18,,,Boston Flip,{null}
+704,1,240,{null},{null},{null},18,,Garnish with a cherry on the rim of the glass.,Cherry Blossom,{null}
+705,1,106,{null},{null},{null},21,,Pour into a glass with ice. Stir.,Beach Bum,{null}
+706,1,894,{null},{null},{null},15,"The favorite drink of Jeffrey ""The Dude"" Lebowski, though he calls it a ""Caucasian"".",Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.,White Russian,{null}
+707,1,35,{null},{null},{null},14,,,Alaskan Iced Tea,{null}
+708,1,601,{null},{null},{null},2,,Mix all ingredients in a glass with ice.,Okinawa Special,{null}
+709,1,540,{null},{null},{null},18,,Shake all ingredients (except cherry) with ice and strain into a cocktail glass. Add the cherry on top and serve.,Melon Cocktail,{null}
+710,1,699,{null},{null},{null},2,,1. Fill mixing glass with ice 2. Add light rum and lime juice and sugar syrup 3. Shake 4. Strain into a collins glass filled with ice 5. Fill with club soda. 6. Garnish with a wedge of lime.,Rum Rickey,{null}
+711,1,653,{null},{null},{null},2,,"Pour gin, then midori, then 7-up (to fill) over ice in a Tom Collins glass. Shake in cocktail shaker, add straw, cherry. Tastes like candy.",Pixie Stick,{null}
+712,1,381,{null},{null},{null},15,,"Chill ingredients, pour lemon juice over pisco in a lowball glass and top off with tonic water. Serve with a slice of lime.",Green Hornet,{null}
+713,1,351,{null},{null},{null},5,,"Place salt on a dish and rub rim of a margarita glass with a Lime Wedge. Dip glass in the salt to coat rim thoroughly. Pour teguila, triple sec, lime juice, sweet and sour, orange juice, and ice into a blender. Set on high speed until well blended. Pour into a margarita glass. Garnish with a lime, and serve. Optionally, pour Grand Marnier orange liqueur on top for a float, then serve.",Gino's Perfect Margarita,{null}
+714,1,250,{null},{null},{null},2,,Build over ice into a collins glass. Add splash of Lemon-Lime Cola last.,Coconut Bra,{null}
+715,1,592,{null},{null},{null},18,,Shake everything with ice and strain into a cocktail glass.,Nirvana,{null}
+716,1,642,{null},{null},{null},14,,,Pimm's Rangoon,{null}
+717,1,222,{null},{null},{null},14,"Made famous by rapper Tech N9ne in his song ""Caribou Lou"".","Referenced in the song \Caribou Lou\"" by rapper Tech N9ne where he sings about it - \""...151 rum",Caribou Lou,{null}
+718,1,696,{null},{null},{null},14,,,Rum & Coke,{null}
+719,1,403,{null},{null},{null},2,,"Put rum over ice, fill half way with punch, fill with 7-up.",Hawaiian Death,{null}
+720,1,480,{null},{null},{null},14,,Shake everything (except lemon twist) with ice; strain into a highball glass with ice. Garnish with the lemon twist.,KGB,{null}
+721,1,160,{null},{null},{null},14,,"Blend light rum, blue curacao, pineapple juice, and cream of coconut with one cup ice in an electric blender at high speed. Pour contents into a highball glass. Decorate with the slice of pineapple and a cherry.",Blue Hawaiian,{null}
+722,1,187,{null},{null},{null},21,,"Shake brandy, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with the lemon slice, top with the cherry, and serve.",Brandy Sour,{null}
+723,1,104,{null},{null},{null},18,,"Pour rum (DO NOT use cheap rums) and Triple Sec into Martini shaker filled with ice, and let it rip.  Pour up neat in a Martini glass with an orange twist (optional)",Batiste,{null}
+724,1,590,{null},{null},{null},10,,Heat milk. Add sugar. Add Kahlua. Nutmeg on top. Sleep tight.,Nightcap,{null}
+725,1,500,{null},{null},{null},18,,"In a mixing glass half-filled with crushed ice, combine all of the ingredients. Stir well. Strain into a cocktail glass.",Leaning Tower,{null}
+726,1,791,{null},{null},{null},15,,Pour in glass and stir. Serve cold.,Spanish Fly,{null}
+727,1,782,{null},{null},{null},12,,"Pour tequila rose and southern comfort in equal parts into a shot glass, and serve.",Southern Rose,{null}
+728,1,385,{null},{null},{null},14,,,Greyhound,{null}
+729,1,840,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Three Miller Cocktail,{null}
+730,1,576,{null},{null},{null},18,,Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.,Montmartre Cocktail,{null}
+731,1,510,{null},{null},{null},2,,Mix ingredients into a punch bowl.,Lynchburg Lemonade,{null}
+732,1,898,{null},{null},{null},18,,Pour ingredients over ice. Garnish with Lime Wedge. Ingredients can be varied to taste.,White Trash,{null}
+733,1,398,{null},{null},{null},9,,"Blend briefly with a glassful of crushed ice. Garnish with fruit, add straws, and serve.",Haitian Gold,{null}
+734,1,180,{null},{null},{null},2,,,Brandy Collins,{null}
+735,1,608,{null},{null},{null},18,,"Pour the whiskey, sweet vermouth, bitters and sugar into a cocktail glass over crushed ice. Stir well. Top with club soda, and stir again gently. Garnish with a maraschino cherry, and serve.",Old-Fashioned Manhattan,{null}
+736,1,877,{null},{null},{null},2,,"Volga Boatman is a Russian recipe makes use of a chilled copper cup, which is the customary way to serve this recipe. It also uses Kamchatka vodka, the best-selling liquor in Ohio.Pour the vodka into a cup. Add collins mix, stir, then squeeze the lime into the mixture. Add an ice cube, and serve.",Volga Boatsman,{null}
+737,1,572,{null},{null},{null},2,,"Muddle sugar, mint and squeezed Lime Wedges in mixing tin until mixture smells like spearmint gum. Fill with ice, add tequila and cassis, shake until the tin is icey to the touch. Pour into a collins glass, top with 7-up and garnish with a sugarcane stick and fresh mint.",Mojito Diablo,{null}
+738,1,185,{null},{null},{null},4,,Add to a goblet filled with crushed ice. Garnish with a mint sprig and some fruit.,Brandy Punch Cocktail,{null}
+739,1,740,{null},{null},{null},14,,,Scotch & Water,{null}
+740,1,99,{null},{null},{null},15,,Shake with cracked ice and strain into a chilled old-fashioned glass.,Barbarella,{null}
+741,1,647,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Pink Lady,{null}
+742,1,558,{null},{null},{null},12,,"Layer as in order, sambuca first, then goldslchlager and finally the absinthe. It can be either done as a shot now or you can turn it into a Mig-29 afterbuner by lighting the absinthe till it becomes a tall flame and suckng iit through a straw till finished.",MIG-29,{null}
+743,1,862,{null},{null},{null},2,,,Vodka Collins,{null}
+744,1,780,{null},{null},{null},14,,Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.,Snowball,{null}
+745,1,32,{null},{null},{null},14,,Shake with ice and strain into a highball glass over two ice cubes. Fill with club soda and garnish with two sprigs of fresh mint.,Alabama Fizz,{null}
+746,1,91,{null},{null},{null},1,,"Pour vodka into pitcher. Add bacon to vodka. Let sit for at least six hours. Remove bacon strips. Cover pitcher with plastic wrap and place in freezer overnight. The next day, skim hardened fat from the top. Strain vodka back into the bottle.",Bacon Vodka,{null}
+747,1,440,{null},{null},{null},18,,Fill glass with ice. Pour Jack Daniels then add Ginger Ale. Stir.,Jack & Ginger,{null}
+748,1,293,{null},{null},{null},15,,"Mix vodka, sour mix, and ice in shaker. Strain over ice in old fashioned glass. Garnish with cherries.",El Chupacabra,{null}
+749,1,715,{null},{null},{null},18,,"Shake well over ice cubes in a shaker. Strain into a whiskey sour glass, add a cherry, and serve.",Rye Sour,{null}
+750,1,613,{null},{null},{null},15,,"Mix sugar, water and angostura bitters in an old-fashioned glass. Drop in a cherry and an orange wedge. Muddle into a paste using a muddler or the back end of a spoon. Pour in bourbon, fill with ice cubes, and stir.",New Old-Fashioned,{null}
+751,1,464,{null},{null},{null},2,,"Combine all ingredients in a cocktail shaker half-filled with ice cubes. Shake well, strain into a collins glass, and serve.",Johnny on the Spot,{null}
+752,1,408,{null},{null},{null},2,,"Pour the Scotch whisky, Angostura bitters, orange juice and sugar into a highball glass almost filled with ice cubes. Fill with Ginger Ale, and serve.",Highland Cooler,{null}
+753,1,760,{null},{null},{null},14,"Leave it to Ft. Lauderdale during Spring Break to come up with a drink that cause many a college student to run wild and make bad decisions. Created for a contest to see which bar could sell the most Peach Schnapps, Ted Pizio found a winning combination with Vodka and juices.","Half fill with cranberry juice and grapefruit juice, stir in highball glass.",Sex On The Beach,{null}
+754,1,400,{null},{null},{null},18,,"Stir in a mixing glass filled with ice cubes. Strain into a chilled cocktail glass, and serve.",Harvard,{null}
+755,1,298,{null},{null},{null},14,,"Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve. (Ginger Ale may be substituted for carbonated water, if preferred.)",English Highball,{null}
+756,1,534,{null},{null},{null},1,,"Fill a container (size of an iced-tea pitcher) almost halfway with ice. Fill to slightly above ice with a decent California White Zinfandel. Add one part peach schnapps, and a splash of sour mix. Fill the remaining space (should be a little less than a quarter of the pitcher) with cranberry juice. Seal and shake vigourously. Serve in glasses.",Medusa Punch,{null}
+757,1,362,{null},{null},{null},19,,"Shake vigorously until creamy in a shaker filled one third full of ice cubes. Strain into a champagne flute. Or use a blender and blend until creamy, pour into hurricane glass and garnish with slice of orange.",Golden Dream,{null}
+758,1,75,{null},{null},{null},18,,"Fill cocktail shaker with ice. Juice the lemon and add to the shaker. Add a little sugar, if desired. Pour in gin and maraschino, and shake. Serve straight up in a cocktail glass.",Aviation,{null}
+759,1,260,{null},{null},{null},15,,"In a shaker filled with ice, combine ingredients and shake well, strain into old fashioned glass",Cricket,{null}
+760,1,84,{null},{null},{null},2,,"Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or spoon works too). Consume immediately and often. Nice and light, great for following a heavy drink.",Baby Eskimo,{null}
+761,1,747,{null},{null},{null},14,,"Put 3 ice cubes into a highball glass. Pour in vodka. Fill balance of glass with orange juice, stir, and serve.",Screwdriver,{null}
+762,1,287,{null},{null},{null},14,,"Pour the triple sec, banana liqueur and melon liqueur into a highball glass filled with ice cubes. Fill with equal parts of cranberry and pineapple juice. Stir well, and serve.",Drunk Monkey,{null}
+763,1,202,{null},{null},{null},7,,"Combine ingredients in a mixing glass and shake well. Strain into a pint glass over ice, garnish with a twist of orange peel, and serve.",Bull Shot,{null}
+764,1,645,{null},{null},{null},2,,"Mix all ingredients, shake and serve in tall glass.",Pink Flamingo,{null}
+765,1,120,{null},{null},{null},12,,Mix in a shot glass and enjoy.,Big Time,{null}
+766,1,786,{null},{null},{null},15,,Shake all ingredients (except lemon peel) with ice and strain into an old-fashioned glass over ice cubes. Add the twist of lemon peel and serve.,Soviet,{null}
+767,1,115,{null},{null},{null},2,,Pour the pineapple juice and Captain Morgan's Parrot Bay coconut rum into a collins glass filled with ice cubes. Drizzle a little grenadine on top and throw however many cherries you like on top of that.... tastes like candy.,Betsie Temple,{null}
+768,1,615,{null},{null},{null},14,,"Combine all ingredients in a blender with crushed ice. Blend until smooth; add more ice as required. Pour into a highball glass, add a straw, and serve.",Orange Smasha,{null}
+769,1,719,{null},{null},{null},15,,Stir together Serve together,Sailor's Delight,{null}
+770,1,265,{null},{null},{null},23,,"Shake well with ice. Strain into a wine goblet, add a little club soda, and serve.",Crimson Fizz,{null}
+771,1,735,{null},{null},{null},18,,"Rim a double-cocktail glass with lime and caster sugar. Pour ingredients into the sugar-rimmed glass, garnish with a sugar-dipped strawberry, and serve.",Savoy Affair,{null}
+772,1,560,{null},{null},{null},15,,"In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.",Mikado,{null}
+773,1,299,{null},{null},{null},18,,Rub rim of cocktail glass with lemon juice and dip rim of glass in powdered sugar. Shake all ingredients (except cherry) with ice and strain into sugar-rimmed glass. Top with the cherry and serve.,English Rose Cocktail,{null}
+774,1,754,{null},{null},{null},18,,"Pour over ice, shake, strain and serve like a cosmopolitan.",Series 7,{null}
+775,1,603,{null},{null},{null},18,,"Stir ingredients together over crushed ice in a cocktail glass, and serve.",Old 7's,{null}
+776,1,759,{null},{null},{null},2,,"Mix two rums, melon, peach and blue curacao in a mixing tin with the sour mix. Pour into a collins glass with ice and add a dash of lemonade. Garnish with lemon squeeze.",Sex Appeal,{null}
+777,1,673,{null},{null},{null},2,,"Add the ingredients except club soda to a chilled mixer and shake for at least one minute. Strain into a thin goblet and top off with chilled club soda, to taste.",Ramos Fizz,{null}
+778,1,655,{null},{null},{null},2,,Pour ingredients into a rocks glass three-quarters filled with broken ice.,Plane Bomb,{null}
+779,1,787,{null},{null},{null},18,,"Mix all ingredients, except lemon peel, with cracked ice in a shaker or blender and strain into a chilled cocktail glass. Twist lemon peel over drink and drop into glass.",Soviet Cocktail,{null}
+780,1,793,{null},{null},{null},19,,"Chill all ingredients (except champagne) and strain into a champagne flute. Top with champagne, and serve.",Sparkling Hunt Punch,{null}
+781,1,410,{null},{null},{null},14,,"In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, and Scotch. Shake well. Strain into a highball glass. Garnish with the lemon twist.",Highland Sling,{null}
+782,1,390,{null},{null},{null},18,,"In a mixing glass half-filled with ice cubes, combine gin and vermouth. Stir well. Strain into a cocktail glass and garnish with the cherry.",Gypsy,{null}
+783,1,741,{null},{null},{null},6,,,Scotch Neat,{null}
+784,1,554,{null},{null},{null},14,,"Pour the Midori melon liqueur, vodka, Bacardi white rum, Cointeau, blue curacao and pineapple juice (to taste) into a highball glass filled with ice cubes. Stir well. Top with lemonade, stir again gently, and serve.",Midori Illusion,{null}
+785,1,424,{null},{null},{null},9,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Hurricane,{null}
+786,1,149,{null},{null},{null},3,,Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve.,Bloody Maria,{null}
+787,1,93,{null},{null},{null},2,,Combine all ingredients and pour over cracked ice in a collins glass. Decorate with a strawberry or cherry and serve.,Bahama Mama,{null}
+788,1,854,{null},{null},{null},11,,"The origins of this drink remain shrouded in mystery & drunkedness. It is rumoured Moses himself came down from the mountain with it, as a golden gift from the heavens. Others claim it to be the real reason the Greeks send 1000 ships to Troy. There have even been rumours that it was invented by the legendary Cathail, one night when he needed to get very very drunk, very very quickly. It can be an expensive drink at times, but is extremely tasty, as well as being incredibly potent. Proceed with caution!\",Top Cat,{null}
+789,1,855,{null},{null},{null},18,,Stir all ingredients (except orange peel) with ice and strain into a cocktail glass. Add the twist of orange peel and serve.,Turf Cocktail,{null}
+790,1,87,{null},{null},{null},15,,Pour into an old-fashioned glass filled with broken ice. Serve with a twist of lime.,Bacchus,{null}
+791,1,627,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Parisian,{null}
+792,1,226,{null},{null},{null},23,,Pour into a wine glass.,Champagne de Mars,{null}
+793,1,621,{null},{null},{null},2,"Invented by Zaphod Beeblebrox and described as ""the alcoholic equivalent of a mugging - expensive and bad for the head"".","Take a pintglass (= approx. 0.5 litres) Put the Tia Maria, the vodka and the cherry brandy together. Add a dash of lime juice. Fill the rest of the glass up with (50% - 50%) with dry cider and 7 -up Add ice cubes.",Pan Galactic Gargle Blaster,{null}
+794,1,273,{null},{null},{null},15,,"In a shaker filled with ice, combine all ingredients. Shake or stir & strain into rocks glass or large shot glass.",Daydream,{null}
+795,1,419,{null},{null},{null},17,,Brew tea and fill tall glass 3/4 full. Mix in honey. Mix in Brandy shots. Add lemon slice and enjoy.,Hot Toddy,{null}
+796,1,218,{null},{null},{null},14,,"Take a glass of sparkling cider, and add the butterscotch schnapps to taste.",Candy Apple,{null}
+797,1,145,{null},{null},{null},15,,"Pour Jack Daniel's over roughly 3 ice cubes in an old-fashioned glass. Add Coca-cola until the glass is nearly full, then add cherry grenadine. Mix together with a straw, and serve.",Bloody Jack,{null}
+798,1,579,{null},{null},{null},14,,Mix all ingredients in a highball glass with ice and enjoy.,Moscow Mule,{null}
+799,1,626,{null},{null},{null},24,,Pour into a pilsner three-quarters filled with broken ice.,Paris Opera,{null}
+800,1,112,{null},{null},{null},4,,"Puree ripe peaches by forcing them through a sieve and spoon into a large, chilled wine goblet. Sweeten to taste with maraschino liqueur. Add vodka, fill with chilled champagne, and serve.",Bellinski,{null}
+801,1,236,{null},{null},{null},19,,Blend in a bar blender at low speed. Serve in a champagne flute topped with chocolate shavings.,Checkerboard,{null}
+802,1,914,{null},{null},{null},15,,,Bring It Home,{null}
+803,1,444,{null},{null},{null},2,,"Pour the vodka, irish cream and peppermint schnapps into a collins glass filled with ice cubes. Top with milk, to taste, and serve.",Jack Hammer,{null}
+804,1,738,{null},{null},{null},12,,"Pour both ingredients into a shot glass, and serve.",School Bus,{null}
+805,1,502,{null},{null},{null},2,,"Build all ingredients in a collins glass and top with soda. Garnish with a spiral of lime peel, and serve.",Lime Rickey,{null}
+806,1,822,{null},{null},{null},9,,Blend.,Tequila Bay Breeze,{null}
+807,1,564,{null},{null},{null},18,,Shake well and strain into a double-cocktail glass filled with broken ice.,Millionaire,{null}
+808,1,147,{null},{null},{null},15,,"Pour Jim Beam bourbon whiskey over roughly 3 ice cubes in an old-fashioned glass. Add Coca-cola until the glass is nearly full, then add cherry grenadine. Mix together with a straw, and serve.",Bloody Jim,{null}
+809,1,650,{null},{null},{null},18,,Shake well and serve in a cocktail glass.,Pisco Sour,{null}
+810,1,433,{null},{null},{null},12,,Pour the Irish Mist into shot glass. Add a splash of Creme de Menthe (green).,Irish Kiss,{null}
+811,1,838,{null},{null},{null},18,,Add 2 oz of Captain Morgan to glass. Add sugar. Add Mountain Dew till mix turns green.,The Incredible Hulk,{null}
+812,1,778,{null},{null},{null},18,,Blend with a scoop of ice,Smooth Operator,{null}
+813,1,529,{null},{null},{null},18,"Contraary to the preferences of James Bond, the martini is traditionally prepared ""stirred not shaken"".",,Martini,{null}
+814,1,864,{null},{null},{null},6,,"Pour the sherry into a brandy snifter. Swirl it around in order to coat the glass, then pour out the excess. Stir the vodka in a mixing glass half-filled with ice cubes, and strain into the snifter. Garnish with a twist of lemon, and serve.",Vodka Dry,{null}
+815,1,428,{null},{null},{null},14,,Build over ice in a highball glass. Stir.,Insane Asylum,{null}
+816,1,479,{null},{null},{null},18,,"Pour ingredients into mixing cup filled with ice, shake and strain into glass.",Key Lime Pie,{null}
+817,1,328,{null},{null},{null},15,,"Pour ingredients into a old-fashioned glass over ice, stir, and serve.",French Connection,{null}
+818,1,811,{null},{null},{null},18,,Shake all ingredients and strain into a cocktail glass.,Sundowner,{null}
+819,1,73,{null},{null},{null},14,,Mix ingredients in glass over ice and enjoy!,Atomic Watermelon,{null}
+820,1,762,{null},{null},{null},2,,"Shake all ingredients with ice, pour into a tall glass and serve.",Sex on the Island,{null}
+821,1,139,{null},{null},{null},14,,"Pour the Captain Morgan's, and root beer schnapps over ice in a highball glass. Fill with Coke or Pepsi and serve.",Blackbeard,{null}
+822,1,430,{null},{null},{null},17,,"Use a small saucepan to heat the ingredients, and serve in a coffee mug. Top with nutmeg if desired.",Irish Cow,{null}
+823,1,3,{null},{null},{null},5,,Chill with ice and pour in glass,3rd Wheel,{null}
+824,1,327,{null},{null},{null},14,,"Shake over ice cubes in a shaker, and strain into a large highball glass over crushed ice. Add pineapple chunks, and serve.",French Colada,{null}
+825,1,447,{null},{null},{null},23,,"Jailbreak was invented in Burrell's Field, England. Vodka may be substituted for the Whiskey.Pump Stout and Coke into a wine glass. Mix Coffee Liqueur, Whiskey and Amaretto separately, with some crushed ice. Pour over the Guinness and Coke. Serve, unstirred.",Jailbreak,{null}
+826,1,594,{null},{null},{null},14,,"Add the three ingredients, and mix gently.",Nolan,{null}
+827,1,196,{null},{null},{null},18,,Shake all ingredients (except orange slice) with ice and strain into a cocktail glass. Add orange slice and serve.,Bronx Cocktail,{null}
+828,1,583,{null},{null},{null},15,,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into an old-fashioned glass almost filled with ice cubes.",Mumbo Jumbo,{null}
+829,1,1,{null},{null},{null},7,,Drop shooter in glass. Fill with beer,110 in the shade,{null}
+830,1,352,{null},{null},{null},12,,,Girl Scout Cookie,{null}
+831,1,333,{null},{null},{null},14,,Build over ice in a highball glass. Garnish with a wedge of lime.,Fuzzy Greyhound,{null}
+832,1,485,{null},{null},{null},16,,"Pour the Goldschlager into a whiskey sour glass, followed by the Crown Royal. Serve.",King's Gold,{null}
+833,1,285,{null},{null},{null},18,,Shake ingredients in a cocktail shaker with ice. Strain into cocktail glass.,Dive Bomb,{null}
+834,1,319,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",Foxy Lady,{null}
+835,1,153,{null},{null},{null},2,,"A hard-man's drink. Resident to College Station, Texas, where participants would drink Bloody Murder before fist-fighting in bottlecap alley.Mix the cayenne pepper in a small amount of vodka until dissolved. Add the remainder of vodka and mix again. Add tomato juice. Slice a habenero pepper and use to mix drink; place as garnish.",Bloody Murder,{null}
+836,1,341,{null},{null},{null},15,,"Fill the glass about two thirds full of Sprite. Pour in the Schnapps, then gin. Put ice in glass to cool.",Gin Blossam,{null}
+837,1,745,{null},{null},{null},10,,"In a standard coffee mug put the scotch, honey and tea bag. Pour boiling hot water to fill mug. Steep for about one or two minutes. Then remove and dispose of tea bag.",Scotch Toddy,{null}
+838,1,830,{null},{null},{null},2,,"Shake tequila, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Add the half-slice of lemon, top with the cherry, and serve.",Tequila Sour,{null}
+839,1,349,{null},{null},{null},15,,Dissolve powdered sugar in mixture of water and juice of lemon. Add gin. Pour into an old-fashioned glass over ice cubes and stir. Add the twist of orange peel and serve.,Gin Sling,{null}
+840,1,900,{null},{null},{null},23,,"Pour wine in a balloon wine glass, add soda, and serve.",White Wine Spritzer,{null}
+841,1,712,{null},{null},{null},18,,Shake with ice and strain into a cocktail glass.,Russjkov,{null}
+842,1,678,{null},{null},{null},18,,,Red Manhattan,{null}
+843,1,796,{null},{null},{null},9,,Shake gin and cherry juce. Fill with 7-up and ice.,Spiked Cherry,{null}
+844,1,292,{null},{null},{null},18,,"The Ectoplasm is a hideous-looking green drink resembling the green slime from Ghostbusters. It also has a kick like a mule.Stir ingredients together in an old-fashioned glass filled with ice cubes, and serve.",Ectoplasm,{null}
+845,1,784,{null},{null},{null},4,,"Muddle one sprig of mint with the lime pieces, lime juice, and simple syrup in the bottom of a bar glass. Add gin and shake well. Pour into a goblet over crushed ice and stir until the outer-glass frosts. Top with soda water, garnish with remaining sprig of mint, and serve.",Southside,{null}
+846,1,810,{null},{null},{null},6,,Inventor: Philip Scoggins \,Sunday Night Sleet,{null}
+847,1,314,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",Fox And Hounds,{null}
+848,1,795,{null},{null},{null},12,,"put alchohol in shot glass, drop strawberry into glass, then try and make cream float on top.",Spider's Web,{null}
+849,1,486,{null},{null},{null},2,,"Pour both ingredients into a collins glass. Garnish with a twist of lemon, and serve.",King's Ruin,{null}
+850,1,471,{null},{null},{null},18,,Shake all ingredients with cracked ice and pour into a chilled cocktail glass.,Jupiter Cocktail,{null}
+851,1,10,{null},{null},{null},14,,"Mix the strawberries in a blender and pour over ice in a shaker. Add the vodka, kirsch and strawberry liqueur to the shaker. Shake well, pour into a highball glass, and fill up with the russian water.",A Midsummernight's Dream,{null}
+852,1,453,{null},{null},{null},15,,Fill old fashioned glass with crushed ice.  Add one ounce Myer's Jamaican Rum.  Fill glass with approximately 3 ounce's of Minute Maid Fruit Punch. Serve with a straw.,Jamaican Punch,{null}
+853,1,656,{null},{null},{null},15,,Shake with ice and strain into a cocktail glass. Serve.,Plank Walker,{null}
+854,1,665,{null},{null},{null},14,,,Pousse-Cafe,{null}
+855,1,189,{null},{null},{null},15,,Pour tequila and coffee liqueur over ice cubes in an old-fashioned glass and stir. Add the twist of lemon and serve.,Brave Bull,{null}
+856,0,666,{null},{null},{null},23,"This most famous of hangover cures is said to ""make the head feel smaller"".",Pour in order into a wine glass taking good care of not breaking the yolk.,Prairie Oyster,{null}
+857,1,170,{null},{null},{null},15,,"In a shaker half-filled with ice cubes, combine the bourbon, lemon juice, grenadine, and sugar. Shake well. Pour into an old-fashioned glass. Garnish with the orange slice and the cherry.",Bourbon Daisy,{null}
+858,1,932,{null},{null},{null},18,,"Stir ingredients with ice, strain into a cocktail glass. Garnish with a cherry.",Rob Roy (Perfect),{null}
+859,1,475,{null},{null},{null},18,,"Mix Kahlua and lemon juice, add sugar and enjoy.",Kahlua Sour,{null}
+860,1,267,{null},{null},{null},4,,Fill beer mug with ice. Add all ingredients and stir.,Crooked Monkey,{null}
+861,1,725,{null},{null},{null},14,"The Salty Dog is the preferred drink of Frank Ryan and Ernest Stickley, Jr. the the novel Swag by Elmore Leonard.","In a shaker, add Smirnoff No.21 Vodka and grapefruit juice. Stir and serve over ice in salt-rimmed glass.",Salty Dog,{null}
+862,1,525,{null},{null},{null},18,,"Rub rim of cocktail glass with lime juice, dip rim in salt. Shake all ingredients with ice, strain into the salt-rimmed glass, and serve.",Margarita,{null}
+863,1,544,{null},{null},{null},18,,"Pour ingredients into a cocktail glass, stir and serve.",Melon Sour,{null}
+864,1,459,{null},{null},{null},14,,"Pour as much vodka as you think you can handle, and top it off with cream soda. Enjoy and drink Jersey style!",Jersey Girl,{null}
+865,1,815,{null},{null},{null},22,,"Stir the lemon juice and sugar together in a large punch bowl until the sugar is dissolved. Add the champagne, Maraschino Liqueur, Cointreau, cherry brandy, brandy and cold tea. Stir well. Add one large block of ice. Garnish with orange slices and maraschino cherries.",Sunset Punch,{null}
+866,1,934,{null},{null},{null},15,,Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.,Blind Russian,{null}
+867,1,11,{null},{null},{null},18,,"With three ice cubes put vodka, light rum, cassis, orange juice, and frozen lemonade made at double strength into a shaker. Shake well. Place half the grenadine in the bottom of each white wine glass, pour in shaken mixture till withine inch of rim. With a large spoon drop whipped cream carefully in glass. Take small spoon spread to all the edges and to look nice. Serve. Makes two glasses.",Smile Cocktail,{null}
+868,1,518,{null},{null},{null},18,,Mix ingredients and serve over ice.,Malibu Bay Breeze,{null}
+869,1,857,{null},{null},{null},15,,"As served at the \Impudent Oyster\"" Restaurant in Chatham (Cape Cod) Mass. Thanks to F. Leo Lahiff.All the ingredients are poured and served over ice.  Use a small rocks or old fashioned glass.  Most important to use large drinking straw so you can \""shoot\"" the wonderful concoction down your hatch!""",Two Minute Warning,{null}
+870,1,90,{null},{null},{null},18,,"Place bacon strip at bottom of glass, strain bacon infused vodka through shaken ice into the glass. Add Olives.",Bacon Martini,{null}
+871,1,831,{null},{null},{null},18,,"Pour tequila and creme de menthe into a mixing glass half-filled with ice cubes. Stir well, strain into a cocktail glass, and serve.",Tequila Stinger,{null}
+872,1,51,{null},{null},{null},18,,"In a shaker half-filled with ice cubes, combine the brandy, vermouth, creme de menthe, orange juice, and grenadine. Shake well. Strain into a cocktail glass. Pouring slowly and carefully, float the port on top.",American Beauty,{null}
+873,1,276,{null},{null},{null},18,,"Pour vodka, vermouth and Cointreau into a mixing glass half-filled with ice cubes. Stir well and strain into a cocktail glass. Garnish with a twist of lemon, and serve.",Deanne,{null}
+874,1,14,{null},{null},{null},18,,Shake ingredients in a cocktail shaker with ice. Strain into glass.,Abigail,{null}
+875,1,457,{null},{null},{null},18,,Stir with cracked ice and strain into a chilled cocktail glass. Garnish with a twist of lemon peel.,Jasmine,{null}
+876,1,201,{null},{null},{null},12,,Stir in a shotglass. Drink quickly.,Buffalo Sweat,{null}
+877,1,61,{null},{null},{null},18,,"Bombay London dry gin is recommended for this drink; \anzu\"" is Japanese for apricot.Shake with ice; strain into a chilled cocktail glass",Anzu,{null}
+878,1,246,{null},{null},{null},14,,"Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",Chicago Fizz,{null}
+879,1,567,{null},{null},{null},11,,This drink can be found on the campus of Miami University of Ohio. This drink is meant to have a lot of alcohol in it so please drink it slowly!!!\,Mind Probe,{null}
+880,1,750,{null},{null},{null},14,,"Pour vodka into an iced highball glass. Fill partially with grapefruit juice and top with cranberry juice. Garnish with a Lime Wedge, and serve.",Sea Breeze,{null}
+881,1,612,{null},{null},{null},18,,"Combine all ingredients in a blender. Blend until smooth. Pour into a cocktail glass, garnish with a slice of lemon, and serve.",Old Yeller,{null}
+882,1,721,{null},{null},{null},7,"It is best to learn to count to three in Japanese: ""ichi, ni, san"". This will give you expert knowledge for chanting prior to slamming this shot.",It's real easy. Drop the shot of Sake into a glass of beer and the just SLAM IT !!!!!!!!!!,Sake Bomb,{null}
+883,1,893,{null},{null},{null},14,,"Pour Stoli vodka, kahlua and banana liqueur into a highball glass or cup with ice. Top off with milk, followed by two slices of thinly cut bananas. Stir and serve.",White Romanian,{null}
+884,1,43,{null},{null},{null},21,,"Pour amaretto in an old-fashioned glass over crushed ice. Add the wedge of lime and serve. (A wedge of lemon may be substituted for lime, if preferred.)",Amaretto Mist,{null}
+885,1,78,{null},{null},{null},12,,"Carefully layer ingredients, in order, into a shot glass; Coffee Liqueur, amaretto, then irish cream.",B-52,{null}
+886,1,879,{null},{null},{null},14,,,Whiskey & Soda,{null}
+887,1,792,{null},{null},{null},15,,"Shake with a glassful of broken ice and pour unstrained into an old-fashioned glass. Add a speared cherry, and serve.",Spanish Guitar,{null}
+888,1,66,{null},{null},{null},18,,"Pour ingredients into shaker, shake over ice, strain into chilled martini glass, and serve.",Apricot Martini,{null}
+889,1,635,{null},{null},{null},18,,Stir with cracked ice and strain into a chilled cocktail glass. Garnish with a lime twist.,Pegu Club,{null}
+890,1,413,{null},{null},{null},18,,"Pour the brandy, creme de cacao and eggnog into a cocktail shaker half-filled with ice cubes. Shake well, and strain into a cocktail glass. Garnish with grated nutmeg, and serve.",Holiday Brandy Alexander,{null}
+891,1,316,{null},{null},{null},18,,Shake with ice and strain into a chilled cocktail glass.,Fox Trot,{null}
+892,1,26,{null},{null},{null},18,,"Pour ingredients over ice, shake and strain into a cocktail glass. Top with whipped cream and a cherry.",Afghan Monkey,{null}
+893,1,836,{null},{null},{null},14,,"Shake gin, orange juice and grenadine and strain into a highball glass three-quarters filled with broken ice. Add champagne, garnish with a slice of orange, and serve.",Texas Fizz,{null}
+894,1,622,{null},{null},{null},18,,Shake ingredients well and serve over ice.,Panama,{null}
+895,1,463,{null},{null},{null},2,,,John Collins,{null}
+896,1,9,{null},{null},{null},11,,"Shaken, not stirred!",Gilligan's Island,{null}
+897,1,331,{null},{null},{null},5,,"Place salt in a saucer. Rub rim of a cocktail glass with Lime Wedge and dip glass into salt to coat rim thoroughly, reserve lime. Pour tequila, triple sec, lime juice, and crushed ice into a blender. Blend well at high speed. Pour into a cocktail glass.",Margarita (frozen),{null}
+898,1,826,{null},{null},{null},18,,"Shake tequila, vermouth, and lime juice with ice and strain into an old-fashioned glass over ice cubes. Add the slice of orange, top with the cherry, and serve.",Tequila Manhattan,{null}
+899,1,535,{null},{null},{null},9,,"Mix the first ten ingredients (malibu, peach, strawberry, banana, melon, blue, orange juice, pineapple juice, pina mix, 7-up) in a shaker. Pour into a hurricane glass, then top with cream. Garnish with whatever fresh fruit you have on hand, NO limes, please for your own good. Throw some Filberts in if you feel like it.",Mekong,{null}
+900,1,296,{null},{null},{null},14,,,Electric Iced Tea,{null}
+901,1,300,{null},{null},{null},9,,"Pour the pineapple juice, orange juice, lemon juice, peach vodka and sugar into a cocktail shaker half-filled with ice cubes. Shake well for 30 seconds. Pour unstrained into a large glass (hurricane or otherwise) and add Lemon-Lime Cola. Stir briefly and serve.",Evening in Paris,{null}
+902,1,53,{null},{null},{null},10,,Pour into a coffee mug and fill with hot water. Stir.,American Grog,{null}
+903,1,598,{null},{null},{null},12,,"With ice, shake/stir and serve in shot glasses. The original drink called for the Goldslager but I actually like it with HotDam better..",Oatmeal Cookie,{null}
+904,1,929,{null},{null},{null},18,,Stir gin and vermouth with ice and strain into a cocktail glass. Add the olive and serve.,Vanilla Martini,{null}
+905,1,401,{null},{null},{null},2,,Pour vodka and orange juice into a collins glass over ice cubes and stir. Float Herbal Liqueur on top and serve.,Harvey Wallbanger,{null}
+906,1,47,{null},{null},{null},14,,Mix together the amaretto and orange juice. Pour into glass and then add the grenadine untill you see the sunrise.,Amaretto Sunrise,{null}
+907,1,228,{null},{null},{null},2,,"Combine 4 mint leaves with the sugar and a few drops of water, and muddle well. Add the bourbon, and stir well. Strain into a collins glass, add ice cubes and the champagne. Garnish with 2 mint leaves, and serve.",Champagne Julep,{null}
+908,1,930,{null},{null},{null},15,,"Mix sugar, water and angostura bitters in an old-fashioned glass. Drop in a cherry and an orange wedge. Muddle into a paste using a muddler or the back end of a spoon. Pour in bourbon, fill with ice cubes, and stir.",Brandy Old-Fashioned,{null}
+909,1,192,{null},{null},{null},12,,Place the mint leaf in the bottom of the glass. Add the vodka first and fill with the creme de menthe.,Breath Freshener,{null}
+910,1,695,{null},{null},{null},18,,,Ruby Relaxer,{null}
+911,1,519,{null},{null},{null},14,,"Muddle Lime Wedges, mint leaves, and sugar with a splash of club soda. Fill glass with ice and add the Malibu rum & 1 oz. club soda. Shake all ingredients together. Try not to shake too hard so you don't flatten the soda.",Malibu Mojito,{null}
+912,1,853,{null},{null},{null},14,,"Layer grenadine, amaretto, and lemon juice, then stir. Add 2 drops of chocolate syrup, let sink, and serve.",Tootsie Pop,{null}
+913,1,555,{null},{null},{null},14,,Shake ingredients together with with ice. Garnish with a slice of orange or a cherry.,Midori Sour,{null}
+914,1,262,{null},{null},{null},23,,Beat or blend briefly. Pour into a wine glass and add soda. Garnish with a slice of orange and a cherry.,Crime of Passion,{null}
+915,1,850,{null},{null},{null},2,"Named after the fictional New York City gossip, Tom Collins.","In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass alomst filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice.",Tom Collins,{null}
+916,1,911,{null},{null},{null},18,,"Shake all ingredients with ice, strain into a cocktail glass, and serve.",Woodward Cocktail,{null}
+917,1,48,{null},{null},{null},18,,"Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.",Amaretto Sunset,{null}
+918,1,232,{null},{null},{null},2,,"First, mix the Iced tea and the Lemonade in a separate glass. Add the grand marnier to a second collins glass. Then, pour the mixed contents of the Iced Tea-Lemonade into the glass with the Grand Marnier. Stir and drink.",Charm City Classic,{null}
+919,1,368,{null},{null},{null},18,"The crème de menthe gives the drink its distinctive green color, which invokes the imagery of a grasshopper. The drink gained popularity throughout the American South in the 1950s and 1960s.","Shake all ingredients with ice, strain into a cocktail glass, and serve.",Grasshopper,{null}
+920,1,664,{null},{null},{null},14,,"Dissolve the sugar in the water and port in the bottom of a highball glass. Almost fill the glass with crushed ice; add the soda. Float the brandy on top, and garnish with a lemon twist. Dust with nutmeg, then with cinnamon, and serve.",Port Wine Sangaree,{null}
+921,1,659,{null},{null},{null},14,,Just blend with ice in a highball glass.,Polar Bear,{null}
+922,1,921,{null},{null},{null},18,,,Alley Cat,{null}
+923,1,308,{null},{null},{null},14,,"Pour all ingredients into a cocktail shaker half-filled with ice cubes. Shake well, and strain into a highball glass filled with crushed ice. Garnish with a slice of orange, and serve.",Florida Punch,{null}
+924,1,132,{null},{null},{null},14,,"Combine all ingredients in a cocktail shaker half-filled with ice cubes. Shake well, strain into a chilled highball glass filled with ice cubes, and serve.",Black Sabbath,{null}
+925,1,682,{null},{null},{null},13,,,Ridley,{null}
+926,1,718,{null},{null},{null},15,,"Shake white rum, Charleston Follies and lemon juice with ice. Strain over ice in an old fashioned glass. Fill glass with champagne. Garnish with a slice of lemon.",Sailor Moon,{null}
+927,1,159,{null},{null},{null},14,,"Pour all ingredients into a shaker and shake thoroughly. Pour over crushed ice in a highball glass, and serve.",Blue Hawaii,{null}
+928,1,194,{null},{null},{null},18,,"Combine the sugar and cocoa powder in a saucer. Dampen the outside rim of a chilled cocktail glass by rubbing the orange piece around it, and rim with cocoa powder. Stir together the absolut kurant and godiva with ice in a mixing glass, and strain into the prepared glass. Serve.",Broken Heart Martini,{null}
+929,1,255,{null},{null},{null},18,Gained popularity in the 1990s before being immortalized by Carrie Bradshaw on Sex and the City.,"Pour the vodka, triple sec, cranberry juice and lime juice into a cocktail shaker half-filled with ice cubes. Shake well, strain into a cocktail glass, and serve.",Cosmopolitan,{null}
+930,1,904,{null},{null},{null},9,,Mix all ingredients in a blender until smooth. Makes 2 servings.,Windy Beach,{null}
+931,1,89,{null},{null},{null},6,,Pour equal amounts into Brandy Snifter and light.,Backdraft,{null}
+932,1,247,{null},{null},{null},14,,Shake with ice and serve over ice.,Chicago View,{null}
+933,1,943,{null},{null},{null},14,,Rum (black) Ginger Beer,Small Craft Advisory,{null}
+934,1,978,{null},{null},{null},21,,,Gordon's Cup,{null}
+935,1,968,{null},{null},{null},15,,,Adriatic Dreams,{null}
+936,1,938,{null},{null},{null},14,The official drink of the Preakness Stakes. Named for the flower blanket given to the winning horse.,,Black-Eyed Susan (official),{null}
+937,1,945,{null},{null},{null},14,,,Red Ruby,{null}
+938,1,955,{null},{null},{null},2,Named for the legendary Spanish golfer.,,Seve Ballesteros,{null}
+939,1,973,{null},{null},{null},21,,,The Green Garter,{null}
+940,1,986,{null},{null},{null},9,"Named after the particle accelerator that was supposed to be built in Texas, but cancelled after spending $12 billion.","Old-style recipe for this popular drink. The coconut cream needs to have the right consistancy, some find the alternative, coconut milk to be too thin, however you can add condensed milk to coconut milk to bring up it's thickness. Add pineapple juice if desired.Put all ingredients into an electric blender with 2 cups of crushed ice. Blend at a high speed for a short length of time. Strain into a collins glass and serve with a straw.",Superconducting Super Colada,{null}
+941,1,940,{null},{null},{null},2,,,Rum Swizzle #2,{null}
+942,1,950,{null},{null},{null},2,,,Italian Soda,{null}
+943,1,976,{null},{null},{null},18,"If you are a martini purist, use gin instead of vodka.",,Cucumber Martini,{null}
+944,1,939,{null},{null},{null},14,The original and better tasting recipe for the official drink of the Preakness Stakes.,,Black-Eyed Susan (original),{null}
+945,1,971,{null},{null},{null},13,,,Awry One,{null}
+946,1,985,{null},{null},{null},18,,,Bee's Knees,{null}
+947,1,974,{null},{null},{null},18,"Works with green, red, orange or yellow bell peppers. The drink will end up the color of the pepper you choose.",,Bell Pepper Cocktail,{null}
+948,1,948,{null},{null},{null},15,Use ginger beer instead of ginger ale for a different but equally delicious drink.,,Foghorn,{null}
+949,1,977,{null},{null},{null},18,,,Beet Martini,{null}
+950,1,936,{null},{null},{null},18,May cause eternal damnation.,,Adam and Eve,{null}
+951,1,970,{null},{null},{null},2,,,The Hasselhoff,{null}
+952,1,942,{null},{null},{null},14,,Rum (black) Ginger Beer,Ginger Bush,{null}
+953,0,984,{null},{null},{null},25,,,Honey Syrup,{null}
+954,1,972,{null},{null},{null},2,,,Henry Miller,{null}
+955,1,941,{null},{null},{null},14,,"You can substitute any dark or spiced rum . Pour rum over ice, add ginger ale, stir.",Light N Stormy,{null}
+956,1,954,{null},{null},{null},13,,,Ruby Peach,{null}
+957,1,951,{null},{null},{null},14,,,Cool Breeze,{null}
+958,1,952,{null},{null},{null},14,,,Cablegram,{null}
+959,1,953,{null},{null},{null},14,,,Bulldog Highball,{null}
+960,1,949,{null},{null},{null},14,,,Gin Buck,{null}
+961,1,967,{null},{null},{null},13,,,The Tree Line,{null}
+962,1,944,{null},{null},{null},14,,Rum (black) Ginger Beer,Turbo Dark N Stormy,{null}
+963,0,982,{null},{null},{null},25,,,Grenadine,{null}
+964,1,947,{null},{null},{null},15,,,Ginger Snap,{null}
+965,1,975,{null},{null},{null},2,"Hangover cure, extraordinaire!",,Carrot Ginger Splash,{null}
+966,1,966,{null},{null},{null},2,An Arnold Palmer with a kick.,,John Daly,{null}
+967,1,937,{null},{null},{null},2,Susie Taylor served as a nurse for the Union Army during the United States Civil War. She later became the only African American woman to publish a memoir about her wartime service. This drink is probably named for a different Susie Taylor.,,Susie Taylor,{null}
+968,1,979,{null},{null},{null},2,Tastes like a raspberry snow cone.,,Ramble,{null}
+969,0,983,{null},{null},{null},25,Add a half ounce of vodka to mixture to prolong the shelf life.,,Simple Syrup,{null}
+970,1,946,{null},{null},{null},18,Try putting another ginger snap cookie in the blender before blending.,,Ginger Snap Cocktail,{null}
+971,1,969,{null},{null},{null},13,,,Caribbees Daiquiri,{null}
+972,1,980,{null},{null},{null},21,,,Frisky Dingo,{null}
+973,1,935,{null},{null},{null},14,A Shirley Temple with a kick.,,Billie Holiday,{null}
+974,1,981,{null},{null},{null},19,"Like its predecessor, the French 75, the Mendoza is named after a weapon. In this case a light machine gun designed in Mexico.",,Mendoza,{null}
+975,1,987,1,{null},{null},22,"When Rum was hard to come by during the Revolutionary War, Americans made their Eggnog with Bourbon. Many still do!",,Eggnog,{null}
+976,1,989,1,{null},{null},17,,,Peppermint Hot Chocolate,{null}
+977,1,991,1,{null},{null},18,,,Whiskey Manhattan,{null}
+978,1,988,1,{null},{null},10,Traditional Wassail was served with a piece of toast to soak in the drink. This toast eventually became the toast of 'Let's make a toast'.,,Wassail,{null}
+979,1,990,1,{null},{null},15,,,Frostbite,{null}
+980,1,1001,1,{null},{null},18,,,French Martini,{null}
+981,1,926,1,{null},{null},11,"Named for the three Irish ingredients of Guinness, Bailey's and Jameson. Don't order in Ireland.",Build over ice drink with a straw.,Irish Car Bomb,{null}
+982,1,997,1,{null},{null},18,,,Manhattan (dry),{null}
+983,1,995,1,{null},{null},18,,,Lemon Drop Martini,{null}
+984,1,1000,1,{null},{null},18,,,Agave Kiss,{null}
+985,1,992,1,{null},{null},18,,,Italian Stinger,{null}
+986,1,998,1,{null},{null},18,,,Black Feather,{null}
+987,1,993,1,{null},{null},18,,,XYZ,{null}
+988,1,996,1,{null},{null},17,,,Whiskey Skin,{null}
+989,1,999,1,{null},{null},18,,,Washington Apple,{null}
+990,1,994,1,{null},{null},18,,,Frisco Sour,{null}

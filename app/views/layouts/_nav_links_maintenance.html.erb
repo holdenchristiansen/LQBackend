@@ -1,0 +1,7 @@
+<% if user_signed_in? %>
+  <li><%= link_to 'Categories', categories_path %></li>
+  <li><%= link_to 'Glasses', glasses_path %></li>
+  <li><%= link_to 'Ingredients', ingredients_path  %></li>
+  <li><%= link_to 'Recipes', recipes_path  %></li>
+  <li><%= link_to 'Lists', lists_path  %></li>
+<% end %>

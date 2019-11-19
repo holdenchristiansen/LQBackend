@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  scratchedoffshoppingcart: 1
+  shoppingcart: 1
+  name: MyString
+  optionalassetname: MyString
+  secondaryname: MyString
+  type: 
+  cabinet: 1
+
+two:
+  scratchedoffshoppingcart: 1
+  shoppingcart: 1
+  name: MyString
+  optionalassetname: MyString
+  secondaryname: MyString
+  type: 
+  cabinet: 1

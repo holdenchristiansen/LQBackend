@@ -1,0 +1,42 @@
+<div class="title col-xs-12">
+  <h1>LIST OF RECIPE</h1>
+</div>
+
+<div class="col-xs-12">
+  <div class="form-center">
+    <%= form_for @list , html: {class: "form-horizontal"} do |f| %>  
+      <fieldset disabled>   
+        <div class="form-group">
+          <%= f.label :name, 'Name:', class:'control-label col-xs-3'  %>
+          <div class="col-xs-9">
+            <%= f.text_field :name, class:'form-control'  %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <%= f.label :name, 'Image:', class:'control-label col-xs-3'  %>
+          <div class="col-xs-9">
+            <%= image_tag @list.image_url.url, :id =>'target', :size => '150x150', :align => 'left', :style => 'padding-top: 0px;' %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <%= f.label :recipe_tokens, 'New Recipes:', class:'control-label col-xs-3'  %>
+          <div class="col-xs-9 list_tokens_invisible">
+            <%= f.text_field :recipe_tokens, class:'form-control', "data-pre" =>@list.recipes.map(&:attributes).to_json %>
+          </div>
+        </div>
+
+      </fieldset>
+      <div class="form-group">
+        <div class="col-xs-12">
+            
+            <%= link_to 'Edit', edit_list_path(@list), :class => "btn btn-default" %> - 
+            <%= link_to 'Delete', @list, :class => "btn btn-default", method: :delete, data: { confirm: 'Are you sure?' } %> -
+            <%= link_to 'Back', lists_path, :class => "btn btn-default" %>
+
+          </div>
+      </div>
+    <% end %>    
+  </div>
+</div>

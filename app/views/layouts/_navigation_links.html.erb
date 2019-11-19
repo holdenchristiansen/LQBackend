@@ -1,0 +1,12 @@
+<%# add navigation links to this file %>
+<li style="width: 100%; height: 175px;">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+	<%= link_to image_tag('logo.png', width:'150'), root_path, :style=>'width 100%; height: 175px;', :class=>'img-responsive'%>
+	</div>
+</li>
+<li>
+	<%= link_to ' Home', root_path, :class=>'glyphicon glyphicon-home' %>
+</li>
+<li>
+	<%= link_to ' About', page_path('about'), :class=>'glyphicon glyphicon-info-sign' %>
+</li>

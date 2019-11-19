@@ -1,0 +1,35 @@
+<div class="col-xs-12">
+  <div class="form-center">
+    
+    <%= form_for @garnish , html: {class: "form-horizontal form-edit"} do |f| %>
+      <% if @garnish.errors.any? %>
+        <div id="error_explanation">
+          <h2><%= pluralize(@garnish.errors.count, "error") %> prohibited this garnish from being saved:</h2>
+
+          <ul>
+          <% @garnish.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+          <% end %>
+          </ul>
+        </div>
+      <% end %>
+
+      
+         <div class="form-group">
+          <%= f.label :name, 'New Name:', class:'control-label col-xs-2'  %>
+          <div class="col-xs-10">
+            <%= f.text_field :name, class:'form-control'  %>
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="col-xs-12">
+              <%= f.submit :class => "btn btn-default" %>    
+              <%= link_to 'Back', garnishes_path, :class => "btn btn-default" %>
+            </div>
+        </div>
+    <% end %>    
+  </div>
+</div>
+
+
+

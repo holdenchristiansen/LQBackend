@@ -1,0 +1,6 @@
+<tr class="fields">
+    <td><%= f.select(:stepindex, [*1..15])%></td>
+    <td><%= f.text_field :stepamount, class:"col-xs-12" %></td>
+    <td><%= f.text_field :steptitle, class:"col-xs-12" %></td>
+    <td><%= link_to_remove_fields "remove", f %></td>
+</tr>

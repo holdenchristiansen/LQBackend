@@ -1,0 +1,25 @@
+[
+    <%@versions.each_with_index do |version, index|%>
+    {
+        "id": <%=version.version%>,
+        "table": "<%=version.table_name%>",
+        "action": "<%=version.action%>",
+        "primary_key": {
+            <%unless version.primary_keys.blank?%>
+            <%version.primary_keys.split(',').each_with_index do |primary_key, index|%>
+            <%primary_element = primary_key.split(':')%>
+            "<%=primary_element.first.strip%>": <%=primary_element.last.strip%><%=',' unless (version.primary_keys.split(',').size-1) == index%>
+            <%end%>
+            <%end%>
+        },
+        "change_fields": {
+            <%unless version.change_fields.blank?%>
+            <%version.change_fields.split('**,').each_with_index do |change_field, index|%>
+            <%change_field_element = change_field.split(':')%>
+            "<%=change_field_element.first.strip%>": "<%=change_field_element.last.strip.gsub("\"", "\\\"") if (change_field_element.size>1)%>"<%=',' unless (version.change_fields.split('**,').size-1) == index%>
+            <%end%>
+            <%end%>
+        }
+    }<%=',' unless index == (@versions.size-1)%>
+    <%end%>
+]

@@ -1,0 +1,1185 @@
+id,stepindex,recipe_id,stepamount,steptitle
+15,0,{null},{null},Tools: Shaker
+17,5,{null},1 yolk,Egg
+24,8,{null},{null},Stir
+39,2,{null},1/3 oz,Triple Sec
+48,9,{null},1 sprig,Mint
+53,2,{null},1 oz,Lemon Juice
+55,2,{null},Garnish,Lemon
+69,1,{null},3/4 oz,Jagermeister
+72,6,{null},3 oz,Club soda
+75,2,{null},1 oz,Vodka
+78,4,{null},1,Egg
+93,4,{null},1 oz,Rum (light)
+94,3,{null},1/2 oz,Rum (dark)
+97,5,{null},{null},Pour over ice
+98,0,{null},{null},Tool: Muddler
+102,1,{null},2 oz,Whiskey
+110,1,{null},Fill 3/4,Ice
+115,10,{null},Fill 1/2,Resulting Batter
+117,0,{null},{null},Tools: Shaker
+120,2,{null},1 oz,Rum
+125,5,{null},Fill 1/2,Ice
+126,6,{null},{null},Shake
+128,4,{null},1 pinch,Salt
+129,1,{null},Fill 3/4,Ice
+134,7,{null},Garnish,Pineapple
+135,2,{null},1 1/2 oz,Vodka
+139,3,{null},2.25 liters,Claret
+143,7,{null},Fill,Club Soda
+149,3,{null},1 oz,Lemon Juice
+161,1,{null},Fill 1/2,Ice
+164,4,{null},1/2 tsp,Apricot Liqueur
+167,1,{null},2 oz,Jagermeister
+192,7,{null},{null},Garnish with a maraschino cherry and an orange slice
+193,3,{null},2 oz,Club Soda
+198,1,{null},Fill 1/2,Ice
+202,0,{null},{null},Tools: Blender
+205,3,{null},1 tsp,Sugar (superfine)
+206,1,{null},2 oz,Tomato Juice
+213,4,{null},3 oz,Mountain Dew
+216,6,{null},Garnish,Lemon
+218,2,{null},3/4 oz,Schnapps (Cinnamon)
+220,13,{null},{null},
+222,1,{null},2 oz,Midori
+224,0,{null},{null},Tools: Mixing Glass
+228,0,{null},1 oz,Sambuca (white)
+237,0,{null},3-4 cubes,Ice
+243,1,{null},1 oz,Watermelon Liqueur
+248,7,{null},{null},Strain into glass
+252,4,{null},Fill,Ice
+257,2,{null},1 1/2 oz,Brandy
+261,3,{null},1 oz,Brandy
+268,11,{null},1/2 jigger,Rum
+269,6,{null},2 1/2 oz,Bourbon
+272,7,{null},{null},Strain into glass
+280,4,{null},1 oz,Lemon Juice
+281,2,{null},1 oz,Rum (coconut)
+284,0,{null},1/2 Juiced,Limes
+285,3,{null},1/4-3/4 oz,Sugar Syrup
+286,1,{null},2 tsp,Sugar (granulated)
+289,8,{null},Garnish,Cherry
+303,6,{null},2 dashes,Bitters
+305,1,{null},Fill 3/4,Ice
+306,2,{null},1-2 shots,Tequila
+308,5,{null},2 oz,Lemon Juice
+309,2,{null},1 oz,Lemon Juice
+315,4,{null},{null},Stir
+326,7,{null},{null},Recommended Vodka: Absolut Citron
+335,2,{null},1 1/2 oz,Rum (dark)
+351,3,{null},3/4 oz,Schnapps (blackberry)
+357,4,{null},1/2 cup,Half-and-Half
+358,0,{null},{null},Tools: Shaker
+365,8,{null},{null},Garnish with a lemon slice
+369,4,{null},1 1/2 oz,Bourbon
+370,1,{null},1/2 oz,Grenadine
+379,2,{null},1/2 oz,Banana Liqueur
+380,6,{null},{null},Shake
+390,1,{null},1/2 Blender,Ice
+394,3,{null},3/4 oz,Orange Curacao
+401,0,{null},3-4,Ice (cubes)
+403,5,{null},1/2 oz,Brandy (apricot)
+404,4,{null},1/4 tsp,Maraschino Liqueur
+407,0,{null},Fill 1/2,Ice
+408,1,{null},Fill,Ice
+410,4,{null},2 oz,Sour Mix
+419,3,{null},1 oz,Rum (dark)
+422,4,{null},1 splash,Lemon-Lime Cola
+428,2,{null},4 wedges,Lime
+431,7,{null},Fill,Ice
+434,1,{null},Fill 3/4,Ice
+435,4,{null},2 dashes,Bitters
+439,5,{null},2 oz,Rum
+440,5,{null},4 oz,Brandy (apricot)
+447,1,{null},Fill 3/4,Ice
+452,2,{null},2 oz,Gin
+453,6,{null},3/4 oz,Orange Liqueur
+457,1,{null},1 oz,Rum (coconut)
+460,3,{null},1 tsp,Sugar (superfine)
+462,3,{null},1 squeeze,Lime
+464,5,{null},{null},Shake
+468,4,{null},{null},Strain into glass
+471,1,{null},Fill,Ice (crushed)
+480,4,{null},{null},Stir
+490,5,{null},3 oz,Club soda
+495,3,{null},1/2 tsp,Orange Curacao
+500,5,{null},1,Egg
+501,5,{null},{null},Mix
+507,0,{null},3 oz,Jagermeister
+514,0,{null},{null},Rim glass with Salt
+523,4,{null},1 tsp,Sugar (superfine)
+530,2,{null},fill,Milk
+543,3,{null},1 oz,Rum (coconut)
+546,13,{null},{null},Boil Water
+548,3,{null},{null},Muddle
+550,6,{null},{null},Strain into glass
+552,2,{null},1 cup,Vodka
+553,6,{null},2 oz,Pineapple Juice
+560,1,{null},Fill 1/2,Ice
+561,2,{null},1,Egg
+568,1,{null},1 1/2 oz,Whiskey
+572,5,{null},1,Egg
+578,8,{null},Garnish,Mint Sprig
+579,4,{null},{null},Stir
+585,3,{null},1/2 oz,White Creme de Menthe
+588,6,{null},4 oz,Bourbon
+590,2,{null},2 oz,Gin
+594,12,{null},Garnish,Pineapples
+595,0,{null},{null},"Tools: Shaker, Melon Baller"
+597,2,{null},1 1/2 oz,Vodka (lemon)
+598,3,{null},1 tsp ,Creme de Menthe (green)
+599,5,{null},{null},Shake
+603,6,{null},{null},Garnish with a maraschino cherry and an orange slice
+606,2,{null},1 oz,Chambord
+612,7,{null},3/4 oz,Orgeat Syrup
+616,2,{null},4 Leaves,Mint
+620,6,{null},Garnish,Fruit
+624,0,{null},Fill,Ice
+657,5,{null},{null},Recommended Peppermint Schnapps: Rumple Minze
+671,3,{null},Garnish,Cherry
+679,4,{null},2 dashes,Peychaud Bitters
+685,6,{null},{null},Strain into glass
+690,3,{null},1,Egg
+701,14,{null},1/2 cup,Water (hot)
+702,3,{null},1 tsp,Sugar
+706,2,{null},2 oz,Rum
+707,6,{null},1 tsp,Sugar (powdered)
+713,7,{null},1/4 oz,Lime Juice
+714,1,{null},Fill 1/2,Ice
+717,5,{null},1/4 oz,Anisette
+718,7,{null},Garnish,Orange
+728,2,{null},Fill,Ginger Ale
+733,12,{null},3 sliced,Oranges
+739,8,{null},{null},Shake
+743,2,{null},1 1/2 oz,Brandy
+744,3,{null},1/4 tsp,Lemon Juice
+749,5,{null},1 oz,Grapefruit Juice
+758,7,{null},8 oz,Triple Sec
+759,5,{null},3 oz,Club soda
+762,3,{null},1/2 oz,Chambord
+767,3,{null},{null},Stir until sugar dissolves
+769,3,{null},Fill,Sweet and Sour
+779,3,{null},2 oz,Rum (dark)
+786,5,{null},Fill,Lemon-Lime Cola
+820,3,{null},1 tsp,Grenadine
+822,5,{null},1 tsp,Grenadine
+833,6,{null},{null},Shake
+840,15,{null},{null},Stir
+846,3,{null},{null},Garnish with a lemon twist
+855,7,{null},garnish,Cherry
+858,3,{null},1 oz,Lemon Juice
+861,5,{null},{null},Stir
+869,6,{null},{null},Garnish with a maraschino cherry and an orange slice
+870,8,{null},4 oz,Lemonade
+871,2,{null},6 dashes,Worcestershire Sauce
+872,0,{null},Fill,Ice
+874,8,{null},Garnish,Cherry (maraschino)
+880,7,{null},3 oz,Milk
+887,5,{null},2 1/2 oz,Cachaca
+888,2,{null},1 tsp,Sugar (powdered)
+893,6,{null},1 oz,Orange Juice
+894,1,{null},Fill 3/4,Ice
+904,8,{null},1 qt,Club Soda
+907,9,{null},{null},In glass
+924,5,{null},1 tsp,Sugar (powdered)
+926,6,{null},Add to taste,Viuda de Sanchez
+941,0,{null},{null},Tools: Shaker
+952,7,{null},{null},Strain into glass
+957,11,{null},{null},Chill Club Soda
+963,6,{null},1 yolk,Egg
+964,2,{null},1 1/2 oz,Gin
+981,8,{null},{null},Sprinkle nutmeg on top
+987,16,{null},1/2 tsp,Nutmeg
+993,0,{null},5 whole pitted,Cherries
+1002,5,{null},1 tbsp,Sugar (powdered)
+1003,6,{null},{null},Stir well
+1005,3,{null},4 dashes,Tabasco Sauce
+1008,10,{null},Fill,Ice
+1009,9,{null},{null},Shake
+1014,1,{null},2 tbsp,Lime Juice
+1021,5,{null},1 1/2oz,Madeira
+1025,1,{null},2 oz,Vodka
+1039,7,{null},1 oz,Mango Syrup
+1045,4,{null},Fill,Ice
+1046,9,{null},2 cups,Tea
+1048,5,{null},{null},Shake
+1050,4,{null},Fill,Milk
+1054,6,{null},1 white,Egg
+1057,5,{null},{null},Shake
+1075,7,{null},{null},Shake
+1081,10,{null},{null},Strain into glass
+1084,5,{null},1/2 oz,Sugar Syrup
+1085,1,{null},1 oz,Vodka
+1094,4,{null},1/2 oz,Egg
+1116,1,{null},3-4 cubes,Ice
+1117,10,{null},{null},Strain into glass over ice
+1128,11,{null},{null},Strain into glass
+1130,1,{null},1 1/2 oz,Whiskey
+1134,4,{null},Fill 1/2,Ice
+1136,6,{null},{null},Strain into glass
+1138,4,{null},1 tsp,Light Cream
+1144,0,{null},{null},Tools: Blender
+1148,6,{null},{null},Pour into glass
+1150,6,{null},1/3 can,Lemonade (Pink)
+1158,5,{null},{null},Shake
+1159,6,{null},{null},Stir
+1161,10,{null},{null},Stir
+1166,2,{null},2 oz,Lime Juice
+1167,1,{null},{null},Muddle cherries
+1169,9,{null},{null},Shake for 1 minute
+1178,7,{null},{null},Shake
+1180,0,{null},Fill 1/2,Ice
+1185,8,{null},1/4 oz,Molasses
+1194,6,{null},{null},Stir
+1201,8,{null},{null},Strain into chilled glass
+1204,0,{null},{null},Tools: Shaker
+1212,0,{null},2 oz,Club Soda
+1214,0,{null},Fill 1/2,Ice
+1225,2,{null},1 oz,Irish Cream
+1241,6,{null},{null},Strain into glass
+1248,7,{null},{null},Strain into glass
+1257,11,{null},Garnish,Lime Peel
+1264,7,{null},{null},Blend
+1266,2,{null},1/2 oz,Triple Sec
+1284,2,{null},1 1/2 oz,Vodka
+1295,7,{null},garnish,Cherry
+1297,4,{null},6 oz,Pineapple Juice
+1298,8,{null},{null},Strain over ice into glass
+1304,11,{null},1 large block,Ice
+1305,3,{null},8 oz,Ginger Ale
+1322,8,{null},3-4 drops,Orange-Flower Water
+1323,0,{null},1 tbsp,Honey
+1326,1,{null},2 cups,Ice 
+1328,8,{null},Garnish,Cherry
+1332,9,{null},{null},Shake
+1335,5,{null},2 dashes,Garlic Powder
+1347,7,{null},2 oz,Club Soda
+1351,0,{null},1 tsp,Worcestershire Sauce
+1364,3,{null},1 oz,Schnapps (Peppermint)
+1366,1,{null},2 oz,Brandy
+1369,0,{null},Fill,Ice Cubes
+1373,0,{null},Fill 1/2,Ice
+1380,8,{null},{null},Garnish with a sprinkle of nutmeg
+1398,7,{null},3 oz,Club soda
+1404,1,{null},2 oz,Gin
+1411,3,{null},1/3 oz,Grenadine
+1419,10,{null},{null},Strain into glass
+1422,3,{null},1/2 oz,Lemon Juice
+1423,0,{null},2 cups,Lemon Juice
+1427,13,{null},Garnish,Cherries (maraschino)
+1458,9,{null},Fill,Club Soda
+1465,2,{null},2 oz,Rum (light)
+1474,7,{null},1 tbsp,Sugar (powdered)
+1477,7,{null},1 slice,Orange
+1483,6,{null},2 dashes,Onion Powder
+1495,12,{null},1/4 oz,Club Soda
+1499,8,{null},Garnish,Mint Sprig
+1506,5,{null},{null},Stir
+1511,4,{null},2 dashes,Vinegar
+1512,2,{null},1 1/4 oz,Lemon Juice
+1522,0,{null},{null},Tools: Shaker
+1529,4,{null},3/4 glass,Orange Juice
+1543,1,{null},1 tbsp,Tomato Juice
+1553,8,{null},Garnish,Cherry (maraschino)
+1554,2,{null},1 oz,Lemon Juice
+1556,1,{null},1 1/2 oz,Vodka
+1564,1,{null},1 3/4 oz,Vodka
+1566,0,{null},{null},Chill Glass
+1575,10,{null},{null},Stir
+1576,11,{null},Garnish,Cherry
+1588,13,{null},{null},Recommended Triple Sec: Cointreau
+1598,14,{null},Garnish,Mint
+1599,4,{null},6 oz,Maraschino Liqueur
+1622,3,{null},1 1/2 oz,Coconut Cream
+1633,6,{null},1,Egg
+1634,1,{null},1 cup,Sugar (superfine)
+1645,7,{null},3 dashes,Celery Salt
+1646,6,{null},{null},Strain into glass
+1667,3,{null},1 tsp,Sugar (superfine)
+1683,0,{null},{null},Tools: Shaker
+1687,0,{null},3/4 oz,Lime Juice
+1697,2,{null},1,Egg
+1700,11,{null},{null},Stir
+1707,3,{null},1 tsp,Sugar (superfine)
+1716,2,{null},1 1/2 oz,Triple Sec
+1721,0,{null},1 1/2 oz ,Grand Marnier
+1726,2,{null},3/4 oz,Kahlua
+1732,5,{null},1 tsp,Pastis Liqueur
+1734,9,{null},Garnish,Orange slice
+1736,5,{null},{null},Shake
+1738,4,{null},2 dashes,Bitters
+1739,0,{null},{null},Tools: Mixing Glass
+1750,5,{null},Fill,Club Soda
+1752,2,{null},{null},Stir until sugar dissolves
+1763,1,{null},1 1/2 oz,Gin
+1774,5,{null},1/2 oz,Lime Juice
+1791,4,{null},{null},Stir
+1797,8,{null},2 dashes,Pepper
+1803,3,{null},{null},Do not break yolk
+1808,1,{null},1 oz,Brandy
+1816,10,{null},Fill,Club Soda
+1824,4,{null},{null},Stir
+1825,3,{null},2 dashes,Curacao Orange Liqueur
+1839,6,{null},{null},Shake
+1845,0,{null},{null},Tools: Shaker
+1846,4,{null},Garnish,Lime Peel
+1860,3,{null},1 dash,Gin (sloe)
+1861,3,{null},1 oz,Irish Cream
+1865,1,{null},5 oz,Tea
+1881,1,{null},1 oz,Sugar Syrup
+1892,6,{null},Garnish,Lemon
+1902,3,{null},1 1/2 liter,Champagne
+1908,0,{null},{null},Tools: Shaker
+1913,2,{null},1/2 oz,Triple Sec
+1926,1,{null},1 oz,Tequila (gold)
+1927,0,{null},{null},Tools: Kettle
+1937,0,{null},{null},Tools: Shaker
+1940,5,{null},1 oz,Heavy Cream
+1951,2,{null},1/4 oz,Lemon Juice
+1952,5,{null},3 oz,Club soda
+1953,9,{null},2 oz,Vodka
+1958,7,{null},{null},Strain into glass with ice
+1959,9,{null},2-3 cubes,Ice
+1968,2,{null},2 tsp,Lemon Juice
+1977,4,{null},{null},Float cream on top
+1986,5,{null},3 oz,Club soda
+1990,4,{null},1/2 oz,Simple Syrup
+1998,0,{null},4-5 cubes,Ice
+2005,2,{null},5 oz,Lemonade
+2021,2,{null},3 dashes,Bitters
+2026,1,{null},Fill 3/4,Ice
+2040,3,{null},1 tsp,Grenadine
+2050,6,{null},{null},Blend at high speed
+2056,3,{null},1/2 oz,Lime Juice
+2065,6,{null},{null},Garnish with an orange slice and a maraschino cherry
+2068,4,{null},1/4 oz,Black Currant Liqueur
+2069,3,{null},{null},Brew hot tea in a kettle
+2073,2,{null},1 oz,Gin
+2075,3,{null},2 tbsp,Cream
+2080,4,{null},1 shot,Scotch
+2081,0,{null},1 3/4 oz,Midori
+2082,4,{null},3-4 cubes,Ice
+2087,10,{null},Fill 4/5,Clamato Juice
+2091,1,{null},Fill 3/4,Ice
+2093,6,{null},{null},Garnish with a maraschino cherry and an orange slice
+2108,1,{null},2 cups,Water (hot)
+2110,4,{null},1 dash,Bitters (orange)
+2111,1,{null},2 oz,Tequila
+2116,1,{null},1/2 tsp,Sugar (powdered)
+2118,8,{null},{null},Strain into glass
+2119,5,{null},1 dash,Peppers
+2138,1,{null},3/4 oz,Vermouth (sweet)
+2139,5,{null},{null},Stir slowly
+2140,4,{null},1 dash,Tabasco Sauce
+2150,4,{null},1 dash,Amaretto
+2162,7,{null},{null},Strain into glass
+2166,3,{null},7 oz,Club Soda
+2169,5,{null},{null},Recommended Triple Sec: Cointreau
+2172,1,{null},1 juiced,Lemon
+2178,2,{null},1 1/2 oz,Marie Brizard Creme de Mure
+2182,3,{null},{null},Stir
+2184,2,{null},1/2 Juiced,Lemon
+2187,4,{null},{null},Pour tea into glass
+2215,5,{null},8 oz,Cointreau
+2227,2,{null},1 1/2 oz,Gin
+2235,2,{null},{null},Bring water to a boil
+2247,2,{null},1 1/2 oz,Rum (white)
+2248,11,{null},1/2 oz,Lime Juice
+2251,1,{null},1 3/4 oz,Sweet and Sour
+2256,0,{null},{null},Tools: Shaker
+2259,7,{null},{null},Shake
+2269,2,{null},1/2 juiced ,Lemon
+2271,0,{null},{null},Tools: Shaker
+2300,2,{null}, 3/4 oz,Gin
+2308,8,{null},{null},Garnish with a cherry and a pineapple wedge
+2313,4,{null},{null},Strain over ice into glass
+2315,0,{null},{null},Tools: Shaker
+2320,14,{null},garnish,Cherry
+2334,9,{null},Garnish,Lemon Twist
+2336,2,{null},2 dashes,Worcestershire Sauce
+2344,3,{null},1 oz,Lemon Juice
+2349,1,{null},2 oz,Whiskey (blended)
+2366,3,{null},{null},In mug
+2371,6,{null},3 oz,Brandy (cherry)
+2372,5,{null},{null},Stir
+2383,12,{null},{null},Garnish with a celery stalk and a lime wedge
+2387,4,{null},1 tsp,Sugar (powdered)
+2390,2,{null},{null},Stir
+2393,6,{null},1 white,Egg
+2395,5,{null},3-4 cubes,Ice
+2401,4,{null},1/2 oz,Lemon Juice
+2414,3,{null},3/4 oz,Cognac
+2420,0,{null},Fill 1/2,Ice
+2426,4,{null},1 oz,Vermouth (dry)
+2433,3,{null},1 tsp,Sugar (powdered)
+2440,4,{null},1/2 tsp,Sugar (superfine)
+2445,1,{null},{null},Chill Mixing Glass
+2460,1,{null},{null},Chill glass
+2467,3,{null},3/4 oz,Chartreuse (green)
+2472,6,{null},{null},Garnish with an lemon slice
+2474,1,{null},Fill 1/2,Ice
+2485,13,{null},1 sprig,Mint
+2486,7,{null},2 sprigs,Mint
+2491,9,{null},{null},Serve with a straw
+2501,0,{null},{null},Tools: Shaker
+2508,5,{null},1 tsp,Galliano
+2509,3,{null},1 dash,Soy Sauce
+2518,6,{null},{null},Stir
+2524,5,{null},{null},Recommended Bitters: Angostura
+2525,0,{null},{null},Tools: Blender
+2534,8,{null},{null},Strain vodka into snifter
+2543,1,{null},1 oz,Gin
+2559,7,{null},3 oz,Brandy
+2560,5,{null},1 tsp,Sugar (powdered)
+2581,0,{null},{null},Tools: Shaker
+2582,0,{null},2 1/2 oz,Scotch
+2583,0,{null},{null},Tools: Mixing Glass
+2595,2,{null},Fill,Ice
+2606,0,{null},{null},Tools: Shaker
+2616,0,{null},{null},Tools: Shaker
+2640,2,{null},2 oz,Gin
+2643,1,{null},2 oz,Gin
+2668,6,{null},1 slice,Orange
+2669,6,{null},Fill,Club Soda
+2680,7,{null},{null},Pour out excess sherry
+2681,12,{null},{null},Float Rum (151 proof)
+2687,4,{null},1/2 oz,Banana Liqueur
+2697,5,{null},{null},Shake
+2705,2,{null},1 oz,Orange Juice
+2706,7,{null}, 1 twist,Lime Peel
+2708,4,{null},1/3 oz,Raspberry Syrup
+2717,8,{null},2 cups,Tea
+2720,0,{null},{null},Tools: Shaker
+2724,1,{null},1 1/2 oz,Rum (coconut)
+2725,5,{null},1 tbsp,Honey
+2739,1,{null},1 oz,Rum (dark)
+2751,4,{null},1 oz,Lemon Juice
+2753,3,{null},3 oz,Gin
+2758,0,{null},{null},Tools: Shaker
+2768,5,{null},1 1/2 oz,Pineapple Juice
+2772,0,{null},{null},Tools: Shaker
+2775,1,{null},Fill,Ice
+2777,5,{null},{null},Shake
+2785,6,{null},{null},Strain over ice into glass
+2790,4,{null},1 white,Egg
+2793,5,{null},{null},Strain over ice
+2794,3,{null},1 oz,Lemon Juice
+2800,2,{null},1 oz,Lemon Juice
+2812,5,{null},{null},Shake
+2814,11,{null},1/2 oz ,Rum (151 proof)
+2815,6,{null},{null},Coat snifter with sherry
+2821,0,{null},4 cups,Water
+2824,1,{null},Fill 3/4,Ice
+2834,8,{null},{null},Recommended Triple Sec: Cointreau
+2841,0,{null},Fill 3/4,Ice Cubes
+2842,7,{null},garnish,Cherry
+2858,3,{null},1/4 oz,Grenadine
+2862,5,{null},1 pinch,Black Pepper
+2865,6,{null},1 bag,Tea
+2871,6,{null},{null},Strain into glass
+2872,9,{null},{null},Stir
+2874,0,{null},{null},Tools: Shaker
+2879,2,{null},1/2 oz,Schnapps (peach)
+2885,3,{null},1 oz,Port
+2890,0,{null},{null},Tools: Blender
+2892,0,{null},1 oz,Amaretto
+2897,2,{null},1 oz,Passion Fruit Juice
+2901,6,{null},{null},Strain into glass
+2911,7,{null},{null},Stir until glass frosts
+2913,6,{null},3/4 oz,Coconut Cream
+2920,2,{null},1 oz,Midori
+2923,5,{null},1 tsp,Sherry (dry)
+2946,3,{null},1 tsp,Sugar (superfine)
+2959,10,{null},{null},Pour into glass
+2960,4,{null},{null},Shake
+2961,4,{null},1 bottle,Vodka
+2962,9,{null},Garnish,Lemon Peel
+2965,4,{null},{null},Shake
+2968,2,{null},2 oz,Brandy
+2969,7,{null},{null},Pour hot water into mug
+2986,0,{null},{null},Tools: Shaker
+2987,1,{null},2 oz,Brandy
+2992,10,{null},2 pieces,Oranges
+2994,6,{null},1 pinch,Salt
+2995,1,{null},Add to taste,Club Soda
+2996,1,{null},12 oz,Lemonade (frozen)
+3018,3,{null},1/2 oz,Schnapps (strawberry)
+3024,2,{null},1 oz,Rum (light)
+3026,4,{null},6 oz,Rum (white)
+3027,7,{null},1/2 slice,Lemon
+3032,3,{null},2 tbsp,Ice Cream (Vanilla)
+3038,4,{null},1 oz,Beer
+3049,9,{null},{null},Blend
+3051,4,{null},1/2 oz,Schnapps (Peppermint)
+3054,1,{null},1,Coconut (shredded)
+3055,7,{null},Garnish,Cherry
+3058,4,{null},{null},Stir
+3063,7,{null},3/4 oz,Cream
+3067,1,{null},1 oz,Vodka
+3068,8,{null},1 tbsp,Marinade (mixed-berry)
+3074,3,{null},2 oz,Sweet-and-Sour Mix
+3078,3,{null},1 tsp,Sugar (powdered)
+3084,1,{null},Fill 3/4,Ice
+3086,4,{null},{null},In snifter
+3102,0,{null},{null},Tools: Shaker
+3104,0,{null},{null},Tools: Blender
+3114,3,{null},1/2 oz,Orange Curacao
+3120,5,{null},1/2 tsp,Grenadine
+3128,2,{null},5 oz,Club Soda
+3137,5,{null},{null},Pour over Ice
+3143,8,{null},1 pinch,Cinammon
+3147,11,{null},24 pieces,Cherries (maraschino)
+3151,2,{null},6 oz,Cranberry Juice (frozen)
+3157,7,{null},12 oz,Beer
+3158,4,{null},1 oz,Maraschino Liqueur
+3172,1,{null},Fill 3/4,Ice
+3174,8,{null},garnish,Cherry
+3176,8,{null},{null},Shake
+3181,1,{null},Fill 3/4,Ice
+3196,4,{null},1 oz,Lemon Juice
+3199,2,{null},1 cup,Coconut Milk
+3205,3,{null},{null},Stir
+3206,4,{null},1 dash,Bitters
+3207,8,{null},1 oz,Lime Juice
+3208,2,{null},1 oz,Rum (151 proof)
+3220,2,{null},1/2 juiced,Lemon
+3223,5,{null},3 oz,Club soda
+3229,2,{null},1/4 oz,Vodka
+3235,1,{null},1 1/2 oz,Gin
+3240,3,{null},{null},Stir well
+3246,4,{null},1 oz,Triple Sec
+3251,6,{null},4 oz,Champagne
+3255,6,{null},{null},Shake
+3266,0,{null},Fill 1/2,Ice
+3274,0,{null},4 oz,White Wine
+3275,1,{null},Fill 3/4,Ice
+3282,7,{null},1 pinch,Nutmeg
+3288,1,{null},1 1/2 oz,Peach Liqueur
+3289,0,{null},{null},Tools: Shaker
+3298,3,{null},1 cup,Sugar
+3307,4,{null},1 oz,Double Cream
+3320,2,{null},1 1/2 oz,Vodka
+3326,2,{null},1 1/2 oz,Gin
+3327,5,{null},1/2 oz,Midori
+3331,1,{null},1 oz,Creme de Bananes
+3335,9,{null},{null},Strain into glass
+3337,5,{null},{null},Blend slowly
+3341,6,{null},{null},Garnish with a maraschino cherry and an orange slice
+3347,7,{null},{null},Strain into glass
+3350,3,{null},4 tbsp,Sugar
+3355,7,{null},1 oz,Rum (dark)
+3356,3,{null},1 oz,Dr. Pepper
+3357,0,{null},{null},Tools: Shaker
+3366,0,{null},Fill,Ice
+3367,1,{null},2 oz,Gin
+3378,3,{null},1/4 oz,Rum (151 proof)
+3380,7,{null},1 slice,Lemon
+3393,2,{null},1 1/2 oz,Vermouth (dry)
+3399,5,{null},{null},Shake
+3402,0,{null},{null},Tools: Shaker
+3412,7,{null},1 slice,Orange
+3413,0,{null},{null},In Pint Glass:
+3425,5,{null},{null},Shake
+3426,4,{null},1 oz,Sweet and Sour
+3427,4,{null},3 oz,Club soda
+3435,6,{null},{null},Pour into glass
+3436,2,{null},3 oz,Rum (light)
+3439,2,{null},1 1/2 oz,Coffee Liqueur
+3446,6,{null},1/2 oz,Brandy
+3458,1,{null},2-3 Cubes,Ice
+3461,0,{null},Fill 1/2,Ice
+3462,1,{null},2 oz,Gin (dry)
+3470,10,{null},Garnish,Pineapples
+3473,6,{null},1/4 oz,Blue Curacao
+3477,1,{null},Fill 1/2,Ice
+3480,3,{null},1/2 oz,Lemon Juice
+3485,6,{null},{null},Strain into glass
+3489,2,{null},1 oz,Creme de Cacao (white)
+3509,6,{null},{null},Strain into glass
+3514,8,{null},1 piece,Cherries (maraschino)
+3517,6,{null},2 oz ,Rum (light)
+3538,6,{null},Fill,Champagne
+3539,3,{null},2 dashes,Maraschino Liqueur
+3543,4,{null},1 tsp,Sugar
+3553,1,{null},1 1/2 oz,Scotch
+3560,4,{null},1/4 oz,Irish Whiskey
+3574,3,{null},1 oz,Schnapps (apple)
+3577,5,{null},2 1/2 oz,Club Soda
+3585,1,{null},1/2 Shaker,Ice
+3589,11,{null},{null},Recommended Black Currant Liqueur: Creme de Cassis
+3590,3,{null},2 scoops,Ice Cream (vanilla)
+3592,0,{null},{null},Tools: Shaker
+3594,7,{null},3 oz,Cream Soda
+3598,0,{null},2 oz,Port
+3606,2,{null},3 oz,Gin (dry)
+3607,5,{null},{null},Place in freezer overnight
+3609,2,{null},2 oz,Lemon Juice
+3613,1,{null},Fill 1/2,Guiness Stout
+3621,0,{null},1 oz,Vodka (raspberry)
+3635,7,{null},1/2 oz,Orange Juice
+3638,7,{null},{null},Garnish with sprinkle of nutmeg
+3640,3,{null},1 oz,Scotch
+3652,7,{null},1 slice,Orange
+3658,5,{null},1 tsp,Sugar
+3659,1,{null},2 oz,Irish Whiskey
+3663,5,{null},{null},Strain over ice into glass
+3665,0,{null},{null},Tools: Mixing Glass
+3666,5,{null},2 oz,Creme de Cacao (white)
+3669,5,{null},{null},Recommended Rum: Bacardi 151
+3675,7,{null},{null},Strain into glass
+3682,9,{null},1 slice,Oranges
+3688,5,{null},1/4 oz,Jagermeister
+3689,6,{null},{null},Scoop into glass
+3690,0,{null},{null},Tools: Shaker
+3706,2,{null},1/2 oz,Lime Juice
+3707,4,{null},{null},Blend until smooth
+3708,8,{null},{null},Garnish with an orange slice and a maraschino cherry
+3715,2,{null},{null},In Shot Glass:
+3722,4,{null},1/2 oz,Vodka
+3727,2,{null},2 oz,Gin
+3740,6,{null},{null},Blend
+3748,3,{null},3/4 oz,Blue Curacao Liqueur
+3750,3,{null},1 tsp,Sugar Syrup
+3753,4,{null},1 tsp,Sugar (powdered)
+3765,1,{null},Fill 3/4,Ice
+3766,4,{null},3-5 drops, Brandy (cherry)
+3768,9,{null},Garnish,Lemon
+3769,4,{null},2 oz,Water
+3772,0,{null},{null},Tools: Shaker
+3780,8,{null},1/2 oz,Pineapple Juice
+3789,1,{null},Fill 3/4,Ice
+3793,5,{null},1 white,Egg
+3796,1,{null},1/2 oz,Triple Sec
+3798,8,{null},garnish,Cherry
+3799,1,{null},1 oz,Claret
+3800,0,{null},Fill,Ice
+3805,6,{null},{null},Shake
+3806,6,{null},{null},Shake
+3809,6,{null},1 cup,Ice (crushed)
+3810,2,{null},1 oz,Lemon Juice
+3830,4,{null},{null},Shake
+3850,7,{null},Fill,Ginger Ale
+3854,5,{null},1 can,Frozen Lemonade
+3855,3,{null},Fill,Club Soda
+3859,5,{null},{null},Shake
+3873,3,{null},1/2 oz,Irish Cream
+3874,0,{null},1/2 tsp,Sugar (powdered)
+3876,3,{null},1 oz,Orange Juice
+3878,5,{null},{null},Pour into glass
+3887,5,{null},{null},Shake
+3897,3,{null},{null},Dissolve sugar
+3899,6,{null},{null},Shake
+3905,2,{null},1 oz,Brandy (cherry)
+3907,5,{null},1 oz,Heavy Cream
+3918,7,{null},{null},Blend until Smooth
+3923,7,{null},{null},Strain into glass
+3928,8,{null},{null},Strain into glass
+3932,2,{null},2 oz,Bourbon
+3934,9,{null},1/2 oz,Pina Colada Mix
+3937,2,{null},1 oz,Burgundy Wine (sparkling)
+3940,5,{null},{null},Shake
+3941,2,{null},3-5,Raspberries
+3945,3,{null},1 oz,Lemon Juice
+3947,6,{null},{null},Chill Cocktail glass
+3953,3,{null},1 tsp,Sugar (superfine)
+3963,3,{null},1 oz,Orange Juice
+3966,1,{null},1 1/4 oz,Schnapps (butterscotch)
+3973,4,{null},{null},Stir
+3975,6,{null},{null},Strain into a chilled glass
+4005,0,{null},{null},Tools: Mixing Glass
+4014,6,{null},GarnishRecommended Peach Liqueur: Southern Comfort,Chocolate Shavings
+4015,2,{null},1 tsp,Sugar (superfine)
+4019,7,{null},{null},Strain into glass
+4024,6,{null},{null},Strain into glass
+4026,4,{null},1 1/2 oz,Rum (light)
+4045,3,{null},1/2 oz,Maraschino Liqueur
+4049,7,{null},{null},Shake
+4051,1,{null},1 dash,Bitters
+4052,5,{null},{null},Shake
+4054,5,{null},{null},Stir well
+4060,7,{null},{null},Strain into glass
+4066,4,{null},{null},Stir
+4072,3,{null},1 1/4 oz,Lemon Juice
+4073,10,{null},1 dash,7-Up
+4075,8,{null},Garnish,Coconut (shredded)
+4078,3,{null},4 oz,Champagne
+4082,3,{null},1 tsp,Brandy
+4084,2,{null},1 oz,Charleston Follies
+4107,2,{null},1 oz,Pineapple Juice
+4111,2,{null},1 1/4 oz,Irish Cream
+4128,7,{null},1 slice,Apple
+4140,6,{null},{null},Strain into glass
+4143,6,{null},{null},Garnish with a maraschino cherry and an orange slice
+4147,5,{null},Garnish,Lime Peel
+4153,7,{null},Garnish,Cherry
+4157,0,{null},1/4 oz,Bourbon
+4159,3,{null},3 oz,Tequila
+4161,1,{null},2 oz,Port (tawny)
+4170,6,{null},2 tsp,Lemon Juice
+4175,8,{null},1 twist,Lemon Peel
+4176,5,{null},{null},Shake Well
+4178,5,{null},1/4 oz,Coffee Liqueur
+4186,7,{null},Sprinkle,Grated Chocolate
+4190,11,{null},{null},Shake
+4194,4,{null},Fill,Ice
+4204,2,{null},1 tsp,Water
+4211,0,{null},{null},Tools: Shaker
+4215,0,{null},2 tbsp,Lemon Juice
+4217,3,{null},1/2 oz,Anisette
+4231,8,{null},1 twist,Lemon
+4236,4,{null},1/2 oz,Grand Marnier
+4239,5,{null},3 oz,Club soda
+4241,1,{null},1 oz,Rum (white)
+4254,0,{null},{null},Tools: Shaker
+4260,1,{null},Fill,Ice
+4271,1,{null},1/2 oz,Rum (light)
+4275,6,{null},{null},Strain into Cocktail Glass
+4279,7,{null},{null},Garnish with a lemon twist
+4281,3,{null},1 1/4 oz,Schnapps (cinammon)
+4282,7,{null},{null},Serve with a straw
+4295,0,{null},{null},Tools: Mixing Glass
+4297,8,{null},1 splash,Grenadine
+4300,8,{null},garnish,Cherry
+4303,4,{null},1/2 oz,Brandy (apricot)
+4310,6,{null},{null},Slide shot glass into pint glass
+4321,2,{null},1 oz,Aftershock
+4324,5,{null},1/2 tsp,Cointreau
+4325,6,{null},1/2 oz,Cherry Brandy
+4327,12,{null},{null},Pour into glass
+4336,3,{null},{null},Stir until sugar is dissolved
+4348,7,{null},1 spiral,Orange Peel
+4354,1,{null},{null},Salt
+4357,6,{null},{null},Garnish with a maraschino cherry and an orange slice
+4370,0,{null},2 tsp,Water
+4372,5,{null},{null},Shake
+4375,2,{null},1 oz,Gin
+4388,6,{null},{null},Garnish with a maraschino cherry and an orange slice
+4394,4,{null},1 oz,Tequila
+4397,5,{null},{null},Slice Lemon into Rings and add
+4399,0,{null},3/4 Fill,Ice
+4400,4,{null},{null},Shake
+4402,5,{null},1 white,Egg
+4411,5,{null},{null},Recommended Brandy: Kirschwasser
+4419,4,{null},1 oz,Lime Juice
+4425,2,{null},1/2 oz,Rum (gold)
+4430,7,{null},{null},Drink quickly or the cream will curdle
+4431,5,{null},{null},Recommended Rum: Gosling's Black
+4447,1,{null},3 3/4 oz,Gin
+4451,7,{null},Garnish,Orange Slice
+4460,1,{null},Fill 1/2,Ice
+4465,4,{null},1/4 tsp,Maraschino Liqueur
+4470,9,{null},{null},Recommended Triple Sec: Cointreau
+4476,0,{null},{null},Tools: Blender
+4477,7,{null},{null},
+4484,6,{null},{null},Strain into glass
+4488,6,{null},1,Cherry
+4491,5,{null},Fill,Club Soda
+4492,1,{null},2 1/2 oz,Vodka
+4504,0,{null},{null},Tools: Shaker
+4507,1,{null},Fill,Ice
+4517,13,{null},1 splash,Heavy cream
+4520,4,{null},2 oz,Beer
+4521,6,{null},{null},Recommended Vodka: Stolichnaya
+4522,5,{null},3 oz,Club soda
+4526,6,{null},{null},Stir
+4531,0,{null},{null},"Tools:Egg Beater, Blender"
+4536,6,{null},{null},Shake
+4537,6,{null},1 pinch,Nutmeg
+4539,2,{null},{null},Rub rim of glass in lemon juice and dip in salt
+4540,1,{null},Fill 3/4,Ice
+4561,0,{null},{null},Tools: Shaker
+4569,4,{null},1 white,Egg
+4577,8,{null},{null},Recommended Irish Whiskey: Jameson
+4578,4,{null},Garnish,Lemon Twist
+4587,3,{null},1/2 oz,Meyer's Rum (dark)
+4590,5,{null},{null},Strain into glass
+4597,6,{null},{null},Stir gently
+4598,5,{null},{null},Strain into glass
+4606,2,{null},1/4 oz,Vermouth (dry)
+4615,1,{null},2 oz,Whiskey (blended)
+4621,4,{null},{null},Garnish with a lime wedge
+4622,2,{null},1 1/2 oz,Gin
+4623,0,{null},{null},Tools: Shaker
+4636,4,{null},Fill,Champagne
+4651,14,{null},{null},Recommended Rum: Malibu
+4652,5,{null},Fill,Club Soda
+4657,7,{null},Garnish,Cherry (maraschino)
+4659,2,{null},1 1/2 oz,Vermouth (dry)
+4667,4,{null},{null},Stir
+4668,1,{null},1/2 tsp,Sugar
+4672,7,{null},{null},Strain into glass
+4675,4,{null},3 oz,Coca-Cola
+4676,3,{null},3/4 oz,Bourbon
+4687,0,{null},1 bottle,Wine (red)
+4692,4,{null},1/2 tsp,Grenadine
+4696,5,{null},1 twist,Lime Peel
+4703,4,{null},{null},Stir
+4706,1,{null},1 oz,Vodka
+4710,3,{null},4 cubes,Ice
+4712,7,{null},1 heaping tsp,Sugar
+4717,0,{null},{null},Tools: Shaker
+4718,0,{null},{null},Tools: Shaker
+4728,6,{null},Float on top,Sambuca (white)
+4730,5,{null},Fill,Club Soda
+4731,1,{null},1 oz,Tequila (gold)
+4739,0,{null},{null},Tools: Shaker
+4743,3,{null},{null},Stir
+4749,4,{null},1 dash,Celery Salt
+4761,3,{null},{null},Stir
+4765,9,{null},{null},Recommended Irish Cream: Bailey's
+4768,5,{null},{null},Garnish with a lemon peel
+4779,1,{null},Fill 3/4,Ice
+4784,2,{null},4 oz,Sprite
+4787,3,{null},1/2 oz,Triple Sec
+4794,4,{null},{null},Stir
+4808,3,{null},{null},2 oz Sweet and Sour
+4817,1,{null},{null},Cut Lemon and Orange into wedges
+4828,8,{null},{null},Garnish with a lemon slice and a cherry
+4831,3,{null},1 1/2 oz,Gin
+4835,2,{null},1 dash,Bitters
+4839,3,{null},1 tsp,Sugar (superfine)
+4845,2,{null},1 oz,Vermouth (dry)
+4846,8,{null},{null},Heat contents
+4855,6,{null},1 tsp,Rum (151 proof)
+4868,7,{null},{null},Sprinkle nutmeg or cinammon on top
+4871,10,{null},{null},Recommended Coffee Liqueur: Kahlua
+4873,2,{null},1 oz,Coffee Liqueur
+4888,4,{null},{null},Strain into glass
+4894,4,{null},2 tsp,Orange Juice
+4897,2,{null},3 oz,Ginger Beer
+4902,2,{null},1 oz,Banana Liqueur
+4914,4,{null},1 tsp,Sugar (superfine)
+4918,3,{null},{null},Stir
+4922,0,{null},{null},Tools: Shaker
+4933,1,{null},1 oz,Absinthe
+4941,3,{null},1 1/4 oz,Maraschino Liqueur
+4954,1,{null},Fill 1/2,Ice
+4956,2,{null},{null},1 oz Gin
+4958,5,{null},1 oz,Grapefruit Juice
+4961,2,{null},1 oz,Vodka
+4972,4,{null},{null},Repeat 4-5 times
+4979,3,{null},{null},Stir until sugar is dissolved
+4980,9,{null},{null},Recommended Sparkling Wine: Prosecco
+4990,7,{null},{null},Float rum on mixture
+4997,3,{null},Fill,Ice Cubes
+5010,2,{null},1 oz,Lemon Juice
+5018,1,{null},Fill 1/2,Ice
+5023,8,{null},garnish,Cherry
+5024,8,{null},{null},Flame the sambuca
+5025,0,{null},4 tsp,Sugar
+5027,0,{null},{null},Tools: Shaker
+5039,9,{null},{null},Strain into Goblet
+5051,3,{null},1 oz,Whiskey
+5055,2,{null},1 juiced,Lemon
+5059,4,{null},1 tsp,Brandy (blackberry)
+5072,1,{null},2 oz,Rum (black)
+5075,5,{null},1 tbsp,Lemon juice
+5076,3,{null},1 1/2 oz,Pineapple Juice
+5100,5,{null},Garnish,Lemon Twist
+5114,3,{null},1 splash,Lime Juice
+5115,2,{null},1/2 oz,Curacao
+5118,3,{null},{null},Roll Mixture into a second mug
+5132,2,{null},1 1/4 oz,Cherry Brandy
+5133,6,{null},1 oz,Orange Juice
+5134,3,{null},5 oz,Tomato Juice
+5136,2,{null},2 oz,Scotch
+5139,0,{null},{null},Chill glass
+5160,10,{null},{null},Recommended Port: LBV Port
+5162,1,{null},{null},1/2 oz Grenadine
+5173,5,{null},1/4 oz,Grenadine
+5174,0,{null},1 oz,Amaretto
+5177,4,{null},2 lb,Sugar (powdered)
+5185,8,{null},Garnish,Lemon Zest
+5191,4,{null},1,Egg
+5197,2,{null},{null},Stir
+5206,1,{null},2 oz,Tequila
+5213,1,{null},Separate 24,Eggs
+5216,7,{null},garnish,Lemon
+5219,5,{null},1/4 tsp,Anis
+5227,1,{null},Fill 3/4,Ice
+5248,3,{null},1 juiced,Orange
+5252,4,{null},1 tbsp,Lime Juice
+5253,0,{null},{null},Tools: Shaker
+5264,0,{null},Fill 3-4 cubes,Ice
+5265,6,{null},4 cubes,Ice
+5273,2,{null},{null},Ignite Mixture
+5289,1,{null},Fill 3/4,Ice
+5296,2,{null},1/2 oz,Midori
+5306,3,{null},1 tsp,Lemon Juice
+5318,3,{null},1 oz,Lemon Juice
+5319,1,{null},Fill 3/4,Ice
+5332,7,{null},1 oz,Pineapple Juice
+5347,1,{null},2 oz,Club Soda
+5349,6,{null},1 white,Egg
+5360,1,{null},1 oz,Grand Marnier
+5364,1,{null},1 oz,Vermouth (sweet)
+5366,5,{null},1 slice,Peach
+5376,4,{null},2 oz,Gin
+5380,7,{null},{null},Strain
+5387,4,{null},{null},Add fruit wedges
+5390,6,{null},2 dashes,Bitters (orange)
+5391,2,{null},24 whites,Eggs
+5398,0,{null},{null},Tools: Blender
+5405,2,{null},2 oz,Port
+5411,6,{null},{null},Do not mix
+5421,1,{null}, 2 1/2 oz,water (hot)
+5433,5,{null},{null},Shake
+5449,7,{null},fill,Cola
+5459,2,{null},1 1/2 oz,Rum (light)
+5466,1,{null},1/2 oz,Schnapps (raspberry)
+5468,0,{null},Fill,Ice
+5473,5,{null},{null},Shake
+5491,7,{null},{null},Shake well
+5503,2,{null},{null},Tea (hot)
+5514,0,{null},3-4,Ice (cube)
+5520,4,{null},Fill 2/3,Sour Mix
+5521,0,{null},3-4 cubes,Ice
+5528,0,{null},3-4 Cubes,Ice
+5538,5,{null},1/4 tsp,Horseradish
+5543,6,{null},1/3 cup,Sparkling Wine
+5545,3,{null},{null},Beat until stiff
+5546,0,{null},{null},Tools: Blender
+5547,7,{null},{null},Stir
+5552,2,{null},2 oz,Bourbon
+5557,6,{null},{null},Strain into glass
+5558,5,{null},1 oz,Cranberry Juice
+5577,4,{null},3 oz,Club Soda
+5578,0,{null},1/2 tsp,Sugar (powdered)
+5583,3,{null},1 tsp,Sugar
+5589,6,{null},{null},Strain into glass
+5598,5,{null},2 tbsp,Sugar
+5618,1,{null},2 slices,Lime
+5630,0,{null},Fill 1/2,Ice
+5652,8,{null},{null},Strain into glass
+5656,3,{null},1 1/2 tsp,Triple Sec
+5665,0,{null},Fill 1/2,Ice
+5676,5,{null},{null},Shake
+5678,5,{null},{null},Stir
+5685,5,{null},{null},Shake
+5687,7,{null},{null},Recommended Coffee Liqueur: Tia Maria
+5688,0,{null},{null},Tools: Shaker
+5691,0,{null},1/2 oz,Vodka
+5694,4,{null},2 oz,Orange Juice
+5695,8,{null},{null},Strain into glass
+5701,0,{null},{null},Tools: Shaker
+5702,6,{null},2 dashes,Tabasco Sauce
+5706,1,{null},1 oz,Whiskey (blended)
+5714,3,{null},2 dashes,Bitters
+5715,4,{null},1 oz,Cream of Coconut
+5717,8,{null},{null},Serve with a straw
+5727,1,{null},1 Squeeze,Lime
+5740,2,{null},{null},Muddle limes and sugar
+5743,6,{null},1 oz,Brandy
+5747,1,{null},1 cup,Ice
+5767,7,{null},Garnish,Pineapples
+5769,6,{null},{null},Pour over ice
+5771,4,{null},1 oz,Lemonade
+5773,0,{null},Fill 1/2,Ice
+5785,6,{null},{null},Strain into glass
+5799,6,{null},{null},Strain into glass
+5800,4,{null},1 tsp,Sugar (superfine)
+5807,1,{null},3/4 oz,Galliano Herbal Liqueur
+5814,0,{null},{null},Tools: Shaker
+5836,1,{null},2 oz,Gin
+5837,8,{null},{null},Recommended Whiskey: Southern Comfort
+5850,12,{null},Garnish,Lime
+5855,4,{null},{null},Stir
+5857,7,{null},garnish,Melon Ball
+5859,0,{null},{null},Tools: Muddler or Spoon
+5866,0,{null},{null},Tools: Shaker
+5867,4,{null},1/2 oz,Grenadine
+5868,2,{null},Fill 1/2,Cola
+5872,7,{null},3 dashes,Worcestershire Sauce
+5877,7,{null},{null},Chill overnight
+5881,9,{null},Garnish,Cherry
+5901,0,{null},1/2 oz,Creme de Cassis
+5903,2,{null},4 oz,Gin
+5907,5,{null},{null},Add sugar gradually
+5909,1,{null},Fill 3/4,Ice
+5911,3,{null},1/2 oz,Blue Curacao
+5921,7,{null},{null},Garnish with an orange slice
+5923,2,{null},1 1/2 oz,Vodka
+5931,3,{null},1 1/3 oz,Vodka (cranberry)
+5933,5,{null},{null},Shake
+5953,0,{null},2 1/2 oz,Bourbon
+5957,8,{null},Garnish,Cherries
+5960,4,{null},Garnish,Cherry
+5969,5,{null},4 dashes,Bitters (Orange)
+5986,7,{null},3 oz,Club soda
+5992,2,{null},3/4 oz,Grand Marnier Orange Liqueur
+5994,1,{null},1 oz,Vodka
+6008,2,{null},1 oz,Lemon Juice
+6022,5,{null},1 tsp,Sugar
+6027,8,{null},{null},Shake
+6028,0,{null},{null},Tools: Shaker
+6036,4,{null},{null},Recommended Rum: Captain Morgan's
+6037,3,{null},1 tbsp,Vodka
+6040,1,{null},Fill 1/2,Ice
+6043,6,{null},2 tsp,Cinnamon
+6049,6,{null},garnish,Lime
+6051,3,{null},Fill 1/2,Ginger Ale
+6059,5,{null},{null},Garnish with a maraschino cherry and an orange twist
+6068,1,{null},4,Mint Leaves
+6071,3,{null},4 oz,Cranberry Juice
+6075,8,{null},16 oz,Ginger Ale
+6080,2,{null},1 1/2 oz,Gin
+6084,2,{null},1/2 oz,Triple Sec
+6087,1,{null},4 1/2 oz,White Wine
+6091,3,{null},4 oz,Pineapple Juice
+6139,0,{null},{null},Tools: Shaker
+6143,8,{null},Garnish,Cherry (maraschino)
+6152,2,{null},1 oz,Blue Curacao
+6163,3,{null},1/2 oz,Cognac
+6166,3,{null},{null},Stir
+6171,3,{null},1 oz,Orange Juice
+6172,6,{null},1,Egg
+6183,5,{null},{null},Strain into glass
+6186,4,{null},{null},Stir
+6195,12,{null},1/2 jigger,Brandy
+6197,2,{null},2 cups,Gelato (lemon)
+6199,2,{null},1 oz,Vodka
+6200,0,{null},2 cups,Lemon Juice
+6203,9,{null},{null},Pour into glass
+6204,4,{null},2 oz,Orange Juice
+6217,7,{null},1/2 oz,Vanilla Extract
+6222,2,{null},{null},Garnish with a lemon twist
+6233,2,{null},2 tsp,Water
+6237,0,{null},3-4 Cubes,Ice
+6243,0,{null},1 cup,Tea
+6244,1,{null},Fill 1/2,Ice
+6251,3,{null},1/2 oz,Lemon Juice
+6252,0,{null},Fill 1/2,Ice
+6257,1,{null},1 1/2 oz,Tequila
+6269,0,{null},{null},Tools: Shaker
+6285,3,{null},{null},Lemonade
+6290,5,{null},{null},Stir thoroughly
+6291,4,{null},2 oz,Orange Juice
+6303,7,{null},{null},Shake
+6305,2,{null},8 oz,Hawaiian Punch
+6314,4,{null},1/2 oz,Galliano
+6326,0,{null},{null},Tools: Shaker
+6328,0,{null},1 oz,Midori
+6342,9,{null},Garnish,Orange slice
+6345,10,{null},Garnish,Celery
+6348,0,{null},{null},Tools: Shaker
+6349,1,{null},Fill 3/4,Ice
+6357,3,{null},{null},Recommended: a very dry white wine
+6362,3,{null},1 oz,Sambuca (black)
+6367,4,{null},{null},Shake
+6371,4,{null},1/2 tsp,Sugar (superfine)
+6372,4,{null},1 tbsp,Limoncello Lemon Liqueur
+6376,5,{null},1 slice,Lemon
+6380,6,{null},{null},Garnish with a slice of lemon
+6382,0,{null},3/4 oz,Cream de Cacao
+6383,8,{null},12 yolks,Eggs
+6384,4,{null},12 oz,Brandy
+6388,3,{null},{null},Stir
+6392,3,{null},1 tsp,Sugar (powdered)
+6403,1,{null},Fill 1/2,Ice
+6406,2,{null},2 oz,Rum (dark)
+6422,5,{null},Garnish,Lime
+6426,1,{null},1 cup,Sugar (superfine)
+6428,1,{null},1 1/2 oz,Rum (dark)
+6429,1,{null},{null},Chill 4 Champagne Flutes
+6432,0,{null},3/4 oz,Schnapps (Peppermint)
+6434,4,{null},1/4 oz,Sugar Syrup
+6448,5,{null},{null},Blend
+6456,8,{null},{null},Strain into glass
+6468,1,{null},3 oz,Sherry
+6479,0,{null},Fill glass,Ice
+6480,1,{null},2 oz,Jaloviina
+6481,1,{null},1 1/2 oz,Spiced Rum
+6488,0,{null},{null},Tools: Shaker
+6494,4,{null},{null},Shake
+6496,0,{null},{null},Tools: Shaker
+6498,3,{null},4 oz,Pineapple Juice
+6506,4,{null},1 oz,Madeira
+6510,5,{null},{null},Garnish with Twist of orange
+6511,11,{null},Garnish,Lemon
+6516,2,{null},1 oz,Rum (white)
+6519,4,{null},3/4 oz,Lemon Juice
+6521,5,{null},{null},Stir
+6522,2,{null},6 oz,Dr. Pepper
+6524,4,{null},{null},Muddle into paste
+6529,0,{null},Fill 1/2,Ice
+6532,6,{null},{null},Pour into glass
+6534,0,{null},Rim glass,Salt
+6539,1,{null},Fill 3/4,Ice
+6542,0,{null},{null},Tools: Shaker
+6543,0,{null},{null},Tools: Shaker
+6547,2,{null},{null},Stir until sugar is dissolved
+6550,1,{null},Fill 3/4,Ice
+6553,2,{null},{null},Stir
+6555,1,{null},3/4 oz,Schnapps (peppermint
+6556,9,{null},{null},Blend until smooth
+6563,2,{null},2 oz,Rum (light)
+6564,0,{null},Fill,Ice
+6565,3,{null},2 oz,Rum (light)
+6574,5,{null},1 tsp,Sugar
+6575,2,{null},1 1/2 oz,Rum (light)
+6577,10,{null},Fill 4/5,Clamato Juice
+6586,6,{null},2 dashes,Onion Powder
+6589,2,{null},1/4 oz,Orange Liqueur
+6595,0,{null},Fill,Ice
+6596,3,{null},Fill 1/2,Lemonade
+6606,4,{null},Fill,Iced Tea
+6613,4,{null},2 dashes,Peychaud Bitters
+6628,2,{null},1,Strawberry
+6639,6,{null},1 white,Egg
+6641,1,{null},1 1/2 oz,Vodka
+6646,9,{null},6 leaves,Mint
+6665,2,{null},6 dashes,Worcestershire Sauce
+6666,0,{null},{null},Tools: Shaker
+6682,7,{null},1/2 oz,Lemon Juice
+6686,8,{null},{null},Strain into glass
+6688,6,{null},{null},Garnish with a lemon wedge and a sprig of rosemary
+6721,5,{null},{null},Stir
+6723,3,{null},1 1/2 tsp,Triple Sec
+6741,11,{null},1/2 oz,Lime Juice
+6742,5,{null},1/2 oz,Aperol
+6744,7,{null},{null},Shake
+6750,1,{null},Fill 3/4,Ice
+6761,3,{null},Fill to 1/2,Lemonade
+6773,4,{null},Fill,Iced Tea
+6793,7,{null},3 dashes,Celery Salt
+6796,5,{null},2 dashes,Garlic Powder
+6798,3,{null},{null},Muddle strawberry and add to shaker
+6799,9,{null},2 oz,Vodka
+6804,10,{null},{null},Shake
+6807,2,{null},1/2 oz,Sherry (dry)
+6808,1,{null},1 1/4 oz,Vodka
+6814,0,{null},Fill,Ice
+6818,9,{null},{null},Garnish with a sprig of mint
+6830,3,{null},4 dashes,Tabasco Sauce
+6839,4,{null},1 1/2 oz,Rum (light)
+6843,6,{null},{null},Garnish with a lemon wedge
+6853,8,{null},2 dashes,Bitters (orange)
+6862,1,{null},Fill,Ice
+6869,4,{null},1 tbsp,Lime Juice
+6872,1,{null},Fill 1/2,Ice
+6886,6,{null},1/2 oz,Agave Nectar
+6911,12,{null},{null},Garnish with a celery stalk and a lime wedge
+6922,0,{null},{null},Tools: Shaker
+6926,0,{null},{null},Rim glass with Salt
+6940,8,{null},2 dashes,Pepper
+6942,11,{null},{null},Double strain into ice filled glass
+6946,5,{null},{null},Stir
+6956,5,{null},1 tbsp,Tobasco Sauce
+6963,5,{null},2 dashes,Garlic Powder
+6964,2,{null},6 dashes,Worcestershire Sauce
+6975,1,{null},Fill 1/2,Ice
+6977,3,{null},1 pinch,Salt
+6994,2,{null},1 tsp,Worcestershire Sauce
+7019,7,{null},3 dashes,Celery Salt
+7050,0,{null},1 yolk,Egg
+7059,11,{null},1/2 oz,Lime Juice
+7065,12,{null},{null},Garnish with a celery stalk and a lime wedge
+7070,0,{null},{null},Rim glass with Salt
+7076,10,{null},Fill 4/5,Clamato Juice
+7080,1,{null},{null},Do not break yolk
+7081,6,{null},2 dashes,Onion Powder
+7083,3,{null},4 dashes,Tabasco Sauce
+7092,8,{null},2 dashes,Pepper
+7094,4,{null},1 pinch,Pepper
+7097,4,{null},2 dashes,Peychaud Bitters
+7098,9,{null},2 oz,Vodka

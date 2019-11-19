@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stepindex: 1
+  recipe: 1
+  stepamount: MyString
+  steptitle: MyString
+
+two:
+  stepindex: 1
+  recipe: 1
+  stepamount: MyString
+  steptitle: MyString

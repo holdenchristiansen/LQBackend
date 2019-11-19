@@ -1,0 +1,758 @@
+id,scratchedoffshoppingcart,shoppingcart,name,optionalassetname,secondaryname,type,cabinet
+1,0,0,Coconut Cream,coconut_cream,,MIXER,0
+2,0,0,Zodiac Vodka,vodka_,Vodka,LIQUOR,0
+3,0,0,Rum (151 proof),rum_151,,LIQUOR,0
+4,0,0,Hendrick's Gin,gin,Gin,LIQUOR,0
+5,0,0,Magic Spirits Vodka,vodka_,Vodka,LIQUOR,0
+6,0,0,Coffee,coffee,,MIXER,0
+7,0,0,Goldschlager,goldschlager,Schnapps (cinnamon),LIQUOR,0
+8,0,0,Stranahan's Whiskey,whiskey,Whiskey,LIQUOR,0
+9,0,0,Double Cream,cream_double,,MIXER,0
+10,0,0,Soy Sauce,soy_sauce,,MIXER,0
+11,0,0,Pina Colada Mix,pinacolada_mix,,MIXER,0
+12,0,0,Glenlivet Scotch,scotch,Scotch,LIQUOR,0
+13,0,0,Marie Brizard Creme de Fraise des Bois,creme_fraise,,LIQUOR,0
+14,0,0,Passoa,passionfruit_liqueur,,LIQUOR,0
+15,0,0,BOLS Damrak Gin,gin,Gin,LIQUOR,0
+16,0,0,Sherry (dry),sherry_dry,,LIQUOR,0
+17,0,0,Jim Beam Bourbon,bourbon,Bourbon,LIQUOR,0
+18,0,0,Irish Whiskey,whiskey_irish,,LIQUOR,0
+19,0,0,Peychaud Bitters,bitters_peychaud,Bitters,LIQUOR,0
+20,0,0,Absinthe,absinthe,,LIQUOR,0
+21,0,0,Ginger Ale,gingerale,,MIXER,0
+22,0,0,Sierra Morena Rum,rum_,Rum,LIQUOR,0
+23,0,0,Cockspur Rum,rum_,Rum,LIQUOR,0
+24,0,0,Mandarin Juice,orange_juice,,MIXER,0
+25,0,0,New Amsterdam Gin,gin,Gin,LIQUOR,0
+26,0,0,Bitters,bitters_,,LIQUOR,0
+27,0,0,Mango Syrup,mango_syrup,,MIXER,0
+28,0,0,Captain Morgan Original Spiced Rum,rum_spiced,Rum (spiced),LIQUOR,0
+29,0,0,Amaretto,amaretto,,LIQUOR,0
+30,0,0,Maui Dark Rum,rum_,Rum,LIQUOR,0
+31,0,0,Heavy Cream,cream_heavy,,MIXER,0
+32,0,0,Raspberry Juice,raspberry_juice,,MIXER,0
+33,0,0,Vermouth (sweet),vermouth_sweet,,LIQUOR,0
+34,0,0,Kessler's Blended Whiskey,whiskey_blended,Whiskey (blended),LIQUOR,0
+35,0,0,Asmussen Rum,rum_,Rum,LIQUOR,0
+36,0,0,Brandy (apple),brandy_apple,,LIQUOR,0
+37,0,0,Ginger Liqueur,ginger_liqueur,,LIQUOR,0
+38,0,0,Damrak Gin,gin,Gin,LIQUOR,0
+39,0,0,Calvados,brandy_apple,Brandy (apple),LIQUOR,0
+40,0,0,Banana Liqueur,banana_liqueur,,LIQUOR,0
+41,0,0,Brandy (peach),brandy_peach,,LIQUOR,0
+42,0,0,Cream,cream,,MIXER,0
+43,0,0,Absolut Citron,vodka_lemon,Vodka (lemon),LIQUOR,0
+44,0,0,Creme de Cacao (dark),creme_cacao_dark,,LIQUOR,0
+45,0,0,Rum (vanilla),rum_vanilla,,LIQUOR,0
+46,0,0,Pineapple Juice,pineapple_juice,,MIXER,0
+47,0,0,Vanilla Extract,vanilla_extract,,GARNISH,0
+48,0,0,Creme de Cacao (white),creme_cacao_white,,LIQUOR,0
+49,0,0,Cranberry Juice,cranberry_juice,,MIXER,0
+50,0,0,Beer,beer,,LIQUOR,0
+51,0,0,Pikesville Whiskey,whiskey,Whiskey,LIQUOR,0
+52,0,0,William Grant & Sons Rum,rum_,Rum,LIQUOR,0
+53,0,0,Cranberries,cranberries,,GARNISH,0
+54,0,0,Aberfeldy Scotch,scotch,Scotch,LIQUOR,0
+55,0,0,Mint Syrup,mint_syrup,,MIXER,0
+56,0,0,Myer's Rum (dark),rum_dark,Rum (dark),LIQUOR,0
+57,0,0,Celery Salt,celery_salt,,GARNISH,0
+58,0,0,Corona,beer,Beer,LIQUOR,0
+59,0,0,Vodka (vanilla),vodka_vanilla,,LIQUOR,0
+60,0,0,Coffee Liqueur,coffee_liqueur,,LIQUOR,0
+61,0,0,Vodka (melon),vodka_melon,,LIQUOR,0
+62,0,0,Licor 43,licor43,,LIQUOR,0
+63,0,0,Disaronno,amaretto,Amaretto,LIQUOR,0
+64,0,0,Stolichnaya Vodka (raspberry),vodka_raspberry,Vodka (raspberry),LIQUOR,0
+65,0,0,Schnapps (apple),schnapps_apple,,LIQUOR,0
+66,0,0,Strawberries,strawberry_garnish,,GARNISH,0
+67,0,0,Chocolate Syrup,chocolate_syrup,,MIXER,0
+68,0,0,Prune Juice,prune_juice,,MIXER,0
+69,0,0,Orange-Flower Water,orange_flower_water,,MIXER,0
+70,0,0,Sparkling Wine (white),sparkling_whitewine,,LIQUOR,0
+71,0,0,Cherry Juice,cherry_juice,,MIXER,0
+72,0,0,Cougar Bourbon,bourbon,Bourbon,LIQUOR,0
+73,0,0,Raspberries,raspberry_garnish,,GARNISH,0
+74,0,0,Port,port,,LIQUOR,0
+75,0,0,Tuaca,tuaca,,LIQUOR,0
+76,0,0,Limeade,lime_juice,,MIXER,0
+77,0,0,Lemons,lemon_garnish,,GARNISH,0
+78,0,0,Kentucky Deluxe Blended Whiskey,whiskey_blended,Whiskey (blended),LIQUOR,0
+79,0,0,Two Fingers Gold Tequila,tequila_gold,Tequila (gold),LIQUOR,0
+80,0,0,Vodka (cranberry),vodka_cranberry,,LIQUOR,0
+81,0,0,Hawaiian Punch,hawaiian_punch,,MIXER,0
+82,0,0,Antano Gold Tequila,tequila_gold,Tequila (gold),LIQUOR,0
+83,0,0,Advocaat,advocaat_liqueur,,LIQUOR,0
+84,0,0,Brandy (coffee),brandy_coffee,,LIQUOR,0
+85,0,0,Ron Botran Rum,rum_,Rum,LIQUOR,0
+86,0,0,Vermouth,vermouth,,LIQUOR,0
+87,0,0,Blueberries,blueberries,,GARNISH,0
+88,0,0,Sambuca (white),sambuca_white,,LIQUOR,0
+89,0,0,Domaine de Canton Liqueur,donaine_de_canton_liqueur,Ginger Liqueur,LIQUOR,0
+90,0,0,Bitters (orange),bitters_orange,,LIQUOR,0
+91,0,0,Lillet,lillet,,LIQUOR,0
+92,0,0,Michters Whiskey,whiskey,Whiskey,LIQUOR,0
+93,0,0,Regans' Oranger Bitters,bitters_orange,Bitters (orange),LIQUOR,0
+94,0,0,Benedictine,benedictine_liqueur,Herbal Liqueur,LIQUOR,0
+95,0,0,Aftershock (cinnamon),aftershock,,LIQUOR,0
+96,0,0,Hennessy Brandy,brandy,Brandy,LIQUOR,0
+97,0,0,Bulleitt Rye Whiskey,whiskey,Whiskey,LIQUOR,0
+98,0,0,Glenfiddich Scotch,scotch,Scotch,LIQUOR,0
+99,0,0,Lime Juice Cordial,lime_juice_cordial,,GARNISH,0
+100,0,0,Stroh Rum,rum_,Rum,LIQUOR,0
+101,0,0,Rum (light),rum_light,Rum,LIQUOR,0
+102,0,0,Greenall's Gin,gin,Gin,LIQUOR,0
+103,0,0,Bowman's Vodka,vodka_,Vodka,LIQUOR,0
+104,0,0,Jim Bean Rye Whiskey,whiskey,Whiskey,LIQUOR,0
+105,0,0,Half-and-Half,halfandhalf,,MIXER,0
+106,0,0,Mount Gay Rum,rum_,Rum,LIQUOR,0
+107,0,0,Simple Syrup,simple_syrup,,MIXER,0
+108,0,0,Svedka Vodka,vodka_,Vodka,LIQUOR,0
+109,0,0,Eggnog,eggnog,,MIXER,0
+110,0,0,Pernod,pernod,,LIQUOR,0
+111,0,0,Orange Curacao,orange_curacao,,LIQUOR,0
+112,0,0,Lemon-Lime Cola,sprite,,MIXER,0
+113,0,0,Molasses,molasses,,MIXER,0
+114,0,0,Margarita Mix,margarita_mix,,MIXER,0
+115,0,0,Black Raspberry Liqueur,black_raspberry_liqueur,,LIQUOR,0
+116,0,0,Citrus Liqueur,citrus_liqueur,,LIQUOR,0
+117,0,0,Schnapps (cinnamon),schnapps_cinnamon,,LIQUOR,0
+118,0,0,Captain Morgan Parrot Bay Coconut Rum,rum_coconut,Rum (coconut),LIQUOR,0
+119,0,0,Almond Extract,almond_extract,,MIXER,0
+120,0,0,Vodka (pepper),vodka_pepper,,LIQUOR,0
+121,0,0,One Barrel Rum,rum_,Rum,LIQUOR,0
+122,0,0,Malibu Coconut Rum,rum_coconut,Rum (coconut),LIQUOR,0
+123,0,0,Cucumber,cucumber,,GARNISH,0
+124,0,0,Sparkling Wine (burgundy),sparkling_redwine,,LIQUOR,0
+125,0,0,Cirrus Vodka,vodka_,Vodka,LIQUOR,0
+126,0,0,Pepe Lopez Gold Tequila,tequila_gold,Tequila (gold),LIQUOR,0
+127,0,0,Blue Curacao,blue_curacao,,LIQUOR,0
+128,0,0,Templeton Whiskey,whiskey,Whiskey,LIQUOR,0
+129,0,0,Creme de Bananes,creme_bananes,,LIQUOR,0
+130,0,0,Creme de Noyaux,almond_liqueur,,LIQUOR,0
+131,0,0,The Kraken Rum,rum_,Rum,LIQUOR,0
+132,0,0,Sherry (fino),sherry_fino,,LIQUOR,0
+133,0,0,Venado Rum,rum_,Rum,LIQUOR,0
+134,0,0,Light Cream,cream_light,,MIXER,0
+135,0,0,Bitter Lemon Soda,bitterlemon_soda,,MIXER,0
+136,0,0,Stolnaya Vodka,vodka_,Vodka,LIQUOR,0
+137,0,0,Herbal Liqueur,herbal_liqueur,,LIQUOR,0
+138,0,0,Bittermens Bitters,bitters_,Bitters,LIQUOR,0
+139,0,0,Port (tawny),port_tawny,,LIQUOR,0
+140,0,0,Worcestershire Sauce,worcestershire,,MIXER,0
+141,0,0,Tea,tea,,MIXER,0
+142,0,0,Courvessier Brandy,brandy,Brandy,LIQUOR,0
+143,0,0,Martell Cordon Bleu Brandy,brandy,Brandy,LIQUOR,0
+144,0,0,Schnapps (peppermint),schnapps_peppermint,,LIQUOR,0
+145,0,0,Strawberry Liqueur,strawberry_liqueur,,LIQUOR,0
+146,0,0,English Harbour Rum,rum_,Rum,LIQUOR,0
+147,0,0,Olives,olives_garnish,,GARNISH,0
+148,0,0,Jaloviina,jaloviina,,LIQUOR,0
+149,0,0,Sherry,sherry,,LIQUOR,0
+150,0,0,Water,water,,MIXER,0
+151,0,0,Apple Juice,apple_juice,,MIXER,0
+152,0,0,Fighting Cock Bourbon,bourbon,Bourbon,LIQUOR,0
+153,0,0,Kummel,herbal_liqueur,,LIQUOR,0
+154,0,0,Corazon Tequila,tequila,Tequila,LIQUOR,0
+155,0,0,Charleston Follies,charleston_follies,,LIQUOR,0
+156,0,0,Brown Sugar,brown_sugar,,GARNISH,0
+157,0,0,Gilpin's Westmorland Gin,gin,Gin,LIQUOR,0
+158,0,0,Kentucky Gentleman Blended Whiskey,whiskey_blended,Whiskey (blended),LIQUOR,0
+159,0,0,Lord Calvert Whiskey,whiskey,Whiskey,LIQUOR,0
+160,0,0,Cachaca,cachaca,,LIQUOR,0
+161,0,0,Sacred Microdistillery Gin,gin,Gin,LIQUOR,0
+162,0,0,Four Roses Bourbon,bourbon,Bourbon,LIQUOR,0
+163,0,0,Black Pepper,pepper,,GARNISH,0
+164,0,0,Remy Martin Brandy,brandy,Brandy,LIQUOR,0
+165,0,0,Isla N Rum,rum_,Rum,LIQUOR,0
+166,0,0,Beefeater Gin,gin,Gin,LIQUOR,0
+167,0,0,Vodka (pineapple),vodka_pineapple,,LIQUOR,0
+168,0,0,Don Julio Tequila,tequila,Tequila,LIQUOR,0
+169,0,0,Whiskey (blended),whiskey_blended,Whiskey,LIQUOR,0
+170,0,0,Guinness Stout,guiness_stout,Stout,LIQUOR,0
+171,0,0,Schnapps (butterscotch),schnapps_butterscotch,,LIQUOR,0
+172,0,0,Salt,salt,,GARNISH,0
+173,0,0,Vodka (raspberry),vodka_raspberry,,LIQUOR,0
+174,0,0,Triple Sec,triplesec,,LIQUOR,0
+175,0,0,Rum (citrus),rum_,,LIQUOR,0
+176,0,0,White Curacao,white_curacao,,LIQUOR,0
+177,0,0,Old Potrero Whiskey,whiskey,Whiskey,LIQUOR,0
+178,0,0,Hard Cider,hard_cider,,LIQUOR,0
+179,0,0,Sherry (cream),sherry_cream,,LIQUOR,0
+180,0,0,Anisette,annisette_liqueur,,LIQUOR,0
+181,0,0,Bowmore Scotch,scotch,Scotch,LIQUOR,0
+182,0,0,Johannsen Rum,rum_,Rum,LIQUOR,0
+183,0,0,Don Q Rum,rum_,Rum,LIQUOR,0
+184,0,0,New Holland Rum,rum_,Rum,LIQUOR,0
+185,0,0,Taaka Gin,gin,Gin,LIQUOR,0
+186,0,0,Bourbon,bourbon,,LIQUOR,0
+187,0,0,Lemon Juice,lemon_juice,,MIXER,0
+188,0,0,Bagpiper Whiskey,whiskey,Whiskey,LIQUOR,0
+189,0,0,Vodka (apple),vodka_apple,,LIQUOR,0
+190,0,0,Cavalier Rum,rum_,Rum,LIQUOR,0
+191,0,0,Booker's Bourbon,bourbon,Bourbon,LIQUOR,0
+192,0,0,Heaven Hill Vintage Whiskey,whiskey,Whiskey,LIQUOR,0
+193,0,0,Cherry Liqueur,cherry_liqueur,,LIQUOR,0
+194,0,0,Schnapps (pear),schnapps_pear,,LIQUOR,0
+195,0,0,Magellan Gin,gin,Gin,LIQUOR,0
+196,0,0,Crystal Head Vodka,vodka_,Vodka,LIQUOR,0
+197,0,0,Citadelle Gin,gin,Gin,LIQUOR,0
+198,0,0,Champagne,champagne,,LIQUOR,0
+199,0,0,Chocolate,chocolate,,GARNISH,0
+200,0,0,Sauza Tequila,tequila,Tequila,LIQUOR,0
+201,0,0,Peach Liqueur,peach_liqueur,,LIQUOR,0
+202,0,0,Taaka Vodka,vodka_,Vodka,LIQUOR,0
+203,0,0,Angostura Rum,rum_,Rum,LIQUOR,0
+204,0,0,Pink Vodka,vodka_,Vodka,LIQUOR,0
+205,0,0,Pastis,pastis,,LIQUOR,0
+206,0,0,Sauza Hornitos Tequila,tequila,Tequila,LIQUOR,0
+207,0,0,30-30 Tequila,tequila,Tequila,LIQUOR,0
+208,0,0,Schnapps (blueberry),schnapps_blueberry,,LIQUOR,0
+209,0,0,Appleton Estates Rum,rum_,Rum,LIQUOR,0
+210,0,0,Vodka (lemon),vodka_lemon,,LIQUOR,0
+211,0,0,Jack Daniel's,whiskey_tennessee,Whiskey,LIQUOR,0
+212,0,0,Gilbey's Gin,gin,Gin,LIQUOR,0
+213,0,0,Limoncello Lemon Liqueur,lemon_liqueur,,LIQUOR,0
+214,0,0,Steinhager Gin,gin,Gin,LIQUOR,0
+215,0,0,Lemonade,lemonade,,MIXER,0
+216,0,0,Pepper,pepper,,MIXER,0
+217,0,0,Whipped Cream,whipped_cream,,MIXER,0
+218,0,0,Rum (gold),rum_gold,Rum,LIQUOR,0
+219,0,0,Sugar Syrup,simple_syrup,,GARNISH,0
+220,0,0,Salt (coarse),salt,,GARNISH,0
+221,0,0,Havana Club Rum,rum_,Rum,LIQUOR,0
+222,0,0,Brandy (cherry),brandy_cherry,,LIQUOR,0
+223,0,0,Limes,lime_garnish,,GARNISH,0
+224,0,0,Passion Fruit Liqueur,passionfruit_liqueur,,LIQUOR,0
+225,0,0,Chocolate Mint Liqueur,chocolatemint_liqueur,,LIQUOR,0
+226,0,0,Butter,butter,,GARNISH,0
+227,0,0,Copper Fox Whiskey,whiskey,Whiskey,LIQUOR,0
+228,0,0,Orange Soda,orange_cola,,MIXER,0
+229,0,0,Port (ruby),port_ruby,,LIQUOR,0
+230,0,0,Creme de Menthe (green),creme_menthe_green,,LIQUOR,0
+231,0,0,Ketel One Vodka,vodka_,Vodka,LIQUOR,0
+232,0,0,Creme de Cassis,blackcurrant_liqueur,Black Currant Liqueur,LIQUOR,0
+233,0,0,Pineapple,pineapple_garnish,,GARNISH,0
+234,0,0,Absolut Kurant,vodka_,Vodka (currant),LIQUOR,0
+235,0,0,Peppers,peppers_garnish,,GARNISH,0
+236,0,0,Guava Juice,guava_juice,,MIXER,0
+237,0,0,Oranges,orange_garnish,,GARNISH,0
+238,0,0,UV Vodka,vodka_,Vodka,LIQUOR,0
+239,0,0,El Dorado Rum,rum_,Rum,LIQUOR,0
+240,0,0,Coca-Cola,cola,Cola,MIXER,0
+241,0,0,Dr Pepper,drpepper,,MIXER,0
+242,0,0,Reyka Vodka,vodka_,Vodka,LIQUOR,0
+243,0,0,Ginger Beer,ginger_beer,,LIQUOR,0
+244,0,0,Grappa,grappa,,LIQUOR,0
+245,0,0,Sugar (superfine),sugar_powdered,,GARNISH,0
+246,0,0,Ice Cream (vanilla),ice_cream,,GARNISH,0
+247,0,0,Grey Goose Vodka,vodka_,Vodka,LIQUOR,0
+248,0,0,Seagram's 7 Whiskey,whiskey,Whiskey,LIQUOR,0
+249,0,0,Jose Cuervo Especial Gold Tequila,tequila_gold,Tequila (gold),LIQUOR,0
+250,0,0,Maple Sugar,maple_syrup,,MIXER,0
+251,0,0,Shochu,shochu,,LIQUOR,0
+252,0,0,Sipsmith Gin,gin,Gin,LIQUOR,0
+253,0,0,Nutmeg,nutmeg_garnish,,GARNISH,0
+254,0,0,Melon,melon,,MIXER,0
+255,0,0,Celery,celery,,GARNISH,0
+256,0,0,Dewar's Scotch,scotch,Scotch,LIQUOR,0
+257,0,0,Old Thompson Blended Whiskey,whiskey_blended,Whiskey (blended),LIQUOR,0
+258,0,0,Brut Champagne,champagne,Champagne,LIQUOR,0
+259,0,0,Prosecco Sparkling Wine,sparkling_whitewine,Sparkling Wine (white),LIQUOR,0
+260,0,0,Johnnie Walker Scotch,scotch,Scotch,LIQUOR,0
+261,0,0,Scotch,scotch,,LIQUOR,0
+262,0,0,Tanqueray Gin,gin,Gin,LIQUOR,0
+263,0,0,Olmeca Gold Tequila,tequila_gold,Tequila (gold),LIQUOR,0
+264,0,0,Old Overholt Whiskey,whiskey,Whiskey,LIQUOR,0
+265,0,0,Ice (crushed),ice,,MIXER,0
+266,0,0,Wine (white),whitewine,,LIQUOR,0
+267,0,0,Canadian Mist Whiskey,whiskey,Whiskey,LIQUOR,0
+268,0,0,Cherries (maraschino),cherry,,GARNISH,0
+269,0,0,Black Velvet Whiskey,whiskey,Whiskey,LIQUOR,0
+270,0,0,Perfect 1864 Vodka,vodka_,Vodka,LIQUOR,0
+271,0,0,Hayman's Old Tom,gin,Gin,LIQUOR,0
+272,0,0,Lotus Vodka,vodka_,Vodka,LIQUOR,0
+273,0,0,Cruzan Rum,rum_,Rum,LIQUOR,0
+274,0,0,Uganda Waragi Gin,gin,Gin,LIQUOR,0
+275,0,0,Peaches,peach_garnish,,GARNISH,0
+276,0,0,Sazerac Whiskey,whiskey,Whiskey,LIQUOR,0
+277,0,0,Rain Vodka,vodka_,Vodka,LIQUOR,0
+278,0,0,Suntory Rum,rum_,Rum,LIQUOR,0
+279,0,0,Wild Turkey Whiskey,whiskey,Whiskey,LIQUOR,0
+280,0,0,Prichard's Whiskey,whiskey,Whiskey,LIQUOR,0
+281,0,0,Armagnac Brandy,brandy,Brandy,LIQUOR,0
+282,0,0,Sweet-and-Sour,sweet_sour,,MIXER,0
+283,0,0,Schnapps (watermelon),schnapps_watermelon,,LIQUOR,0
+284,0,0,Honey,honey_garnish,,GARNISH,0
+285,0,0,10 Cane Rum,rum_,Rum,LIQUOR,0
+286,0,0,Lemon Peel,lemon_peel,,GARNISH,0
+287,0,0,Lime Juice,lime_juice,,MIXER,0
+288,0,0,Graham Crackers,graham_crackers,,GARNISH,0
+289,0,0,Square One Organic Vodka,vodka_,Vodka,LIQUOR,0
+290,0,0,Viru Valge Vodka,vodka_,Vodka,LIQUOR,0
+291,0,0,Horseradish,horseradish,,MIXER,0
+292,0,0,Hot Chocolate,coffee,,MIXER,0
+293,0,0,Schnapps (strawberry),schnapps_strawberry,,LIQUOR,0
+294,0,0,Rum (pineapple),rum_pineapple,,LIQUOR,0
+295,0,0,Schnapps (root beer),schnapps_rootbeer,,LIQUOR,0
+296,0,0,Pisco,brandy_grape,Brandy (grape),LIQUOR,0
+297,0,0,Hpnotiq Liqueur,hpnotiq,,LIQUOR,0
+298,0,0,Hanger One Vodka,vodka_,Vodka,LIQUOR,0
+299,0,0,Sambuca (black),sambuca_white,,LIQUOR,0
+300,0,0,Grand Marnier,grand_marnier,,LIQUOR,0
+301,0,0,Tito's Handmade Vodka,vodka_,Vodka,LIQUOR,0
+302,0,0,Creme de Violette,creme_de_violette,,LIQUOR,0
+303,0,0,McCarthy's Whiskey,whiskey,Whiskey,LIQUOR,0
+304,0,0,Firefly Vodka,vodka_,Vodka,LIQUOR,0
+305,0,0,Pepsi,cola,Cola,MIXER,0
+306,0,0,Water (spring),water,,MIXER,0
+307,0,0,Cinnamon,cinnamon_garnish,,GARNISH,0
+308,0,0,Minskaya Kristall Vodka,vodka_,Vodka,LIQUOR,0
+309,0,0,Bacon,bacon_garnish,,GARNISH,0
+310,0,0,Orgeat Syrup,orgeat_syrup,,MIXER,0
+311,0,0,Asbach Uralt Brandy,brandy,Brandy,LIQUOR,0
+312,0,0,Sugar (granulated),sugar,,GARNISH,0
+313,0,0,Kiwi Liqueur,kiwi_liqueur,,LIQUOR,0
+314,0,0,Strawberry Juice,strawberry_juice,,MIXER,0
+315,0,0,Mint,mint,,GARNISH,0
+316,0,0,Absolut Vodka,vodka_,Vodka,LIQUOR,0
+317,0,0,Barton Premium Blend Whiskey,whiskey_blended,Whiskey (blended),LIQUOR,0
+318,0,0,Madeira,madeira,,LIQUOR,0
+319,0,0,Varadero Rum,rum_,Rum,LIQUOR,0
+320,0,0,Applejack,applejack,,LIQUOR,0
+321,0,0,Schnapps (blackberry),schnapps_blackberry,,LIQUOR,0
+322,0,0,Garlic Powder,garlic_powder,,MIXER,0
+323,0,0,Wine (red),redwine,,LIQUOR,0
+324,0,0,Rum (black),rum_dark,Rum (dark),LIQUOR,0
+325,0,0,Cristal Limon Rum,rum_,Rum,LIQUOR,0
+326,0,0,Cacique Rum,rum_,Rum,LIQUOR,0
+327,0,0,Blavod Vodka,vodka_,Vodka,LIQUOR,0
+328,0,0,Sixty Six Rum,rum_,Rum,LIQUOR,0
+329,0,0,Angostura Bitters,bitters_angostura,Bitters,LIQUOR,0
+330,0,0,Blackberries,blackberries,,GARNISH,0
+331,0,0,Xan Vodka,vodka_,Vodka,LIQUOR,0
+332,0,0,Milk,milk,,MIXER,0
+333,0,0,Rum (orange),rum_orange,Rum,LIQUOR,0
+334,0,0,Schnapps (vanilla),schnapps_vanilla,,LIQUOR,0
+335,0,0,Apple Liqueur,apple_liqueur,,LIQUOR,0
+336,0,0,DeKuyper Hot Damn Schnapps (cinnamon),schnapps_cinnamon,Schnapps (cinnamon),LIQUOR,0
+337,0,0,Whiskey,whiskey,,LIQUOR,0
+338,0,0,Polonaise Vodka,vodka_,Vodka,LIQUOR,0
+339,0,0,Jose Cuervo Tequila,tequila,Tequila,LIQUOR,0
+340,0,0,Gin (dry),gin_dry,Gin,LIQUOR,0
+341,0,0,Apricot Liqueur,apricot_liqueur,,LIQUOR,0
+342,0,0,Old Crow Bourbon,bourbon,Bourbon,LIQUOR,0
+343,0,0,Brandy,brandy,,LIQUOR,0
+344,0,0,Vanilla Liqueur,vanilla_liqueur,,LIQUOR,0
+345,0,0,Cocktail Onion,cocktailonion_garnish,,GARNISH,0
+346,0,0,Catoctin Creek Gin,gin,Gin,LIQUOR,0
+347,0,0,Grenadine,grenadine,,LIQUOR,0
+348,0,0,Elderflower Liqueur,elderflower_liqueur,,LIQUOR,0
+349,0,0,Vodka 14,vodka_,Vodka,LIQUOR,0
+350,0,0,St Germain Elderflower Liqueur,elderflower_liqueur,Elderflower Liqueur,LIQUOR,0
+351,0,0,Fruit Punch,hawaiian_punch,,MIXER,0
+352,0,0,Bombay Sapphire Gin,gin,Gin,LIQUOR,0
+353,0,0,Seagram's Gin,gin,Gin,LIQUOR,0
+354,0,0,Tequila,tequila,,LIQUOR,0
+355,0,0,Tang,orange_juice,,MIXER,0
+356,0,0,Gelato,gelato,,GARNISH,0
+357,0,0,Cherry Soda,cherry_cola,,MIXER,0
+358,0,0,Raspberry Syrup,raspberry_syrup,,MIXER,0
+359,0,0,Maraschino Liqueur,maraschino_liqueur,,LIQUOR,0
+360,0,0,Bananas,bananas,,GARNISH,0
+361,0,0,Tonic Water,tonic_water,,MIXER,0
+362,0,0,Marie Brizard Creme de Mure,blackberry_liqueur,Black Berry Liqueur,LIQUOR,0
+363,0,0,Mountain Dew,cola,,MIXER,0
+364,0,0,Sprite,sprite,Lemon-Lime Cola,MIXER,0
+365,0,0,Raspberry Liqueur,raspberry_liqueur,,LIQUOR,0
+366,0,0,Strawberry Puree,strawberry_puree,,MIXER,0
+367,0,0,Vodka (peach),vodka_peach,,LIQUOR,0
+368,0,0,Brandy (blackberry),brandy_blackberry,,LIQUOR,0
+369,0,0,Rum (white),rum_light,Rum (light),LIQUOR,0
+370,0,0,Tia Maria Coffee Liqueur,coffee_liqueur,Coffee Liqueur,LIQUOR,0
+371,0,0,Claret,claret,,LIQUOR,0
+372,0,0,Margaritaville Tequila,tequila,Tequila,LIQUOR,0
+373,0,0,Olive Juice,olive_juice,,MIXER,0
+374,0,0,Bacon Vodka,vodka_,,LIQUOR,0
+375,0,0,Brandy (apricot),brandy_apricot,,LIQUOR,0
+376,0,0,Orange Liqueur,orange_liqueur,,LIQUOR,0
+377,0,0,Old Monk Rum,rum_,Rum,LIQUOR,0
+378,0,0,Eggs,eggs_garnish,,GARNISH,0
+379,0,0,Black Dot Vodka,vodka_,Vodka,LIQUOR,0
+380,0,0,Tequila (vanilla),tequila_vanilla,,LIQUOR,0
+381,0,0,Rittenhouse Whiskey,whiskey,Whiskey,LIQUOR,0
+382,0,0,Cola,cola,,MIXER,0
+383,0,0,Passion Fruit Syrup,passionfruit_syrup,,MIXER,0
+384,0,0,Sherbet (orange),orange_sherbet,,MIXER,0
+385,0,0,Orange Peel,orangepeel_garnish,,GARNISH,0
+386,0,0,Bacardi 151,rum_151,Rum (151 proof),LIQUOR,0
+387,0,0,Vanilla Bean,vanilla_bean,,GARNISH,0
+388,0,0,Onion Powder,onion_powder,,MIXER,0
+389,0,0,Kirschwasser Brandy (cherry),brandy_cherry,Brandy (cherry),LIQUOR,0
+390,0,0,Sake,sake,,LIQUOR,0
+391,0,0,Bundaberg Rum,rum_,Rum,LIQUOR,0
+392,0,0,Pampero Rum,rum_,Rum,LIQUOR,0
+393,0,0,Rock and Rye,rockandrye,,LIQUOR,0
+394,0,0,Maple Syrup,maple_syrup,,MIXER,0
+395,0,0,Cabin Still Bourbon,bourbon,Bourbon,LIQUOR,0
+396,0,0,Stout,beer,,LIQUOR,0
+397,0,0,Drambuie,drambuie,,LIQUOR,0
+398,0,0,Courvoisier Cognac,cognac,Cognac,LIQUOR,0
+399,0,0,Vodka (currant),vodka_currant,,LIQUOR,0
+400,0,0,Crown Royal Whiskey,whiskey,Whiskey,LIQUOR,0
+401,0,0,Black Currant Liqueur,blackcurrant_liqueur,,LIQUOR,0
+402,0,0,Port (LBV),port_lbv,Port,LIQUOR,0
+403,0,0,Gordon's Gin,gin,Gin,LIQUOR,0
+404,0,0,Keglevich Vodka,vodka_,Vodka,LIQUOR,0
+405,0,0,Zima,beer,,LIQUOR,0
+406,0,0,Tomato Juice,tomato_juice,,MIXER,0
+407,0,0,Vermouth (rosso),vermouth_rosso,,LIQUOR,0
+408,0,0,Nikolai Vodka,vodka_,Vodka,LIQUOR,0
+409,0,0,George Dickel Whiskey,whiskey,Whiskey,LIQUOR,0
+410,0,0,Jack Daniel's Downhome Punch,jack_daniels_punch,,LIQUOR,0
+411,0,0,Ginebra San Miguel Gin,gin,Gin,LIQUOR,0
+412,0,0,Beenleigh,rum_,Rum,LIQUOR,0
+413,0,0,Vodka,vodka_,,LIQUOR,0
+414,0,0,Club Soda,club_soda,,MIXER,0
+415,0,0,Irish Cream,irish_cream,,LIQUOR,0
+416,0,0,Canadian Whiskey,whiskey_canadian,Whiskey,LIQUOR,0
+417,0,0,Jagermeister,jagermeister,Schnapps (cinnamon),LIQUOR,0
+418,0,0,Galliano,galliano_liqueur,Herbal Liqueur,LIQUOR,0
+419,0,0,Creme de Cacao,creme_cacao,,LIQUOR,0
+420,0,0,Montezuma Gold Tequila,tequila_gold,Tequila (gold),LIQUOR,0
+421,0,0,Coconuts,coconut_garnish,,MIXER,0
+422,0,0,Smirnoff Vodka,vodka_,Vodka,LIQUOR,0
+423,0,0,Cactus Liqueur,cactus_liqueur,,LIQUOR,0
+424,0,0,Gosling's Rum,rum_,Rum,LIQUOR,0
+425,0,0,Grapefruit Juice,grapefruit_juice,,MIXER,0
+426,0,0,Maker's Mark Bourbon,bourbon,Bourbon,LIQUOR,0
+427,0,0,Early Times Whiskey,whiskey_blended,Whiskey (blended),LIQUOR,0
+428,0,0,Michter's Rye Whiskey,whiskey,Whiskey,LIQUOR,0
+429,0,0,Oronoco Rum,rum_,Rum,LIQUOR,0
+430,0,0,Viuda de Sanchez,sangrita,,LIQUOR,0
+431,0,0,Mixed-Berry Marinade,mixedberry_marinade,,MIXER,0
+432,0,0,Rum (coconut),rum_coconut,,LIQUOR,0
+433,0,0,Cointreau,triple_sec,Triple Sec,LIQUOR,0
+434,0,0,7-Up,7up,Lemon-Lime Cola,MIXER,0
+435,0,0,Popov Vodka,vodka_,Vodka,LIQUOR,0
+436,0,0,Creme de Menthe (white),creme_menthe_white,,LIQUOR,0
+437,0,0,Rum,rum_,,LIQUOR,0
+438,0,0,Coconut Milk,coconut_milk,,MIXER,0
+439,0,0,Southern Comfort,southerncomfort,Whiskey,LIQUOR,0
+440,0,0,Collins Mix,collins_mix,,MIXER,0
+441,0,0,Three Olives Vodka,vodka_,Vodka,LIQUOR,0
+442,0,0,Margaritaville Gold Tequila,tequila_gold,Tequila (gold),LIQUOR,0
+443,0,0,Schnapps (peach),schnapps_peach,,LIQUOR,0
+444,0,0,Rum (dark),rum_dark,Rum,LIQUOR,0
+445,0,0,Jameson Irish Whiskey,whiskey,Whiskey,LIQUOR,0
+446,0,0,Old Grand-Dad Blended Whiskey,whiskey_blended,Whiskey (blended),LIQUOR,0
+447,0,0,Sang Som Rum,rum_,Rum,LIQUOR,0
+448,0,0,Cherries,cherry,,GARNISH,0
+449,0,0,Orange Cola,orange_cola,,MIXER,0
+450,0,0,Ron Zacapa Rum,rum_,Rum,LIQUOR,0
+451,0,0,Bacardi (white),rum_light,Rum (white),LIQUOR,0
+452,0,0,Boodles British Gin,gin,Gin,LIQUOR,0
+453,0,0,Clamato Juice,clamato_juice,,MIXER,0
+454,0,0,Kahlua,coffee_liqueur,Coffee Liqueur,LIQUOR,0
+455,0,0,Apples,apple_garnish,,GARNISH,0
+456,0,0,Almonds,almonds,,GARNISH,0
+457,0,0,Apple Cider,apple_cider,,MIXER,0
+458,0,0,Razzmatazz,razzmatazz,,LIQUOR,0
+459,0,0,Southern Comfort Peach Liqueur,southerncomfort_peach,Peach Liqueur,LIQUOR,0
+460,0,0,Ricard,ricard,Pastis,LIQUOR,0
+461,0,0,Cream of Coconut,coconut_cream,,MIXER,0
+462,0,0,Passion Fruit Juice,passionfruit_juice,,MIXER,0
+463,0,0,Chocolate Liqueur,chocolate_liqueur,,LIQUOR,0
+464,0,0,Bailey's Irish Cream,irish_cream,Irish Cream,LIQUOR,0
+465,0,0,Coconut Liqueur,coconut_liqueur,,LIQUOR,0
+466,0,0,Plymouth Gin,gin,Gin,LIQUOR,0
+467,0,0,Captain Morgan Parrot Bay Pineapple Rum,rum_pineapple,Rum (pineapple),LIQUOR,0
+468,0,0,Vinegar,vinegar,,MIXER,0
+469,0,0,Knob Creek Bourbon,bourbon,Bourbon,LIQUOR,0
+470,0,0,Melon Liqueur,melon_liqueur,,LIQUOR,0
+471,0,0,Cream Soda,cola,,MIXER,0
+472,0,0,Pusser's Rum,rum_,Rum,LIQUOR,0
+473,0,0,Vodka (orange),vodka_orange,,LIQUOR,0
+474,0,0,Lamb's Rum,rum_,Rum,LIQUOR,0
+475,0,0,High West Whiskey,whiskey,Whiskey,LIQUOR,0
+476,0,0,Vermouth (dry),vermouth_dry,,LIQUOR,0
+477,0,0,Nicholson's Gin,gin,Gin,LIQUOR,0
+478,0,0,Chartreuse (green),chartreuse_green,,LIQUOR,0
+479,0,0,Schnapps (raspberry),schnapps_raspberry,,LIQUOR,0
+480,0,0,Glen Grant Scotch,scotch,Scotch,LIQUOR,0
+481,0,0,Ice,ice,,MIXER,0
+482,0,0,Chambord,raspberry_liqueur,Raspberry Liqueur,LIQUOR,0
+483,0,0,Tea (hot),tea,Tea,MIXER,0
+484,0,0,Schnapps (lemon),schnapps_lemon,,LIQUOR,0
+485,0,0,Blackwood's Gin,gin,Gin,LIQUOR,0
+486,0,0,Sauza Gold Tequila,tequila_gold,Tequila (gold),LIQUOR,0
+487,0,0,Cognac,cognac,,LIQUOR,0
+488,0,0,Rum (spiced),rum_spiced,,LIQUOR,0
+489,0,0,Vodka 7000,vodka_,Vodka,LIQUOR,0
+490,0,0,Canefire Rum,rum_,Rum,LIQUOR,0
+491,0,0,SKYY Vodka,vodka_,Vodka,LIQUOR,0
+492,0,0,Lemon Soda,7up,,MIXER,0
+493,0,0,Vodka (chocolate),vodka_chocolate,,LIQUOR,0
+494,0,0,Strega Herbal Liqueur,herbal_liqueur,Herbal Liqueur,LIQUOR,0
+495,0,0,Campari,campari,,LIQUOR,0
+496,0,0,Vodka (cherry),vodka_cherry,,LIQUOR,0
+497,0,0,Frangelico,frangelico_liqueur,Hazelnut Liqueur,LIQUOR,0
+498,0,0,Squirt,sprite,Lemon-Lime Cola,MIXER,0
+499,0,0,El Jimador Tequila,tequila,Tequila,LIQUOR,0
+500,0,0,Pimm's No. 1,pimms,,LIQUOR,0
+501,0,0,Pink Lemonade,lemonade,,MIXER,0
+502,0,0,Dubra Vodka,vodka_,Vodka,LIQUOR,0
+503,0,0,Old Overholt Rye Whiskey,whiskey,Whiskey,LIQUOR,0
+504,0,0,Midori,melon_liqueur,Melon Liqueur,LIQUOR,0
+505,0,0,Hazelnut Liqueur,hazelnut_liqueur,,LIQUOR,0
+506,0,0,Rendezvous Whiskey,whiskey,Whiskey,LIQUOR,0
+507,0,0,Gin (sloe),gin_sloe,,LIQUOR,0
+508,0,0,Chartreuse (yellow),chartreuse_yellow,,LIQUOR,0
+509,0,0,Buffalo Trace Whiskey,whiskey,Whiskey,LIQUOR,0
+510,0,0,Sugar,sugar,,GARNISH,0
+511,0,0,The Hoochery Rum,rum_,Rum,LIQUOR,0
+512,0,0,Virginia Gentleman Bourbon,bourbon,Bourbon,LIQUOR,0
+513,0,0,Orange Juice,orange_juice,,MIXER,0
+514,0,0,Juarez Tequila,tequila,Tequila,LIQUOR,0
+515,0,0,Wild Turkey Bourbon,bourbon,Bourbon,LIQUOR,0
+516,0,0,Vodka (grapefruit),vodka_,,LIQUOR,0
+517,0,0,Newfoundland Screech Rum,rum_,Rum,LIQUOR,0
+518,0,0,Tanduay Rum,rum_,Rum,LIQUOR,0
+519,0,0,Tabasco Sauce,tabasco,,MIXER,0
+520,0,0,Ultimat Vodka,vodka_,Vodka,LIQUOR,0
+521,0,0,Aftershock,aftershock,,LIQUOR,0
+522,0,0,Roundstone Whiskey,whiskey,Whiskey,LIQUOR,0
+523,0,0,Anis,annisette_liqueur,,LIQUOR,0
+524,0,0,Violet Liqueur,violet_liqueur,,LIQUOR,0
+525,0,0,Bacardi,rum_,Rum,LIQUOR,0
+526,0,0,Bitter Lemon,bitter_lemon,,LIQUOR,0
+527,0,0,Espresso,coffee,,MIXER,0
+528,0,0,Artemi Rum,rum_,Rum,LIQUOR,0
+529,0,0,Dubonnet Rouge,dubonnetrouge_liqueur,,LIQUOR,0
+530,0,0,Beef Bouillon,beef_bouillon,,MIXER,0
+531,0,0,Cocoa Powder,cocoa_powder,,GARNISH,0
+532,0,0,Isensua Vodka,vodka_,Vodka,LIQUOR,0
+533,0,0,Sugar (powdered),sugar_powdered,,GARNISH,0
+534,0,0,Fee Brothers Bitters,bitters_,Bitters,LIQUOR,0
+535,0,0,Tequila (gold),tequila_gold,Tequila,LIQUOR,0
+536,0,0,Gin,gin,,LIQUOR,0
+537,0,0,Fernet Branca,fernet_branca,,LIQUOR,0
+538,0,0,Sunny Delight,orange_juice,,MIXER,0
+539,0,0,Glen Moray Scotch,scotch,Scotch,LIQUOR,0
+540,0,0,Rebel Yell Bourbon,bourbon,Bourbon,LIQUOR,0
+541,0,0,Water (hot),water,,MIXER,0
+542,0,0,Pomegranate Juice,pomegranate_juice,,MIXER,0
+543,0,0,Killepitsch,herbal_liqueur,,LIQUOR,0
+544,0,0,Aperol,aperol,,LIQUOR,0
+545,0,0,Brandy (ginger),brandy_ginger,,LIQUOR,0
+546,0,0,Honey Syrup,honey_syrup,Honey,MIXER,0
+547,0,0,Carrot Juice,carrot_juice,,MIXER,0
+548,0,0,Serrano Chiles,serranochiles,,MIXER,0
+549,0,0,Ginger Syrup,ginger_syrup,,MIXER,0
+550,0,0,Agave Nectar,agave_nectar,,MIXER,0
+551,0,0,Forbidden Fruit Liqueur,forbiddenfruit_liqueur,,LIQUOR,0
+552,0,0,Ginger Wine,wine_ginger,,LIQUOR,0
+553,0,0,Peach Juice,peach_juice,,MIXER,0
+554,0,0,Mescal,mescal,,LIQUOR,0
+555,0,0,Bell Pepper,bellpepper,,MIXER,0
+556,0,0,Cilantro,cilantro,,MIXER,0
+557,0,0,Ginger,ginger,,MIXER,0
+558,0,0,Beet Juice,beet_juice,,MIXER,0
+559,0,0,Velvet Falernum,velvet_felernum,,MIXER,0
+560,0,0,Lagavulin,scotch,Scotch,LIQUOR,0
+561,0,0,Ardberg,scotch,Scotch,LIQUOR,0
+562,0,0,Macallen,scotch,Scotch,LIQUOR,0
+563,0,0,Cava,champagne,Champagne,LIQUOR,0
+564,0,0,Rosemary,rosemary,,GARNISH,0
+565,0,0,Grapefruit,grapefruit,,GARNISH,0
+566,0,0,Beets,beets,,GARNISH,0
+567,0,0,Laphroaig,scotch,Scotch,LIQUOR,0
+568,0,0,Caol Isla,scotch,Scotch,LIQUOR,0
+569,0,0,Cloves,cloves,,MIXER,0
+570,0,0,Tea (black),tea,Tea,MIXER,0
+571,0,0,Tobasco Sauce,tobasco,,MIXER,0
+572,0,0,Tea (iced),tea,Tea,MIXER,0
+573,0,0,Hennessy (Very Special) ,cognac,Cognac,LIQUOR,0
+574,0,0,Oro De Oaxaca Mescal,mescal,Mescal,LIQUOR,0
+575,0,0,Longrow CV Scotch,scotch,Scotch,LIQUOR,0
+576,0,0,Courvoisier XO Imperial Cognac,cognac,Cognac,LIQUOR,0
+577,0,0,Gran Patron Platinum Tequila,tequila,Tequila,LIQUOR,0
+578,0,0,Bacardi Oakheart Spiced Rum,rum_spiced,Rum (spiced),LIQUOR,0
+579,0,0,Herradura Reposado Tequila,tequila,Tequila,LIQUOR,0
+580,0,0,The Botanist Gin,gin,Gin,LIQUOR,0
+581,0,0,Ron Barcelo Platinum Rum,rum_light,Rum (white),LIQUOR,0
+582,0,0,Courvoisier 12 Cognac,cognac,Cognac,LIQUOR,0
+583,0,0,Remy Martin XO Excellence,cognac,Cognac,LIQUOR,0
+584,0,0,Gilbey's Vodka,vodka_,Vodka,LIQUOR,0
+585,0,0,Balvenie Caribbean Cask,scotch,Scotch,LIQUOR,0
+586,0,0,Longrow 18 YO Scotch,scotch,Scotch,LIQUOR,0
+587,0,0,Espolon Tequila Reposado,tequila,Tequila,LIQUOR,0
+588,0,0,Glenmorangie Finealta,scotch,Scotch,LIQUOR,0
+589,0,0,Death's Door Gin,gin,Gin,LIQUOR,0
+590,0,0,Corralejo Triple Distilled Tequila,tequila,Tequila,LIQUOR,0
+591,0,0,Buchanan's Red Seal Scotch,scotch,Scotch,LIQUOR,0
+592,0,0,Hornitos Reposado Tequila,tequila,Tequila,LIQUOR,0
+593,0,0,St. Remy VSOP Brandy,brandy,Brandy,LIQUOR,0
+594,0,0,Smirnoff Cranberry Vodka,vodka_cranberry,Vodka (cranberry),LIQUOR,0
+595,0,0,Chinaco Anejo Tequila,tequila,Tequila,LIQUOR,0
+596,0,0,Laphroaig Quarter Cask Scotch,scotch,Scotch,LIQUOR,0
+597,0,0,Bowman's Virginia Gin,gin,Gin,LIQUOR,0
+598,0,0,Patron XO Cafe,coffee_liqueur,Coffee Liqueur,LIQUOR,0
+599,0,0,Glenmorangie Original,scotch,Scotch,LIQUOR,0
+600,0,0,Bowmore 15 YO Scotch,scotch,Scotch,LIQUOR,0
+601,0,0,Grant's Family Reserve,scotch,Scotch,LIQUOR,0
+602,0,0,Smirnoff Pineapple Vodka,vodka_pineapple,Vodka (pineapple),LIQUOR,0
+603,0,0,Remy Martin VS Cognac,cognac,Cognac,LIQUOR,0
+604,0,0,Chivas Regal 18 YO Scotch,scotch,Scotch,LIQUOR,0
+605,0,0,Courvoisier VSOP Cognac,cognac,Cognac,LIQUOR,0
+606,0,0,1800 Silver Select Tequila,tequila,Tequila (silver),LIQUOR,0
+607,0,0,Herradura Anejo Tequila,tequila,Tequila,LIQUOR,0
+608,0,0,Kapali Coffee Liqueur,coffee_liqueur,Coffee Liqueur,LIQUOR,0
+609,0,0,Glenmorangie 18 YO,scotch,Scotch,LIQUOR,0
+610,0,0,Death's Door Vodka,vodka_,Vodka,LIQUOR,0
+611,0,0,Six Vodka,vodka_,Vodka,LIQUOR,0
+612,0,0,Courvoisier 21 Cognac,cognac,Cognac,LIQUOR,0
+613,0,0,White Oak Rum,rum_,Rum,LIQUOR,0
+614,0,0,Tequila (silver),tequila,Tequila,LIQUOR,0
+615,0,0,Regan's Orange Bitters,bitters_orange,Bitters (orange),LIQUOR,0
+616,0,0,Laphroaig 18 YO Scotch,scotch,Scotch,LIQUOR,0
+617,0,0,Ron Barcelo Imperial Rum,rum_gold,Rum (gold),LIQUOR,0
+618,0,0,Corralejo Anejo Tequila,tequila,Tequila,LIQUOR,0
+619,0,0,Buchanan's Master Scotch,scotch,Scotch,LIQUOR,0
+620,0,0,Balvenie Cuban Cask,scotch,Scotch,LIQUOR,0
+621,0,0,Bowmore 18 YO Scotch,scotch,Scotch,LIQUOR,0
+622,0,0,Ballantine's Limited,scotch,Scotch,LIQUOR,0
+623,0,0,1800 Silver Tequila,tequila,Tequila (silver),LIQUOR,0
+624,0,0,Kai Vodka,vodka_,Vodka,LIQUOR,0
+625,0,0,Buchanan's Black & White Scotch,scotch,Scotch,LIQUOR,0
+626,0,0,Remy Martin XO Premier CRU,cognac,Cognac,LIQUOR,0
+627,0,0,Smirnoff Raspberry Vodka,vodka_raspberry,Vodka (raspberry),LIQUOR,0
+628,0,0,Glenmorangie Signet,scotch,Scotch,LIQUOR,0
+629,0,0,Tullamore Dew Irish Whiskey,whiskey_irish,Irish Whiskey,LIQUOR,0
+630,0,0,Remy Martin VSOP Cognac,cognac,Cognac,LIQUOR,0
+631,0,0,Courvoisier C Cognac,cognac,Cognac,LIQUOR,0
+632,0,0,Rebel Reserve Bourbon,bourbon,Bourbon,LIQUOR,0
+633,0,0,Ron Barcelo Blanco Rum,rum_light,Rum (white),LIQUOR,0
+634,0,0,Glenmorangie Quinta Ruban,scotch,Scotch,LIQUOR,0
+635,0,0,Zacapa 23 Rum,rum_,Rum,LIQUOR,0
+636,0,0,Patron Silver Tequila,tequila,Tequila (silver),LIQUOR,0
+637,0,0,Sailor Jerry Spiced Rum,rum_spiced,Rum (spiced),LIQUOR,0
+638,0,0,Laphroaig 25 YO Scotch,scotch,Scotch,LIQUOR,0
+639,0,0,Zacapa XO Rum,rum_,Rum,LIQUOR,0
+640,0,0,Chivas Regal 25 YO Scotch,scotch,Scotch,LIQUOR,0
+641,0,0,Balvenie Signature,scotch,Scotch,LIQUOR,0
+642,0,0,Something Special Scotch,scotch,Scotch,LIQUOR,0
+643,0,0,Bowmore 25 YO Scotch,scotch,Scotch,LIQUOR,0
+644,0,0,Irish Manor Legendary Irish Cream,irish_cream,Irish Cream,LIQUOR,0
+645,0,0,Godiva Chocolate Liqueur,chocolate_liqueur,Chocolate Liqueur,LIQUOR,0
+646,0,0,Ballantine's 30 YO,scotch,Scotch,LIQUOR,0
+647,0,0,Glenmorangie 25 YO,scotch,Scotch,LIQUOR,0
+648,0,0,1800 Reposado Tequila,tequila,Tequila,LIQUOR,0
+649,0,0,Remy Martin Vintage 1988,cognac,Cognac,LIQUOR,0
+650,0,0,Grant's 25 YO,scotch,Scotch,LIQUOR,0
+651,0,0,Vox Vodka,vodka_,Vodka,LIQUOR,0
+652,0,0,Grant's 18 YO,scotch,Scotch,LIQUOR,0
+653,0,0,Death's Door White Whiskey,whiskey,Whiskey,LIQUOR,0
+654,0,0,Glenmorangie Lasanta,scotch,Scotch,LIQUOR,0
+655,0,0,Carolans,irish_cream,Irish Cream,LIQUOR,0
+656,0,0,Jose Cuervo Especial Silver,tequila,Tequila (silver),LIQUOR,0
+657,0,0,Grant's 12 YO,scotch,Scotch,LIQUOR,0
+658,0,0,Sobieski Vodka,vodka_,Vodka,LIQUOR,0
+659,0,0,Clase Azul Tequila,tequila,Tequila,LIQUOR,0
+660,0,0,Courvoisier VS Cognac,cognac,Cognac,LIQUOR,0
+661,0,0,Ron Barcelo Dorado Rum,rum_gold,Rum (gold),LIQUOR,0
+662,0,0,Balvenie Double Wood,scotch,Scotch,LIQUOR,0
+663,0,0,Buchanan's De Luxe 12 Scotch,scotch,Scotch,LIQUOR,0
+664,0,0,Courvoisier VSOP Exclusif Cognac,cognac,Cognac,LIQUOR,0
+665,0,0,Ballantine's 21 YO,scotch,Scotch,LIQUOR,0
+666,0,0,1800 Anejo Tequila,tequila,Tequila,LIQUOR,0
+667,0,0,Noilly Prat Original Dry,vermouth_dry,Vermouth (dry),LIQUOR,0
+668,0,0,Brandy (grape),brandy_grape,Brandy,LIQUOR,0
+669,0,0,Hornitos Plata Tequila,tequila,Tequila,LIQUOR,0
+670,0,0,Jose Cuervo Anejo Reserva De La Familia,tequila,Tequila,LIQUOR,0
+671,0,0,Woodford Reserve Bourbon,bourbon,Bourbon,LIQUOR,0
+672,0,0,Tribuno Sweet Vermouth,vermouth_sweet,Vermouth (sweet),LIQUOR,0
+673,0,0,Torres Honorable Brandy,brandy,Brandy,LIQUOR,0
+674,0,0,Koskenkorva Viina,vodka_,Vodka,LIQUOR,0
+675,0,0,Gran Centenario Reposado Tequila,tequila,Tequila,LIQUOR,0
+676,0,0,Vox Raspberry Vodka,vodka_raspberry,Vodka (raspberry),LIQUOR,0
+677,0,0,Camarena Silver Tequila,tequila,Tequila (silver),LIQUOR,0
+678,0,0,Remy Martin VSOP Premier CRU,cognac,Cognac,LIQUOR,0
+679,0,0,Patron Reposado Tequila,tequila,Tequila,LIQUOR,0
+680,0,0,Grant's Distillery Edition,scotch,Scotch,LIQUOR,0
+681,0,0,Remy Martin Vintage 1989,cognac,Cognac,LIQUOR,0
+682,0,0,Ballantine's 17 YO,scotch,Scotch,LIQUOR,0
+683,0,0,Noilly Prat Rouge,vermouth_sweet,Vermouth (sweet),LIQUOR,0
+684,0,0,Laphroaig 10 Year Old Scotch,scotch,Scotch,LIQUOR,0
+685,0,0,Ron Barcelo Anejo Rum,rum_gold,Rum (gold),LIQUOR,0
+686,0,0,Laphroaig Triple Wood Scotch,scotch,Scotch,LIQUOR,0
+687,0,0,Dolin Dry,vermouth_dry,Vermouth (dry),LIQUOR,0
+688,0,0,Glenmorangie Nectar D'Or,scotch,Scotch,LIQUOR,0
+689,0,0,Pike Creek Whiskey,whiskey,Whiskey,LIQUOR,0
+690,0,0,Dolin Blanc,vermouth_dry,Vermouth (dry),LIQUOR,0
+691,0,0,Smirnoff Melon Vodka,vodka_melon,Vodka (melon),LIQUOR,0
+692,0,0,1800 Coleccion Tequila,tequila,Tequila,LIQUOR,0
+693,0,0,Glenkinchie,scotch,Scotch,LIQUOR,0
+694,0,0,Dolin Rouge,vermouth_sweet,Vermouth (sweet),LIQUOR,0
+695,0,0,Black Berry Liqueur,blackberry_liqueur,,LIQUOR,0
+696,0,0,Sour Puss Raspberry Liqueur,raspberry_liqueur,Raspberry Liqueur,LIQUOR,0
+697,0,0,Hornitos Anejo Tequila,tequila,Tequila,LIQUOR,0
+698,0,0,Lambrusco,sparkling_redwine,Sparkling Wine (burgundy),LIQUOR,0
+699,0,0,Moët & Chandon,champagne,Champagne,LIQUOR,0
+700,0,0,Torres Jaime I Brandy,brandy,Brandy,LIQUOR,0
+701,0,0,Smirnoff Vanilla Vodka,vodka_vanilla,Vodka (vanilla),LIQUOR,0
+702,0,0,Ballantine's 12 YO,scotch,Scotch,LIQUOR,0
+703,0,0,Zinfandel,redwine,Wine (red),LIQUOR,0
+704,0,0,Noilly Prat Ambre,vermouth_sweet,Vermouth (sweet),LIQUOR,0
+705,0,0,Aberlour,scotch,Scotch,LIQUOR,0
+706,0,0,Courvoisier Napoleon Cognac,cognac,Cognac,LIQUOR,0
+707,0,0,Chardonnay,whitewine,Wine (white),LIQUOR,0
+708,0,0,Patron Citronge,orange_liqueur,Orange Liqueur,LIQUOR,0
+709,0,0,Glenmorangie Astar,scotch,Scotch,LIQUOR,0
+710,0,0,Patron Anejo Tequila,tequila,Tequila,LIQUOR,0
+711,0,0,Chianti,redwine,Wine (red),LIQUOR,0
+712,0,0,Herradura Silver Tequila,tequila,Tequila,LIQUOR,0
+713,0,0,Balvenie Founder's Reserve,scotch,Scotch,LIQUOR,0
+714,0,0,Smirnoff Apple Vodka,vodka_apple,Vodka (apple),LIQUOR,0
+715,0,0,Corralejo Reposado Tequila,tequila,Tequila,LIQUOR,0
+716,0,0,Sauvignon Blanc,whitewine,Wine (white),LIQUOR,0
+717,0,0,Laphroaig PX Cask Scotch,scotch,Scotch,LIQUOR,0
+718,0,0,Chinaco Blanco Tequila,tequila,Tequila (silver),LIQUOR,0
+719,0,0,E&J VS Brandy,brandy,Brandy,LIQUOR,0
+720,0,0,The Famous Grouse,scotch,Scotch,LIQUOR,0
+721,0,0,Pinot Gregio,redwine,Wine (red),LIQUOR,0
+722,0,0,Smirnoff Orange Vodka,vodka_orange,Vodka (orange),LIQUOR,0
+723,0,0,Gran Centenario Anejo Tequila,tequila,Tequila,LIQUOR,0
+724,0,0,Torres 20 Brandy,brandy,Brandy,LIQUOR,0
+725,0,0,Ballantine's Finest,scotch,Scotch,LIQUOR,0
+726,0,0,Remy Martin 1738 Accord Royal,cognac,Cognac,LIQUOR,0
+727,0,0,Tribuno Extra Dry Vermouth,vermouth_dry,Vermouth (dry),LIQUOR,0
+728,0,0,Bowmore Legend Scotch,scotch,Scotch,LIQUOR,0
+729,0,0,Grant's Sherry Cask Finish,scotch,Scotch,LIQUOR,0
+730,0,0,E&J VSOP Brandy,brandy,Brandy,LIQUOR,0
+731,0,0,St. Remy Napoleon Brandy,brandy,Brandy,LIQUOR,0
+732,0,0,E&J XO Brandy,brandy,Brandy,LIQUOR,0
+733,0,0,Camarena Reposado Tequila,tequila,Tequila,LIQUOR,0
+734,0,0,Irish Mist Whiskey,whiskey_irish,Irish Whiskey,LIQUOR,0
+735,0,0,Buchanan's Special Reserve 18 Scotch,scotch,Scotch,LIQUOR,0
+736,0,0,Thibarine,herbal_liqueur,Herbal Liqueur,LIQUOR,0
+737,0,0,Espolon Tequila Blanco,tequila,Tequila (silver),LIQUOR,0
+738,0,0,Laphroaig Cask Strength Scotch,scotch,Scotch,LIQUOR,0
+739,0,0,Ron Barcelo Gran Anejo Rum,rum_gold,Rum (gold),LIQUOR,0
+740,0,0,Remy Martin V,cognac,Cognac,LIQUOR,0
+741,0,0,Smirnoff Cherry Vodka,vodka_cherry,Vodka (cherry),LIQUOR,0
+742,0,0,Torres 10 Brandy,brandy,Brandy,LIQUOR,0
+743,0,0,Remy Martin Centaure De Diamant,cognac,Cognac,LIQUOR,0
+744,0,0,Longrow 14 YO Scotch,scotch,Scotch,LIQUOR,0
+745,0,0,Chivas Regal 12 YO Scotch,scotch,Scotch,LIQUOR,0
+746,0,0,Glenmorangie Sonnalta PX,scotch,Scotch,LIQUOR,0
+747,0,0,Tribuno Dry Vermouth,vermouth_dry,Vermouth (dry),LIQUOR,0
+748,0,0,Grant's Ale Cask Finish,scotch,Scotch,LIQUOR,0
+749,0,0,Courvoisier Initiale Extra Cognac,cognac,Cognac,LIQUOR,0
+750,0,0,Smirnoff Peach Vodka,vodka_peach,Vodka (peach),LIQUOR,0
+751,0,0,St. Remy XO Brandy,brandy,Brandy,LIQUOR,0
+752,0,0,Oban Single Malt,scotch,Scotch,LIQUOR,0
+753,0,0,Chinaco Reposado Tequila,tequila,Tequila,LIQUOR,0
+754,0,0,Torres 5 Brandy,brandy,Brandy,LIQUOR,0
+755,0,0,Captain Morgan Dark Rum,rum_dark,Rum (dark),LIQUOR,0
+756,0,0,Bowmore 12 YO Scotch,scotch,Scotch,LIQUOR,0
+757,0,0,Bowman's Virginia Vodka,vodka_,Vodka,LIQUOR,0

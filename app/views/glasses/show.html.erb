@@ -1,0 +1,22 @@
+<p id="notice"><%= notice %></p>
+
+<div class="title col-xs-12">
+  <h1>GLASS INFORMATION</h1>
+</div>
+
+<div class="col-xs-8">
+	<table>
+	  <tr>
+	    <td><strong>Name:</strong></td>
+	    <td style="padding-left: 20px;"><%= @glass.name %></td>
+	  </tr>
+	  <tr>
+	    <td><strong>Image:</strong></td>
+	    <td style="padding-left: 20px;"><%= image_tag @glass.image_url.url(:thumb) %></td>
+	  </tr>
+	</table>
+	<%= link_to 'Edit', edit_glass_path(@glass) %> |
+	<%= link_to 'Back', glasses_path %>
+</div>
+
+

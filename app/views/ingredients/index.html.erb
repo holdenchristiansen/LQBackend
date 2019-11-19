@@ -1,0 +1,35 @@
+<!-- p id="notice"><%= notice %></p-->
+
+<div class="title col-xs-12">
+  <h1>INGREDIENTS</h1>
+  <div class="col-xs-12 links">
+    <%= link_to 'New Ingredient', new_ingredient_path %>
+  </div>
+  
+</div>
+
+<div class="col-xs-12">
+    <div class="row">
+      <% @ingredients.each do |ingredient| %>
+      <div class="col-xs-4">
+        <h3 style="margin-bottom:0px"><%=link_to  ingredient.name, ingredient %></h3>
+        <% unless ingredient.secondaryname.blank? %>
+          <span><%=link_to  ingredient.secondaryname, ingredient %></span>      
+        <% end %>
+        
+      </div>
+      <% end %>
+  </div>
+
+
+<div class="pagination col-xs-12">
+  <%= will_paginate(@ingredients) %>
+</div>
+
+<%= form_tag ingredients_path, :method => :get do %>
+  <%= content_tag :label do %>
+    Search name:
+    <%= text_field_tag :q, params[:q] %>
+    <%= hidden_field_tag :page, 1 %>
+  <% end %>
+<% end %>

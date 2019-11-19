@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  alcoholic: 1
+  drinkid: 1
+  edited: 1
+  favorite: 1
+  issuggested: 1
+  glass: 1
+  information: MyString
+  instructions: MyString
+  name: MyString
+  notes: MyString
+
+two:
+  alcoholic: 1
+  drinkid: 1
+  edited: 1
+  favorite: 1
+  issuggested: 1
+  glass: 1
+  information: MyString
+  instructions: MyString
+  name: MyString
+  notes: MyString

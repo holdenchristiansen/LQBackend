@@ -1,0 +1,82 @@
+<div class="col-xs-12">
+  <div class="form-center">
+    <%= form_for @ingredient , html: {multipart: true, class: "form-horizontal form-edit-ingredient"} do |f| %>
+      <% if @ingredient.errors.any? %>
+        <div id="error_explanation">
+          <ul>
+          <% @ingredient.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+          <% end %>
+          </ul>
+        </div>
+      <% end %>
+
+      
+        <div class="form-group">
+          <%= f.label :name, 'New Name:', class:'control-label col-xs-3'  %>
+          <div class="col-xs-9">
+            <%= f.text_field :name, class:'form-control' %>
+          </div>
+        </div> 
+ 
+        <div class="form-group">  
+          <%= f.label :type, 'New type:', class:'control-label col-xs-3'  %>
+          <div class="col-xs-9">
+              <%= f.select(:type, [['Liquor', 'LIQUOR'], ['Mixer', 'MIXER'], ['Garnish', 'GARNISH']],{}, { :class => 'form-control' }) %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <%= f.label :ingredient, 'Primary Ingredient:', class:'control-label col-xs-3'  %>
+          <div class="col-xs-9">
+            <%= 
+              @distinct_ingredients = Ingredient.select(:name).where("secondaryname IS NULL OR secondaryname = ''").uniq.order(:name)
+
+              unless @ingredient.secondaryname.blank?
+                f.collection_select(:secondaryname, @distinct_ingredients, :name, :name, {:include_blank => "Please select"}, {:class => 'input-large form-control'})
+              else
+                f.collection_select(:secondaryname, @distinct_ingredients, :name, :name, {:include_blank => "Please select", :selected => ""}, {:class => 'input-large form-control'})
+              end
+             %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <%= f.label :name, 'Images:', class:'control-label col-xs-3', :style => 'padding-top: 0px;'  %>
+          <div class="col-xs-9">
+            <div class="col-xs-3">
+                <%= image_tag @ingredient.image_url.url, :id =>'target', :size => '100x120', :align => 'left', :style => 'padding-top: 0px;', :class => 'col-xs-12'%>
+                <div class="col-xs-12">Normal</div>
+            </div>
+            <div class="col-xs-1"></div>
+            <div class="col-xs-3">
+              <%= image_tag @ingredient.image_highlight_url.url, :id =>'target2', :size => '100x120', :align => 'left', :style => 'padding-top: 0px;', :class => 'col-xs-12'%>
+              <div class="col-xs-12">Highlighted</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <%= f.label :name, 'Select Image:', class:'control-label col-xs-3', :style => 'padding-top: 0px;'  %>
+          <div class="col-xs-9">
+            <%= f.file_field :image_url, :id =>'pictureInput' %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <%= f.label :name, 'Select Highlight Image:', class:'control-label col-xs-3', :style => 'padding-top: 0px;'  %>
+          <div class="col-xs-9">
+            <%= f.file_field :image_highlight_url, :id =>'pictureInput2' %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <div class="col-xs-12">
+              <%= f.submit :class => "btn btn-default" %>    
+              <%= link_to 'Back', ingredients_path, :class => "btn btn-default" %>
+            </div>
+        </div>
+    <% end %>    
+  </div>
+</div>
+

@@ -1,0 +1,2 @@
+module GarnishesHelper
+end

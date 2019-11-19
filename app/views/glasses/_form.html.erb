@@ -1,0 +1,51 @@
+<div class="col-xs-12">
+  <div class="form-center">
+    
+    <%= form_for @glass , html: {multipart: true, class: "form-horizontal form-edit"} do |f| %>
+      <% if @glass.errors.any? %>
+        <div id="error_explanation" class="col-xs-offset-4 col-xs-8">
+          <h2><%= pluralize(@glass.errors.count, "error") %> prohibited this glass from being saved:</h2>
+
+          <ul>
+          <% @glass.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+          <% end %>
+          </ul>
+        </div>
+      <% end %>
+
+
+         <div class="form-group">
+          <%= f.label :name, 'New Name:', class:'control-label col-xs-2'  %>
+          <div class="col-xs-10">
+            <%= f.text_field :name, class:'form-control'  %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <%= f.label :name, 'Image:', class:'control-label col-xs-2'  %>
+          <div class="col-xs-10">
+            <%= image_tag @glass.image_url.url, :id =>'target', :size => '150x150', :align => 'left', :style => 'padding-top: 0px;' %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <%= f.label :name, 'Select Image:', class:'control-label col-xs-2', :style => 'padding-top: 0px;'  %>
+          <div class="col-xs-10">
+            <%= f.file_field :image_url, :id =>'pictureInput' %>
+          </div>
+        </div>
+
+
+
+        <div class="form-group">
+          <div class="col-xs-12">
+              <%= f.submit :class => "btn btn-default" %>    
+              <%= link_to 'Back', glasses_path, :class => "btn btn-default" %>
+            </div>
+        </div>
+    <% end %>
+
+
+  </div>
+</div>

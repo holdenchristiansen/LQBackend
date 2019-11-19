@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  recipe_id: 
+  stepamount: 1
+  steptitle: MyText
+
+two:
+  recipe_id: 
+  stepamount: 1
+  steptitle: MyText
